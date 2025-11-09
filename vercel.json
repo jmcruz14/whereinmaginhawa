@@ -9,5 +9,5 @@
     "silent": false,
     "autoJobCancelation": true
   },
-  "ignoreCommand": "bash scripts/should-deploy.sh"
+  "ignoreCommand": "bash should-deploy.sh"
 }
