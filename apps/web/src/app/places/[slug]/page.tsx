@@ -11,6 +11,7 @@ import {
   ChevronLeft,
   ExternalLink,
   Edit3,
+  XCircle,
 } from 'lucide-react';
 import { getPlaceBySlug, getAllPlaces } from '@/lib/places';
 import { Badge } from '@/components/ui/badge';
@@ -285,22 +286,32 @@ export default async function PlacePage({ params }: PlacePageProps) {
 
                 <Separator />
 
-                {/* Report Issue Button */}
-                <Button
-                  variant="outline"
-                  size="default"
-                  asChild
-                  className="w-full gap-2 border-gray-300 hover:border-primary hover:bg-primary/5"
-                >
-                  <a
-                    href={`https://forms.gle/pu9VjrG7JNkYmm9K9?entry.123456789=${encodeURIComponent(place.name)}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                {/* Action Buttons */}
+                <div className="space-y-2">
+                  <Button
+                    variant="outline"
+                    size="default"
+                    asChild
+                    className="w-full gap-2 border-gray-300 hover:border-primary hover:bg-primary/5"
                   >
-                    <Edit3 className="w-4 h-4" />
-                    Report Outdated Information
-                  </a>
-                </Button>
+                    <Link href={`/places/${place.slug}/edit`}>
+                      <Edit3 className="w-4 h-4" />
+                      Suggest Changes
+                    </Link>
+                  </Button>
+
+                  <Button
+                    variant="outline"
+                    size="default"
+                    asChild
+                    className="w-full gap-2 border-red-300 text-red-600 hover:border-red-500 hover:bg-red-50"
+                  >
+                    <Link href={`/places/${place.slug}/delete`}>
+                      <XCircle className="w-4 h-4" />
+                      Report Closure
+                    </Link>
+                  </Button>
+                </div>
               </CardContent>
             </Card>
           </div>
