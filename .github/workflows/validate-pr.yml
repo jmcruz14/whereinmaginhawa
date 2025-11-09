@@ -94,9 +94,11 @@ jobs:
       - name: Comment PR - Success
         if: steps.changed-files.outputs.has_changes == 'true' && steps.validate.outputs.all_valid == 'true'
         uses: actions/github-script@v7
+        env:
+          VALIDATION_OUTPUT: ${{ steps.validate.outputs.validation_output }}
         with:
           script: |
-            const validationOutput = `${{ steps.validate.outputs.validation_output }}`;
+            const validationOutput = process.env.VALIDATION_OUTPUT;
             const output = `## ✅ Place File Validation Passed
 
             All changed place files have been validated successfully!
@@ -122,9 +124,11 @@ jobs:
       - name: Comment PR - Failure
         if: steps.changed-files.outputs.has_changes == 'true' && steps.validate.outputs.all_valid == 'false'
         uses: actions/github-script@v7
+        env:
+          VALIDATION_OUTPUT: ${{ steps.validate.outputs.validation_output }}
         with:
           script: |
-            const validationOutput = `${{ steps.validate.outputs.validation_output }}`;
+            const validationOutput = process.env.VALIDATION_OUTPUT;
             const output = `## ❌ Place File Validation Failed
 
             Some place files have validation errors that need to be fixed:
