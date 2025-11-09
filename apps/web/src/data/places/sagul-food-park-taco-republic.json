@@ -1,0 +1,72 @@
+{
+  "id": "64047298-28c9-4be9-9247-fce1781e83ae",
+  "name": "Sagul Food Park - Taco Republic",
+  "slug": "sagul-food-park-taco-republic",
+  "description": "Mexican food stall specializing in tacos, burritos, and quesadillas. Offers both traditional and fusion flavors with generous portions at student-friendly prices.",
+  "address": "Sagul Food Park, Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/SagulFoodPark",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "mexican",
+    "tacos",
+    "food-park",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "mexican",
+    "tex-mex"
+  ],
+  "specialties": [
+    "tacos",
+    "burritos",
+    "quesadillas",
+    "nachos"
+  ],
+  "latitude": 14.6437,
+  "longitude": 121.0644,
+  "createdAt": "2019-09-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

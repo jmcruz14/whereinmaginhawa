@@ -1,0 +1,78 @@
+{
+  "id": "b441308a-e033-4bcd-9f4a-5536a043e214",
+  "name": "Cong Caphe",
+  "slug": "cong-caphe",
+  "description": "Vietnamese coffee chain bringing authentic Vietnamese coffee culture to Manila. Famous for coconut coffee, egg coffee, and traditional Vietnamese iced coffee. Features vintage Saigon-inspired decor creating a nostalgic atmosphere.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/CongCaphePH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "vietnamese",
+    "coffee-shop",
+    "cafe",
+    "instagram-worthy",
+    "specialty-coffee"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "takeout",
+    "dine-in",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "vietnamese",
+    "coffee",
+    "cafe"
+  ],
+  "specialties": [
+    "coconut-coffee",
+    "egg-coffee",
+    "vietnamese-iced-coffee",
+    "vietnamese-snacks"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.0651,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

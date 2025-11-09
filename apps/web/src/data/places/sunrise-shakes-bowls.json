@@ -1,0 +1,74 @@
+{
+  "id": "fbdf6bb6-4da7-4e53-92f9-5da698666839",
+  "name": "Sunrise Shakes & Bowls",
+  "slug": "sunrise-shakes-bowls",
+  "description": "A health-focused cafe specializing in smoothie bowls, fresh juices, and nutritious breakfast options. Features colorful acai bowls, protein shakes, and Instagram-worthy presentations perfect for health-conscious diners.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 012 3456",
+  "email": "",
+  "website": "https://www.facebook.com/SunriseShakesBowls",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "healthy",
+    "smoothie-bowls",
+    "breakfast",
+    "instagram-worthy",
+    "fresh"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "healthy",
+    "breakfast"
+  ],
+  "specialties": [
+    "acai-bowls",
+    "smoothie-bowls",
+    "fresh-juices",
+    "protein-shakes"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0648,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

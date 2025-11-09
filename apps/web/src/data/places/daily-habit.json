@@ -1,0 +1,76 @@
+{
+  "id": "d592c1ae-5573-4b88-be1b-e8c4bd43d7c9",
+  "name": "Daily Habit",
+  "slug": "daily-habit",
+  "description": "A cozy neighborhood cafe serving specialty coffee, breakfast items, and light meals. Known for their welcoming atmosphere and quality coffee, making it a perfect spot for morning meetings or afternoon work sessions.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/DailyHabitPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "cafe",
+    "coffee",
+    "work-friendly",
+    "breakfast",
+    "cozy"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "breakfast"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "breakfast",
+    "pastries",
+    "brunch"
+  ],
+  "latitude": 14.6419,
+  "longitude": 121.0638,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ef9001ec-80f0-4f6c-8a29-9c02553fd356",
+  "name": "Sajang Chicken",
+  "slug": "sajang-chicken",
+  "description": "A Korean fried chicken specialist offering crispy chicken in various sauces and flavors. Popular for their yangnyeom chicken, soy garlic, and other Korean-style fried chicken varieties perfect for sharing.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 012 6789",
+  "email": "",
+  "website": "https://www.facebook.com/SajangChicken",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "korean",
+    "fried-chicken",
+    "casual-dining",
+    "group-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "korean"
+  ],
+  "specialties": [
+    "korean-fried-chicken",
+    "yangnyeom",
+    "soy-garlic-chicken"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.0642,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

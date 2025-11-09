@@ -1,0 +1,75 @@
+{
+  "id": "bfd3ea4a-a4e0-4d8d-80df-ace14ed1d1b0",
+  "name": "BRGR: The Burger Project",
+  "slug": "brgr-the-burger-project",
+  "description": "Gourmet burger specialist crafting creative burger combinations with premium ingredients. Known for juicy patties, artisanal buns, and innovative toppings that elevate the classic burger experience. Popular with burger enthusiasts seeking quality over quantity.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/brgrph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "burgers",
+    "american",
+    "casual-dining",
+    "comfort-food"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "american",
+    "burgers"
+  ],
+  "specialties": [
+    "gourmet-burgers",
+    "craft-burgers",
+    "burger-combos",
+    "fries"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0648,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

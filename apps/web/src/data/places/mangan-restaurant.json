@@ -1,0 +1,71 @@
+{
+  "id": "16192a87-5804-4fc3-90a2-d12fc6b06b5a",
+  "name": "Mangan Restaurant",
+  "slug": "mangan-restaurant",
+  "description": "Casual Filipino restaurant serving home-cooked style meals and classic Pinoy dishes. Features daily viands, grilled specialties, and affordable Filipino comfort food.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/ManganRestaurant",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "home-cooked",
+    "casual-dining",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "sinigang",
+    "adobo",
+    "grilled-fish",
+    "daily-viands"
+  ],
+  "latitude": 14.6441,
+  "longitude": 121.0639,
+  "createdAt": "2018-03-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

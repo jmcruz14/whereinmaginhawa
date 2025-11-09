@@ -26,6 +26,35 @@ export interface Tag {
   category: TagCategory;
 }
 
+/**
+ * PlaceIndex - Lightweight type for list views and search
+ * Contains only essential fields needed for browsing and filtering
+ * Used in places.json (index file)
+ */
+export interface PlaceIndex {
+  id: string;
+  name: string;
+  slug: string;
+  description: string;
+  address: string;
+  coverImageUrl?: string;
+  priceRange: PriceRange;
+
+  // Categorization & Search
+  tags: string[];
+  amenities: string[];
+  cuisineTypes: string[];
+  specialties: string[];
+
+  // Metadata
+  updatedAt: string;
+}
+
+/**
+ * Place - Complete place data
+ * Contains all fields including contact info, operating hours, etc.
+ * Used in individual place files (places/[slug].json)
+ */
 export interface Place {
   id: string;
   name: string;
@@ -144,7 +173,7 @@ export interface SearchFilters {
 }
 
 export interface SearchResult {
-  places: Place[];
+  places: PlaceIndex[];  // Use PlaceIndex for list views (lighter payload)
   total: number;
   filters: SearchFilters;
 }

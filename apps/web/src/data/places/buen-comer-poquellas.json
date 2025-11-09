@@ -1,0 +1,76 @@
+{
+  "id": "ab2ab3f8-f232-453e-a56f-1008ad77df8a",
+  "name": "Buen Comer Poquellas",
+  "slug": "buen-comer-poquellas",
+  "description": "Intimate Spanish-Filipino fusion restaurant offering tapas and small plates. Known for their creative fusion dishes, wine selection, and cozy romantic ambiance perfect for dates.",
+  "address": "Matahimik Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/BuenComerPoquellas",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "spanish",
+    "fusion",
+    "tapas",
+    "date-spot",
+    "wine"
+  ],
+  "amenities": [
+    "dine-in",
+    "intimate-setting",
+    "wine-bar",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "spanish",
+    "fusion",
+    "tapas"
+  ],
+  "specialties": [
+    "tapas",
+    "paella",
+    "spanish-fusion",
+    "wine-pairing"
+  ],
+  "latitude": 14.6417,
+  "longitude": 121.0656,
+  "createdAt": "2018-05-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

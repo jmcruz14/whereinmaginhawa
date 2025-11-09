@@ -1,0 +1,79 @@
+{
+  "id": "a53c6b4a-fb71-46a2-a744-6672cb748479",
+  "name": "Shakey's Pizza Maginhawa",
+  "slug": "shakeys-pizza-maginhawa",
+  "description": "Classic pizza parlor chain famous for their Mojos (fried potato wedges), thin crust pizzas, and lunch buffet. A Filipino favorite since the 1970s offering family-style dining with chicken, pasta, and their signature pizzas.",
+  "address": "185 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8647 8901",
+  "email": "",
+  "website": "https://www.shakeyspizza.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "pizza",
+    "family-dining",
+    "buffet",
+    "iconic",
+    "casual-dining"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "delivery",
+    "party-packages"
+  ],
+  "cuisineTypes": [
+    "american",
+    "pizza",
+    "italian-american"
+  ],
+  "specialties": [
+    "mojos",
+    "manager-special-pizza",
+    "fried-chicken",
+    "lunch-buffet"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0687,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

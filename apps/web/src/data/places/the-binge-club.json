@@ -1,0 +1,76 @@
+{
+  "id": "63f5ab37-7522-4ec6-be27-36b1b9d039b0",
+  "name": "The Binge Club",
+  "slug": "the-binge-club",
+  "description": "A board game cafe offering an extensive collection of board games alongside food and drinks. Perfect for game nights with friends, featuring comfort food, milkshakes, and a relaxed atmosphere for hours of gaming fun.",
+  "address": "162 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 919 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/thebingeclub",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "14:00",
+      "close": "00:00"
+    },
+    "tuesday": {
+      "open": "14:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "14:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "14:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "14:00",
+      "close": "02:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "02:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "board-game-cafe",
+    "gaming",
+    "group-friendly",
+    "casual",
+    "fun"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "board-games",
+    "group-seating"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "comfort-food",
+    "snacks"
+  ],
+  "specialties": [
+    "board-games",
+    "milkshakes",
+    "comfort-food",
+    "game-nights"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.066,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

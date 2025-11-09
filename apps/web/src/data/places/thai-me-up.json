@@ -1,0 +1,74 @@
+{
+  "id": "b3b3a73c-c385-4926-8bdf-a42c08b60a40",
+  "name": "Thai Me Up",
+  "slug": "thai-me-up",
+  "description": "An authentic Thai restaurant serving classic Thai dishes with the right balance of sweet, sour, spicy, and salty. Known for their pad thai, green curry, and tom yum soup, bringing genuine Thai flavors to Maginhawa.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/ThaiMeUpPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "thai",
+    "asian",
+    "authentic",
+    "spicy",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "thai"
+  ],
+  "specialties": [
+    "pad-thai",
+    "green-curry",
+    "tom-yum",
+    "mango-sticky-rice"
+  ],
+  "latitude": 14.6416,
+  "longitude": 121.064,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

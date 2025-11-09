@@ -1,0 +1,79 @@
+{
+  "id": "32e22631-c6b3-416e-a3bc-3c251c58a60d",
+  "name": "Wildflour Cafe + Bakery Maginhawa",
+  "slug": "wildflour-cafe-bakery-maginhawa",
+  "description": "An upscale bakery and cafe offering artisanal breads, pastries, and all-day dining menu. Known for their European-style baked goods, brunch favorites, and quality coffee in a bright, modern space.",
+  "address": "173 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8654 5678",
+  "email": "",
+  "website": "https://www.wildflour.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "bakery",
+    "cafe",
+    "upscale",
+    "artisan",
+    "brunch"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "bakery",
+    "european",
+    "cafe"
+  ],
+  "specialties": [
+    "artisan-bread",
+    "croissants",
+    "brunch",
+    "pastries"
+  ],
+  "latitude": 14.6425,
+  "longitude": 121.067,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

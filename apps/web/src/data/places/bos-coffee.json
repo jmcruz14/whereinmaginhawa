@@ -1,0 +1,76 @@
+{
+  "id": "81d83b3f-28ac-49f4-82a6-11f54298790e",
+  "name": "Bo's Coffee",
+  "slug": "bos-coffee",
+  "description": "A popular Filipino coffee chain offering premium coffee and pastries. Known for their high-quality beans and comfortable ambiance, Bo's Coffee provides a reliable spot for coffee lovers and remote workers.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8441 7777",
+  "email": "",
+  "website": "https://www.boscoffee.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "coffee-shop",
+    "cafe",
+    "work-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "power-outlets"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "pastries",
+    "sandwiches",
+    "iced-coffee"
+  ],
+  "latitude": 14.6423,
+  "longitude": 121.0632,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "e68ef1fd-8ccc-4733-ab74-7048315a0cd6",
+  "name": "Shakey's Pizza",
+  "slug": "shakeys-pizza",
+  "description": "An American pizza chain that has become a Filipino institution, known for their thick-crust pizzas and Mojos. Features an extensive menu including their famous Manager's Choice pizza and SuperCard for unlimited visits.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 5555",
+  "email": "",
+  "website": "https://www.shakeyspizza.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "pizza",
+    "american",
+    "family-friendly",
+    "chain",
+    "buffet"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned",
+    "parking",
+    "group-seating"
+  ],
+  "cuisineTypes": [
+    "american",
+    "pizza"
+  ],
+  "specialties": [
+    "managers-choice-pizza",
+    "mojos",
+    "chicken",
+    "pizza-buffet"
+  ],
+  "latitude": 14.6444,
+  "longitude": 121.0663,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

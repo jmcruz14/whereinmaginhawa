@@ -1,0 +1,73 @@
+{
+  "id": "3dbf1082-10a6-45e6-9360-b4c9c5732900",
+  "name": "Sagul Food Park - Noodle House",
+  "slug": "sagul-food-park-noodle-house",
+  "description": "Asian noodle specialist offering ramen, pancit, and various noodle soups. Features both Filipino and Asian noodle dishes with customizable toppings and spice levels.",
+  "address": "Sagul Food Park, Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/SagulFoodPark",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "asian",
+    "noodles",
+    "ramen",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "asian",
+    "filipino",
+    "japanese"
+  ],
+  "specialties": [
+    "ramen",
+    "pancit",
+    "noodle-soup",
+    "mami"
+  ],
+  "latitude": 14.6437,
+  "longitude": 121.0644,
+  "createdAt": "2019-09-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

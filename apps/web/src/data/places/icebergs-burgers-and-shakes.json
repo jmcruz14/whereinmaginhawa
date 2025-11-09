@@ -1,0 +1,76 @@
+{
+  "id": "fa9cd91b-b39d-4f41-9029-bca34e9599b1",
+  "name": "Icebergs Burgers and Shakes",
+  "slug": "icebergs-burgers-and-shakes",
+  "description": "A retro-style American diner serving classic burgers, hotdogs, and thick milkshakes. Known for their juicy burgers, crispy fries, and nostalgic 1950s diner atmosphere with quality comfort food.",
+  "address": "118 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/icebergsburgers",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "american",
+    "burgers",
+    "shakes",
+    "retro",
+    "diner"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "nostalgic-ambiance"
+  ],
+  "cuisineTypes": [
+    "american",
+    "burgers",
+    "diner"
+  ],
+  "specialties": [
+    "burgers",
+    "milkshakes",
+    "hotdogs",
+    "fries"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0622,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

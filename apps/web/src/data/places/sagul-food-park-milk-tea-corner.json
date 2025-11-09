@@ -1,0 +1,70 @@
+{
+  "id": "512156bd-b114-4ae0-8165-4a29ad33c210",
+  "name": "Sagul Food Park - Milk Tea Corner",
+  "slug": "sagul-food-park-milk-tea-corner",
+  "description": "Milk tea and refreshments stall offering various flavors and customization options. Features fruit teas, classic milk teas, and seasonal special flavors.",
+  "address": "Sagul Food Park, Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 012 3456",
+  "email": "",
+  "website": "https://www.facebook.com/SagulFoodPark",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "milk-tea",
+    "beverages",
+    "food-park",
+    "dessert"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "beverages",
+    "tea"
+  ],
+  "specialties": [
+    "milk-tea",
+    "fruit-tea",
+    "brown-sugar-milk-tea"
+  ],
+  "latitude": 14.6437,
+  "longitude": 121.0644,
+  "createdAt": "2019-09-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "530fd9b9-8b91-430b-a8c4-3e265e361107",
+  "name": "Mango Magic",
+  "slug": "mango-magic",
+  "description": "A tropical dessert haven specializing in mango-based treats. From mango float to mango shakes and fresh mango desserts, this spot celebrates the Philippines' favorite fruit in all its sweet glory.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/MangoMagicPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "dessert",
+    "tropical",
+    "mango",
+    "refreshing",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "dessert",
+    "filipino"
+  ],
+  "specialties": [
+    "mango-float",
+    "mango-shake",
+    "mango-desserts",
+    "halo-halo"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.0639,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

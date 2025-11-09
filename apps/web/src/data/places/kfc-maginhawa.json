@@ -1,0 +1,79 @@
+{
+  "id": "e24ac5ea-18f9-4ecd-9dcd-ee76502e3eb4",
+  "name": "KFC Maginhawa",
+  "slug": "kfc-maginhawa",
+  "description": "International fried chicken chain famous for their Original Recipe chicken and crispy fries. Offers bucket meals perfect for sharing, plus Filipino favorites like rice meals and gravy.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "8-887-8888",
+  "email": "",
+  "website": "https://www.kfc.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "fast-food",
+    "american",
+    "fried-chicken",
+    "family-friendly",
+    "delivery"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "dine-in",
+    "air-conditioned",
+    "drive-thru"
+  ],
+  "cuisineTypes": [
+    "american",
+    "fast-food"
+  ],
+  "specialties": [
+    "original-recipe-chicken",
+    "zinger",
+    "bucket-meals",
+    "fries",
+    "gravy"
+  ],
+  "latitude": 14.6425,
+  "longitude": 121.0652,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

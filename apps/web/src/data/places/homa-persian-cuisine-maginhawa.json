@@ -1,0 +1,75 @@
+{
+  "id": "bb2e99b0-b1ce-4a5b-9602-c50246987dca",
+  "name": "Homa Persian Cuisine - Maginhawa",
+  "slug": "homa-persian-cuisine-maginhawa",
+  "description": "An authentic Persian restaurant bringing Middle Eastern flavors to Maginhawa. Specializes in kebabs, rice dishes, and traditional Persian cuisine with aromatic spices and authentic recipes from Iran.",
+  "address": "41 Malingap St, Teacher's Village, Quezon City",
+  "phone": "+63 917 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/homamaginhawa",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "persian",
+    "middle-eastern",
+    "authentic",
+    "kebabs",
+    "unique"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "persian",
+    "middle-eastern",
+    "iranian"
+  ],
+  "specialties": [
+    "kebabs",
+    "persian-rice",
+    "tahdig",
+    "ghormeh-sabzi"
+  ],
+  "latitude": 14.6398,
+  "longitude": 121.0612,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

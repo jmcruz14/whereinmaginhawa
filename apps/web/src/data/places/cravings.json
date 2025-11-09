@@ -1,0 +1,75 @@
+{
+  "id": "916bb38a-7ca2-40ff-bb76-b83b21be9ce3",
+  "name": "Cravings",
+  "slug": "cravings",
+  "description": "A beloved Filipino comfort food restaurant offering home-style cooking with generous portions. Famous for their kare-kare, crispy pata, and other traditional Filipino dishes served in a warm, family-friendly atmosphere.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8441 4830",
+  "email": "",
+  "website": "https://www.facebook.com/CravingsGroupPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "family-friendly",
+    "casual-dining",
+    "comfort-food"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "kare-kare",
+    "crispy-pata",
+    "sinigang",
+    "bulalo"
+  ],
+  "latitude": 14.6425,
+  "longitude": 121.063,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

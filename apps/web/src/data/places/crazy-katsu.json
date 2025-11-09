@@ -1,0 +1,73 @@
+{
+  "id": "47bb5f39-8029-4d9e-9dc9-e75509ec2753",
+  "name": "Crazy Katsu",
+  "slug": "crazy-katsu",
+  "description": "A popular Japanese restaurant specializing in tonkatsu and other katsu varieties. Famous for their unlimited rice and cabbage, crispy breaded cutlets, and affordable prices that make it a student favorite.",
+  "address": "78 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/CrazyKatsuPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "japanese",
+    "casual-dining",
+    "student-friendly",
+    "unlimited-rice"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "japanese"
+  ],
+  "specialties": [
+    "tonkatsu",
+    "chicken-katsu",
+    "pork-katsu",
+    "katsu-curry"
+  ],
+  "latitude": 14.6417,
+  "longitude": 121.065,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

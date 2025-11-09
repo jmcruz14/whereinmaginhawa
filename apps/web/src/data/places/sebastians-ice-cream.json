@@ -1,0 +1,76 @@
+{
+  "id": "92dc4925-8c5f-40b5-94da-61abd08db73c",
+  "name": "Sebastian's Ice Cream",
+  "slug": "sebastians-ice-cream",
+  "description": "A premium ice cream parlor serving homemade ice cream with unique Filipino flavors. Known for creative flavors like salted egg, buko pandan, and avocado alongside classic favorites in generous scoops.",
+  "address": "166 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 927 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/sebastiansicecream",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card"
+  ],
+  "tags": [
+    "ice-cream",
+    "dessert",
+    "filipino-flavors",
+    "homemade",
+    "unique"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "dessert",
+    "ice-cream",
+    "filipino"
+  ],
+  "specialties": [
+    "salted-egg-ice-cream",
+    "buko-pandan",
+    "avocado",
+    "unique-flavors"
+  ],
+  "latitude": 14.6423,
+  "longitude": 121.0664,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

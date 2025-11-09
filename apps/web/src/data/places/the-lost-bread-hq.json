@@ -1,0 +1,76 @@
+{
+  "id": "85fa9495-258b-42b2-8709-b3c14d70ef25",
+  "name": "The Lost Bread HQ",
+  "slug": "the-lost-bread-hq",
+  "description": "A gourmet sandwich shop and cafe specializing in creative sandwiches, breakfast items, and coffee. Known for their artisanal bread and unique flavor combinations that elevate simple comfort food to culinary art.",
+  "address": "55 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 534 2673",
+  "email": "",
+  "website": "https://www.facebook.com/TheLostBread",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "cafe",
+    "sandwiches",
+    "breakfast",
+    "coffee",
+    "artisanal"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "wifi",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "american",
+    "cafe"
+  ],
+  "specialties": [
+    "gourmet-sandwiches",
+    "breakfast",
+    "coffee",
+    "pastries"
+  ],
+  "latitude": 14.6412,
+  "longitude": 121.0643,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

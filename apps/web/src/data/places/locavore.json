@@ -1,0 +1,78 @@
+{
+  "id": "b4869d83-89e9-4b56-a42e-6518af92085b",
+  "name": "Locavore",
+  "slug": "locavore",
+  "description": "Modern Filipino gastropub showcasing regional Filipino cuisine with contemporary twists. Celebrates local ingredients and traditional cooking methods while presenting them in innovative, Instagram-worthy presentations. Winner of multiple culinary awards.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 2 7576 8986",
+  "email": "",
+  "website": "https://www.facebook.com/LocavoreMNL",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "modern-filipino",
+    "gastropub",
+    "award-winning",
+    "instagrammable"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "takeout",
+    "delivery",
+    "dine-in"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "modern-filipino",
+    "gastropub"
+  ],
+  "specialties": [
+    "sinigang-corned-beef",
+    "crispy-dinuguan",
+    "sisig",
+    "local-ingredients"
+  ],
+  "latitude": 14.643,
+  "longitude": 121.0652,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

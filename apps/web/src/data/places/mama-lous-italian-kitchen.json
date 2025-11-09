@@ -1,0 +1,73 @@
+{
+  "id": "6c9d91b8-968f-4719-a321-6618f323a95a",
+  "name": "Mama Lou's Italian Kitchen",
+  "slug": "mama-lous-italian-kitchen",
+  "description": "A family-style Italian restaurant serving homestyle Italian cooking. Features traditional pasta dishes, risotto, and Italian comfort food in a warm, welcoming atmosphere reminiscent of an Italian home kitchen.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/MamaLousKitchen",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "italian",
+    "family-style",
+    "homestyle",
+    "pasta",
+    "cozy"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "italian"
+  ],
+  "specialties": [
+    "pasta",
+    "risotto",
+    "italian-comfort-food",
+    "homemade-pasta"
+  ],
+  "latitude": 14.6417,
+  "longitude": 121.0643,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

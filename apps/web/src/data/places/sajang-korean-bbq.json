@@ -1,0 +1,77 @@
+{
+  "id": "8ea57aff-f15c-4019-af98-15ec08e4153d",
+  "name": "Sajang Korean BBQ",
+  "slug": "sajang-korean-bbq",
+  "description": "An authentic Korean BBQ restaurant offering unlimited samgyupsal and marinated meats. Features traditional Korean side dishes (banchan) and a grill-at-your-table experience with quality cuts of meat.",
+  "address": "145 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 928 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/sajangbbq",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card"
+  ],
+  "tags": [
+    "korean",
+    "bbq",
+    "unlimited",
+    "group-dining",
+    "casual-dining"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "group-seating",
+    "reservation-recommended"
+  ],
+  "cuisineTypes": [
+    "korean",
+    "bbq",
+    "grill"
+  ],
+  "specialties": [
+    "samgyupsal",
+    "korean-bbq",
+    "unlimited-meat",
+    "banchan"
+  ],
+  "latitude": 14.6429,
+  "longitude": 121.0642,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "927af0b8-fc17-4503-b70c-1120967e66f6",
+  "name": "Breakfast Club Maginhawa",
+  "slug": "breakfast-club-maginhawa",
+  "description": "A cozy breakfast and brunch restaurant serving hearty morning meals all day. Specializes in classic Filipino and American breakfast plates with coffee, fresh juices, and comfort food favorites.",
+  "address": "149 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 927 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/breakfastclubph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "breakfast",
+    "brunch",
+    "all-day-breakfast",
+    "comfort-food",
+    "cozy"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "breakfast",
+    "american",
+    "filipino"
+  ],
+  "specialties": [
+    "pancakes",
+    "eggs-benedict",
+    "tapsilog",
+    "waffles"
+  ],
+  "latitude": 14.643,
+  "longitude": 121.0644,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

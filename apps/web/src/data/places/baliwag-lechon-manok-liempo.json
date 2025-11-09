@@ -1,0 +1,76 @@
+{
+  "id": "3fb951ea-e194-4e47-8d5a-44dac69a4139",
+  "name": "Baliwag Lechon Manok Liempo",
+  "slug": "baliwag-lechon-manok-liempo",
+  "description": "Renowned Filipino roasted chicken chain famous for their perfectly seasoned and crispy-skinned lechon manok. Also serves grilled pork belly (liempo), pancit, and traditional Filipino sides at affordable family-friendly prices.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 2 XXX XXXX",
+  "email": "",
+  "website": "https://www.baliwag.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "filipino",
+    "roasted-chicken",
+    "family-friendly",
+    "takeout",
+    "affordable"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "dine-in",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "grilled"
+  ],
+  "specialties": [
+    "lechon-manok",
+    "liempo",
+    "grilled-chicken",
+    "pancit",
+    "filipino-sides"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0654,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

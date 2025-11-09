@@ -1,0 +1,78 @@
+{
+  "id": "a9e3fae1-1786-4d8d-bbfd-1482432a5b62",
+  "name": "The Social Maginhawa",
+  "slug": "the-social-maginhawa",
+  "description": "A modern gastropub combining elevated pub food with craft beers and cocktails. Offers a sophisticated yet relaxed vibe with quality comfort food, sports viewing, and a curated drinks menu.",
+  "address": "155 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 916 012 3456",
+  "email": "",
+  "website": "https://www.facebook.com/thesocialph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "02:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "03:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "03:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "01:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "gastropub",
+    "bar",
+    "craft-beer",
+    "sports-bar",
+    "nightlife"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "bar",
+    "sports-tv",
+    "dine-in",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "pub-food",
+    "american",
+    "fusion"
+  ],
+  "specialties": [
+    "craft-beer",
+    "burgers",
+    "wings",
+    "cocktails"
+  ],
+  "latitude": 14.6419,
+  "longitude": 121.0654,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "a794c63f-0d1f-4c28-a1ca-fde4f402dbe9",
+  "name": "Mang Inasal Maginhawa",
+  "slug": "mang-inasal-maginhawa",
+  "description": "Popular Filipino fast-food chain specializing in Chicken Inasal (grilled chicken) with unlimited rice. Offers authentic Ilonggo flavors at affordable prices, famous for their chicken oil condiment and value meals.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 2 XXX XXXX",
+  "email": "",
+  "website": "https://www.manginasal.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "filipino",
+    "fast-food",
+    "grilled-chicken",
+    "unlimited-rice",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "dine-in",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "grilled"
+  ],
+  "specialties": [
+    "chicken-inasal",
+    "unlimited-rice",
+    "sisig",
+    "halo-halo",
+    "chicken-oil"
+  ],
+  "latitude": 14.6421,
+  "longitude": 121.0652,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

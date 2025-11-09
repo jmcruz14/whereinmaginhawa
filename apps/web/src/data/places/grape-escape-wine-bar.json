@@ -1,0 +1,75 @@
+{
+  "id": "e68f3ca4-1968-4cfa-befd-d9e11ef70173",
+  "name": "Grape Escape Wine Bar",
+  "slug": "grape-escape-wine-bar",
+  "description": "A wine bar at StrEAT Food Park offering curated wine selections and wine-friendly small plates. Features affordable wines by the glass with cheese, charcuterie, and light bites in a casual setting.",
+  "address": "91 Maginhawa St, UP Village (StrEAT Food Park), Quezon City",
+  "phone": "+63 927 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/grapeescapebar",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "wine-bar",
+    "food-park",
+    "wine",
+    "tapas",
+    "casual"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "bar",
+    "wine-selection"
+  ],
+  "cuisineTypes": [
+    "wine-bar",
+    "tapas",
+    "european"
+  ],
+  "specialties": [
+    "wine",
+    "cheese",
+    "charcuterie",
+    "tapas"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

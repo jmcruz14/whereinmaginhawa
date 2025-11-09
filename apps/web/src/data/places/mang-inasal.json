@@ -1,0 +1,74 @@
+{
+  "id": "517ea1d2-244a-4aae-8964-f9253846e074",
+  "name": "Mang Inasal",
+  "slug": "mang-inasal",
+  "description": "A Filipino fast-food chain specializing in chicken inasal and traditional Filipino BBQ. Famous for their unlimited rice policy and authentic Bacolod-style grilled chicken with their signature vinegar dip.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8441 0000",
+  "email": "",
+  "website": "https://www.manginasal.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "bbq",
+    "unlimited-rice",
+    "budget-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "chicken-inasal",
+    "unlimited-rice",
+    "pork-bbq",
+    "halo-halo"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0646,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

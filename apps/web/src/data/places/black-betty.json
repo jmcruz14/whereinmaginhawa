@@ -1,0 +1,78 @@
+{
+  "id": "27342594-2ad8-4a16-83fe-94eb36c45dbb",
+  "name": "Black Betty",
+  "slug": "black-betty",
+  "description": "A cozy American comfort food restaurant known for their juicy burgers, hearty breakfast plates, and homestyle cooking. Popular spot for brunch and casual dining with a relaxed atmosphere perfect for catching up with friends.",
+  "address": "127 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/blackbettyph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "american",
+    "burgers",
+    "brunch",
+    "comfort-food",
+    "casual-dining"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "american",
+    "breakfast",
+    "burgers"
+  ],
+  "specialties": [
+    "burgers",
+    "breakfast-plates",
+    "comfort-food",
+    "brunch"
+  ],
+  "latitude": 14.6425,
+  "longitude": 121.0628,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ca13db91-53b9-4d99-b9a5-e1d7a16ef704",
+  "name": "Z Compound - Milk Tea Bar",
+  "slug": "z-compound-milk-tea-bar",
+  "description": "Milk tea and refreshments bar offering various flavors with customizable sugar and ice levels. Features classic milk teas, fruit teas, and specialty drinks.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 890 1234",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "milk-tea",
+    "beverages",
+    "dessert",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "beverages",
+    "tea"
+  ],
+  "specialties": [
+    "milk-tea",
+    "fruit-tea",
+    "brown-sugar",
+    "cheese-tea"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

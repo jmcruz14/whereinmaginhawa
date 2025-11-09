@@ -1,0 +1,76 @@
+{
+  "id": "57293156-09e4-449d-9da4-8ff905bb0251",
+  "name": "But First Coffee",
+  "slug": "but-first-coffee",
+  "description": "Cozy neighborhood coffee shop serving specialty coffee and comfort food. Popular spot for students and remote workers with reliable wifi and a laid-back atmosphere perfect for studying or casual meetings.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/ButFirstCoffeePH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "coffee-shop",
+    "wifi",
+    "study-spot",
+    "work-friendly"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "power-outlets",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "cafe",
+    "breakfast"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "cold-brew",
+    "breakfast-meals",
+    "pastries"
+  ],
+  "latitude": 14.6435,
+  "longitude": 121.0645,
+  "createdAt": "2020-03-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

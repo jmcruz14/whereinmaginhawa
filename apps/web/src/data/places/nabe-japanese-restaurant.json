@@ -1,0 +1,75 @@
+{
+  "id": "a4fa8313-44cc-46c4-b18a-47e8683706e5",
+  "name": "Nabe Japanese Restaurant",
+  "slug": "nabe-japanese-restaurant",
+  "description": "A traditional Japanese restaurant specializing in hot pot (nabe) dishes and authentic Japanese cuisine. Offers a warm, intimate dining experience with quality ingredients and traditional preparation methods.",
+  "address": "148 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 919 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/nabejapanese",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:30",
+      "close": "21:30"
+    },
+    "tuesday": {
+      "open": "11:30",
+      "close": "21:30"
+    },
+    "wednesday": {
+      "open": "11:30",
+      "close": "21:30"
+    },
+    "thursday": {
+      "open": "11:30",
+      "close": "21:30"
+    },
+    "friday": {
+      "open": "11:30",
+      "close": "22:30"
+    },
+    "saturday": {
+      "open": "11:30",
+      "close": "22:30"
+    },
+    "sunday": {
+      "open": "11:30",
+      "close": "21:30"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "japanese",
+    "hot-pot",
+    "traditional",
+    "intimate",
+    "authentic"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "intimate-setting"
+  ],
+  "cuisineTypes": [
+    "japanese",
+    "hot-pot",
+    "nabe"
+  ],
+  "specialties": [
+    "nabe",
+    "hot-pot",
+    "shabu-shabu",
+    "japanese-curry"
+  ],
+  "latitude": 14.643,
+  "longitude": 121.0645,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

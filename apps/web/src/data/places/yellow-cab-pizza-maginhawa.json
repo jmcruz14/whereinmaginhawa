@@ -1,0 +1,79 @@
+{
+  "id": "3490270a-3c28-457f-bd82-574efea9e135",
+  "name": "Yellow Cab Pizza Maginhawa",
+  "slug": "yellow-cab-pizza-maginhawa",
+  "description": "New York-style pizza chain known for their generous toppings and signature Manhattan Meatlovers pizza. Offers pasta, wings, and premium pizza options with late-night delivery perfect for pizza cravings.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "8-789-9999",
+  "email": "",
+  "website": "https://www.yellowcabpizza.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "pizza",
+    "american",
+    "new-york-style",
+    "delivery",
+    "late-night"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "dine-in",
+    "air-conditioned",
+    "late-night"
+  ],
+  "cuisineTypes": [
+    "american",
+    "italian",
+    "pizza"
+  ],
+  "specialties": [
+    "manhattan-meatlovers",
+    "new-yorks-finest",
+    "4-cheese-pizza",
+    "buffalo-wings"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0651,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

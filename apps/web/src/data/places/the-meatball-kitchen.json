@@ -1,0 +1,75 @@
+{
+  "id": "bf229e3c-b49e-4540-979a-13425fd17dee",
+  "name": "The Meatball Kitchen",
+  "slug": "the-meatball-kitchen",
+  "description": "A casual Italian-American restaurant focused on creative meatball dishes and pasta. Features various meatball flavors from classic Italian to Asian fusion, served with different sauces and preparations.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 901 2345",
+  "email": "",
+  "website": "https://www.facebook.com/MeatballKitchen",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "italian",
+    "american",
+    "meatballs",
+    "pasta",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "italian",
+    "american"
+  ],
+  "specialties": [
+    "meatballs",
+    "spaghetti-meatballs",
+    "meatball-subs",
+    "pasta"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0644,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

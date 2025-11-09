@@ -1,0 +1,72 @@
+{
+  "id": "4464522b-07f6-4a2a-8f07-0a16bcbe2682",
+  "name": "Z Compound - Pasta Corner",
+  "slug": "z-compound-pasta-corner",
+  "description": "Italian pasta stall offering various pasta dishes with different sauces and toppings. Features carbonara, aglio olio, bolognese, and Filipino-Italian fusion pasta.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 567 8901",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "italian",
+    "pasta",
+    "casual",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "italian",
+    "pasta"
+  ],
+  "specialties": [
+    "carbonara",
+    "aglio-olio",
+    "bolognese",
+    "seafood-pasta"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

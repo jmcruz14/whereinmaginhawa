@@ -1,0 +1,74 @@
+{
+  "id": "57f32157-fd83-466e-a060-4a38d7e9e201",
+  "name": "Pagkaing Gubat / Gubat QC",
+  "slug": "pagkaing-gubat-gubat-qc",
+  "description": "Indigenous Filipino restaurant celebrating native cuisine and ingredients. Features traditional dishes from various Philippine regions with emphasis on sustainability and native ingredients like wild mushrooms, ferns, and organic vegetables.",
+  "address": "73 Scout Rallos Street, Tomas Morato Area, Quezon City",
+  "phone": "+63 2 8374 0775",
+  "email": "",
+  "website": "https://www.facebook.com/PagkaingGubat",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "filipino",
+    "indigenous",
+    "organic",
+    "sustainable"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "indigenous"
+  ],
+  "specialties": [
+    "wild-mushrooms",
+    "native-vegetables",
+    "organic-rice",
+    "indigenous-dishes"
+  ],
+  "latitude": 14.6381,
+  "longitude": 121.0351,
+  "createdAt": "2019-11-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

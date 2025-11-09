@@ -1,0 +1,77 @@
+{
+  "id": "83fb497e-9f10-47fe-ab31-d1c81b179b26",
+  "name": "The Nook Cafe",
+  "slug": "the-nook-cafe",
+  "description": "Harry Potter-themed cafe decorated with Hogwarts memorabilia and magical touches. Serves wizard-inspired drinks, comfort food, and Filipino favorites in a cozy, fantasy atmosphere perfect for Potterheads and book lovers.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/thenookcafemaginhawa",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "cafe",
+    "themed",
+    "harry-potter",
+    "fantasy",
+    "instagrammable",
+    "quirky"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "themed-decor",
+    "photo-spots"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "filipino",
+    "international"
+  ],
+  "specialties": [
+    "themed-drinks",
+    "butterbeer",
+    "pasta",
+    "rice-meals",
+    "coffee"
+  ],
+  "latitude": 14.6421,
+  "longitude": 121.065,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "b4bb9d80-369a-48d5-9af8-38ca6016f9d0",
+  "name": "Andok's Litson Manok Maginhawa",
+  "slug": "andoks-litson-manok-maginhawa",
+  "description": "Roasted chicken chain offering affordable lechon manok (roasted chicken) with crispy skin and juicy meat. A Filipino household favorite for quick, tasty, and budget-friendly roasted chicken meals.",
+  "address": "192 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8650 1234",
+  "email": "",
+  "website": "https://www.andoks.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "roasted-chicken",
+    "affordable",
+    "takeout",
+    "quick-service"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "chicken",
+    "grilled"
+  ],
+  "specialties": [
+    "lechon-manok",
+    "roasted-chicken",
+    "dokito"
+  ],
+  "latitude": 14.6434,
+  "longitude": 121.0696,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

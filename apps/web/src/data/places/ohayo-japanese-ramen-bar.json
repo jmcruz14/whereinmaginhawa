@@ -1,0 +1,72 @@
+{
+  "id": "803178f9-7187-45f3-9a6c-3597be43f1ad",
+  "name": "Ohayo Japanese Ramen Bar",
+  "slug": "ohayo-japanese-ramen-bar",
+  "description": "A cozy ramen bar serving authentic Japanese ramen with rich, flavorful broths. Features various ramen styles including shoyu, miso, and tonkotsu, along with Japanese side dishes and appetizers.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/OhayoRamenBar",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "japanese",
+    "ramen",
+    "casual-dining",
+    "noodles"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "japanese"
+  ],
+  "specialties": [
+    "ramen",
+    "tonkotsu",
+    "gyoza",
+    "japanese-cuisine"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0635,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "d4d55432-6c1e-403f-831e-004923f74d28",
+  "name": "Bricks and Copper Turkish Cuisine",
+  "slug": "bricks-and-copper-turkish-cuisine",
+  "description": "A Turkish food stall at StrEAT offering authentic Turkish kebabs, wraps, and Mediterranean flavors. Features traditional preparation methods with spiced meats, fresh vegetables, and homemade sauces.",
+  "address": "91 Maginhawa St, UP Village (StrEAT Food Park), Quezon City",
+  "phone": "+63 918 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/bricksandcopper",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "turkish",
+    "food-park",
+    "kebabs",
+    "mediterranean",
+    "authentic"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "turkish",
+    "mediterranean",
+    "middle-eastern"
+  ],
+  "specialties": [
+    "kebabs",
+    "shawarma",
+    "turkish-food",
+    "wraps"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

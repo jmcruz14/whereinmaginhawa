@@ -1,0 +1,79 @@
+{
+  "id": "3e605c72-9567-44ba-8ff1-5bd06ba16932",
+  "name": "Seattle's Best Coffee Maginhawa",
+  "slug": "seattles-best-coffee-maginhawa",
+  "description": "Branch of the international coffee chain offering premium coffee blends, espresso drinks, and light meals. Provides a comfortable space for studying, working, or meeting friends with consistent quality and familiar favorites.",
+  "address": "170 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8641 2345",
+  "email": "",
+  "website": "https://www.seattlesbest.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "coffee-chain",
+    "cafe",
+    "work-friendly",
+    "wifi",
+    "study-spot"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "power-outlets",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "cafe",
+    "american"
+  ],
+  "specialties": [
+    "coffee",
+    "espresso",
+    "frappuccino",
+    "pastries"
+  ],
+  "latitude": 14.6425,
+  "longitude": 121.0669,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

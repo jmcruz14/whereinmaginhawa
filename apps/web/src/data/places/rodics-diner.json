@@ -1,0 +1,72 @@
+{
+  "id": "937b5c3e-0062-4a2e-a2af-e704b2b4a321",
+  "name": "Rodic's Diner",
+  "slug": "rodics-diner",
+  "description": "Iconic diner established in 1949, famous for their tapsilog with shredded sweet beef that has become a Filipino breakfast institution. Popular with UP students and alumni, serving hearty silog meals and Filipino comfort food at budget-friendly prices.",
+  "address": "20 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 4330527",
+  "email": "",
+  "website": "https://www.facebook.com/RodicsDiner",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "06:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "filipino",
+    "breakfast",
+    "student-friendly",
+    "iconic",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "tapsilog",
+    "breakfast",
+    "silog-meals"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

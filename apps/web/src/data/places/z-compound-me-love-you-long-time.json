@@ -1,0 +1,72 @@
+{
+  "id": "645b3b70-823f-48e3-91d9-1a0e8370c545",
+  "name": "Z Compound - Me Love You Long Time",
+  "slug": "z-compound-me-love-you-long-time",
+  "description": "Vietnamese cuisine stall featuring pho, banh mi, and other Vietnamese specialties. Known for authentic flavors and fresh ingredients at affordable prices.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 012 3456",
+  "email": "",
+  "website": "https://www.facebook.com/MeLoveYouLongTimePH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "vietnamese",
+    "pho",
+    "asian",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "vietnamese",
+    "asian"
+  ],
+  "specialties": [
+    "pho",
+    "banh-mi",
+    "spring-rolls",
+    "vietnamese-coffee"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

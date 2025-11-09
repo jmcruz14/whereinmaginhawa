@@ -1,0 +1,73 @@
+{
+  "id": "c1327364-5914-4fcd-bc00-5bc8cdd0aa79",
+  "name": "Al Jograts Kebab House",
+  "slug": "al-jograts-kebab-house",
+  "description": "A Middle Eastern restaurant serving authentic kebabs, shawarma, and other Arab specialties. Known for their flavorful meats, fresh ingredients, and generous portions at affordable prices.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 345 9012",
+  "email": "",
+  "website": "https://www.facebook.com/AlJograts",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "middle-eastern",
+    "kebab",
+    "halal",
+    "casual-dining",
+    "affordable"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "middle-eastern",
+    "arab"
+  ],
+  "specialties": [
+    "kebab",
+    "shawarma",
+    "mixed-grill",
+    "arabic-food"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0644,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

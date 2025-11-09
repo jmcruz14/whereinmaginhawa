@@ -1,0 +1,75 @@
+{
+  "id": "6cb316a9-3fc6-4f50-9e9a-93699edab22d",
+  "name": "Little India Restaurant",
+  "slug": "little-india-restaurant",
+  "description": "Authentic Indian restaurant serving North and South Indian cuisine. Features tandoori dishes, curries, biryani, and fresh naan bread in a casual dining atmosphere.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/LittleIndiaQC",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "indian",
+    "curry",
+    "halal",
+    "vegetarian-options"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "indian",
+    "curry"
+  ],
+  "specialties": [
+    "tandoori-chicken",
+    "butter-chicken",
+    "biryani",
+    "naan",
+    "paneer-tikka"
+  ],
+  "latitude": 14.6436,
+  "longitude": 121.0643,
+  "createdAt": "2016-04-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

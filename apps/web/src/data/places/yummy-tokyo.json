@@ -1,0 +1,76 @@
+{
+  "id": "82632533-14f1-44dc-b368-ef6a05e43b1e",
+  "name": "Yummy Tokyo",
+  "slug": "yummy-tokyo",
+  "description": "A popular Japanese restaurant offering authentic ramen, donburi, and Japanese comfort food at affordable prices. Known for their rich tonkotsu broth and generous portions that satisfy cravings for Japanese cuisine.",
+  "address": "138 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 918 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/yummytokyoph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "japanese",
+    "ramen",
+    "affordable",
+    "student-friendly",
+    "casual-dining"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "japanese",
+    "ramen",
+    "donburi"
+  ],
+  "specialties": [
+    "ramen",
+    "tonkotsu",
+    "gyudon",
+    "katsudon"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0635,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "328a9e4b-8add-4a01-9832-06bcaa268978",
+  "name": "Epicure Gourmet Deli",
+  "slug": "epicure-gourmet-deli",
+  "description": "A gourmet deli at StrEAT Food Park offering charcuterie, artisan sandwiches, and cheese plates. Features premium meats, imported cheeses, and craft beers in a sophisticated food stall setting.",
+  "address": "91 Maginhawa St, UP Village (StrEAT Food Park), Quezon City",
+  "phone": "+63 927 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/epicuredeli",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "deli",
+    "gourmet",
+    "food-park",
+    "charcuterie",
+    "upscale"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall",
+    "beer"
+  ],
+  "cuisineTypes": [
+    "deli",
+    "european",
+    "gourmet"
+  ],
+  "specialties": [
+    "charcuterie",
+    "cheese-board",
+    "sandwiches",
+    "craft-beer"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

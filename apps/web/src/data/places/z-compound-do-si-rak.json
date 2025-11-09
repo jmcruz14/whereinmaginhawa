@@ -1,0 +1,71 @@
+{
+  "id": "a09d9661-8396-495a-bfc2-38423eba6e07",
+  "name": "Z Compound - Do-si-Rak Korean",
+  "slug": "z-compound-do-si-rak",
+  "description": "Korean food stall serving dosirak (Korean lunch boxes), Korean fried chicken, and other K-food favorites. Known for authentic flavors and affordable combo meals.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 345 6789",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "korean",
+    "dosirak",
+    "korean-fried-chicken",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "korean"
+  ],
+  "specialties": [
+    "korean-lunch-box",
+    "korean-fried-chicken",
+    "tteokbokki",
+    "kimbap"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

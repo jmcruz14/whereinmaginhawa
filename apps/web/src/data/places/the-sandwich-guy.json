@@ -1,0 +1,71 @@
+{
+  "id": "66394bc3-0fee-4a7b-94be-8926e7815fed",
+  "name": "The Sandwich Guy",
+  "slug": "the-sandwich-guy",
+  "description": "Gourmet sandwich shop specializing in creative sandwich combinations and fresh ingredients. Features both hot and cold sandwiches with house-made sauces and artisan bread.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/TheSandwichGuyPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "sandwiches",
+    "casual-dining",
+    "quick-service"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "sandwiches",
+    "american"
+  ],
+  "specialties": [
+    "gourmet-sandwiches",
+    "panini",
+    "club-sandwich"
+  ],
+  "latitude": 14.6439,
+  "longitude": 121.0641,
+  "createdAt": "2020-06-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

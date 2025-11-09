@@ -1,0 +1,73 @@
+{
+  "id": "5e2092bc-572b-478a-86c6-7a13078abe2a",
+  "name": "Salta! Italian Rotisserie",
+  "slug": "salta-italian-rotisserie",
+  "description": "Italian restaurant specializing in rotisserie chicken and traditional Italian dishes. Features wood-fired rotisserie, pasta, and pizzas with authentic Italian flavors and fresh ingredients.",
+  "address": "Magiting Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/SaltaRotisserie",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "italian",
+    "rotisserie",
+    "pasta",
+    "pizza"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "italian"
+  ],
+  "specialties": [
+    "rotisserie-chicken",
+    "pasta",
+    "pizza",
+    "italian-dishes"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0658,
+  "createdAt": "2017-09-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

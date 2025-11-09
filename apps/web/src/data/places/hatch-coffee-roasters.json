@@ -1,0 +1,76 @@
+{
+  "id": "7aed9428-d15f-4618-89fc-490ab495bb5d",
+  "name": "Hatch Coffee Roasters",
+  "slug": "hatch-coffee-roasters",
+  "description": "A specialty coffee roastery and cafe focusing on single-origin beans and precise brewing methods. Features a minimalist aesthetic, knowledgeable baristas, and a curated selection of premium coffee beans.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/HatchCoffee",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "coffee-shop",
+    "specialty-coffee",
+    "roastery",
+    "minimalist",
+    "work-friendly"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "coffee-beans"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "single-origin",
+    "pour-over",
+    "espresso"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0642,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

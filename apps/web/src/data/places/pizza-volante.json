@@ -1,0 +1,74 @@
+{
+  "id": "ed83f719-736c-410b-8a93-7f00eb851e1a",
+  "name": "Pizza Volante",
+  "slug": "pizza-volante",
+  "description": "Artisan pizza place serving wood-fired pizzas with creative toppings and traditional Italian recipes. Features thin-crust pizzas, pasta dishes, and Italian-inspired appetizers.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/PizzaVolantePH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "pizza",
+    "italian",
+    "wood-fired",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "italian",
+    "pizza"
+  ],
+  "specialties": [
+    "wood-fired-pizza",
+    "margherita",
+    "pasta",
+    "calzone"
+  ],
+  "latitude": 14.6442,
+  "longitude": 121.0638,
+  "createdAt": "2019-07-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

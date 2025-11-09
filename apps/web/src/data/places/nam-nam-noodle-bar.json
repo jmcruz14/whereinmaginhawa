@@ -1,0 +1,73 @@
+{
+  "id": "b8d75b6d-4968-4001-8ee9-e7e6476c0708",
+  "name": "Nam Nam Noodle Bar",
+  "slug": "nam-nam-noodle-bar",
+  "description": "A cozy Vietnamese noodle house serving authentic pho, banh mi, and other Vietnamese favorites. Known for their flavorful broths and generous portions, this spot brings the taste of Hanoi to Maginhawa Street.",
+  "address": "85 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 899 3331",
+  "email": "",
+  "website": "https://www.facebook.com/NamNamNoodleBar",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "vietnamese",
+    "noodles",
+    "casual-dining",
+    "asian"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "vietnamese"
+  ],
+  "specialties": [
+    "pho",
+    "banh-mi",
+    "spring-rolls",
+    "vietnamese-coffee"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0652,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

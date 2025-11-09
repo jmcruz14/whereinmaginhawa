@@ -1,0 +1,73 @@
+{
+  "id": "d9542f4a-78a1-4b21-92e8-1f9e99e07442",
+  "name": "Z Compound - Samu Eats",
+  "slug": "z-compound-samu-eats",
+  "description": "Filipino-American fusion food stall featuring comfort food with a twist. Specializes in loaded rice bowls, wings, and creative Filipino-American fusion dishes.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 456 7890",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "fusion",
+    "filipino-american",
+    "comfort-food",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "fusion",
+    "filipino",
+    "american"
+  ],
+  "specialties": [
+    "rice-bowls",
+    "wings",
+    "loaded-fries",
+    "fusion-dishes"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

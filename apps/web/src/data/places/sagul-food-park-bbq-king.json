@@ -1,0 +1,72 @@
+{
+  "id": "d43afa45-da5e-4d59-bb1a-bf47c50d5076",
+  "name": "Sagul Food Park - BBQ King",
+  "slug": "sagul-food-park-bbq-king",
+  "description": "BBQ specialist stall in Sagul Food Park serving grilled meats, seafood, and Filipino barbecue favorites. Features inihaw na liempo, chicken BBQ, and grilled seafood at affordable prices.",
+  "address": "Sagul Food Park, Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/SagulFoodPark",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "bbq",
+    "filipino",
+    "street-food",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "bbq",
+    "grilled"
+  ],
+  "specialties": [
+    "inihaw-na-liempo",
+    "chicken-bbq",
+    "grilled-seafood"
+  ],
+  "latitude": 14.6437,
+  "longitude": 121.0644,
+  "createdAt": "2019-09-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

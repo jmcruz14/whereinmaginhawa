@@ -1,0 +1,74 @@
+{
+  "id": "1e0e0ccc-e030-4f2c-bf43-ea6584fb252c",
+  "name": "Magpie Cafe",
+  "slug": "magpie-cafe",
+  "description": "A quirky cafe at StrEAT Food Park serving comfort food, coffee, and cocktails. Features an eclectic menu with international influences and a laid-back atmosphere perfect for evening hangouts.",
+  "address": "91 Maginhawa St, UP Village (StrEAT Food Park), Quezon City",
+  "phone": "+63 915 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/magpiecafeph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "cafe",
+    "food-park",
+    "quirky",
+    "cocktails",
+    "eclectic"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "bar",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "fusion",
+    "international"
+  ],
+  "specialties": [
+    "coffee",
+    "cocktails",
+    "comfort-food",
+    "fusion"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

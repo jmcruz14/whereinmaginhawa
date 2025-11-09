@@ -1,0 +1,72 @@
+{
+  "id": "5c4c247f-3897-4af8-8bee-f5653a264de4",
+  "name": "Molcajete Mexican Cantina",
+  "slug": "molcajete-mexican-cantina-150",
+  "description": "A Mexican food stall at 150 Maginhawa offering authentic tacos, burritos, and cantina favorites. Uses traditional recipes and fresh ingredients to create flavorful Mexican street food.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 927 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/molcajetecantinaph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "mexican",
+    "food-park",
+    "tacos",
+    "authentic",
+    "casual"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "mexican",
+    "latin"
+  ],
+  "specialties": [
+    "tacos",
+    "burritos",
+    "quesadillas",
+    "nachos"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

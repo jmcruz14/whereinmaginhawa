@@ -1,0 +1,75 @@
+{
+  "id": "54323dfd-61cd-456a-830a-ee7dbccf1561",
+  "name": "Momo Cafe",
+  "slug": "momo-cafe",
+  "description": "A charming cafe specializing in Tibetan and Nepali momos (dumplings) alongside coffee and tea. Offers a unique culinary experience with handmade dumplings filled with various meats and vegetables in a cozy setting.",
+  "address": "125 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 928 456 7890",
+  "email": "",
+  "website": "https://www.facebook.com/momocafeph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "tibetan",
+    "nepali",
+    "dumplings",
+    "cafe",
+    "unique"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "tibetan",
+    "nepali",
+    "asian"
+  ],
+  "specialties": [
+    "momos",
+    "dumplings",
+    "tibetan-food",
+    "tea"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0627,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

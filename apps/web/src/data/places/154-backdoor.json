@@ -1,0 +1,77 @@
+{
+  "id": "f7929934-ef87-4932-bd1a-eb3f479f5591",
+  "name": "154 Backdoor",
+  "slug": "154-backdoor",
+  "description": "A trendy sports bar and restobar offering craft beers, cocktails, and comfort food. Features multiple TV screens for sports viewing, pool tables, and a lively atmosphere perfect for nightlife and watching games with friends.",
+  "address": "154 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 915 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/154backdoor",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "02:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "02:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "02:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "02:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "03:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "03:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "02:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "bar",
+    "sports-bar",
+    "nightlife",
+    "live-music",
+    "late-night"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "outdoor-seating",
+    "pool-table",
+    "sports-tv"
+  ],
+  "cuisineTypes": [
+    "bar-food",
+    "american",
+    "filipino"
+  ],
+  "specialties": [
+    "craft-beer",
+    "cocktails",
+    "bar-chow",
+    "sports-viewing"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0653,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

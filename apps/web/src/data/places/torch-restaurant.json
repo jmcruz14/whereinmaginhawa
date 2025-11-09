@@ -1,0 +1,74 @@
+{
+  "id": "4120e3ce-e5db-49c9-9c69-6ee56a383749",
+  "name": "Torch Restaurant",
+  "slug": "torch-restaurant",
+  "description": "A modern Filipino restaurant offering creative interpretations of classic Filipino dishes. Features contemporary plating, quality ingredients, and a stylish ambiance that bridges traditional flavors with modern culinary techniques.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/TorchRestaurant",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "modern",
+    "contemporary",
+    "creative",
+    "casual-fine-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "air-conditioned",
+    "reservation-recommended"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "modern-filipino"
+  ],
+  "specialties": [
+    "modern-filipino",
+    "creative-adobo",
+    "gourmet-sisig",
+    "fusion-dishes"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0644,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

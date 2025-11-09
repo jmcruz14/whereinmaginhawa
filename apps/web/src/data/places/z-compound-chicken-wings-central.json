@@ -1,0 +1,72 @@
+{
+  "id": "537f6033-beb4-42ec-9e64-c1ce0cb74ce7",
+  "name": "Z Compound - Chicken Wings Central",
+  "slug": "z-compound-chicken-wings-central",
+  "description": "Wings specialist offering various flavors and heat levels. Features buffalo, BBQ, honey garlic, and other creative wing sauces with unlimited rice option.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 012 3456",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "chicken-wings",
+    "american",
+    "casual",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "american",
+    "wings"
+  ],
+  "specialties": [
+    "buffalo-wings",
+    "bbq-wings",
+    "honey-garlic-wings",
+    "spicy-wings"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

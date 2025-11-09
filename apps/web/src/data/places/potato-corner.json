@@ -1,0 +1,72 @@
+{
+  "id": "02081244-5a66-4f35-9641-c0def04ced30",
+  "name": "Potato Corner",
+  "slug": "potato-corner",
+  "description": "A Filipino fast-food chain famous for their flavored french fries. Offers Mega Fries with unique flavors like BBQ, Sour Cream, and Cheese that have become a Filipino snack staple.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.potatocorner.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "snacks",
+    "fast-food",
+    "budget-friendly",
+    "takeout",
+    "chain"
+  ],
+  "amenities": [
+    "takeout",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "snacks",
+    "fast-food"
+  ],
+  "specialties": [
+    "flavored-fries",
+    "mega-fries",
+    "bbq-fries",
+    "cheese-fries"
+  ],
+  "latitude": 14.6414,
+  "longitude": 121.0638,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "36fb76a7-bf9c-4582-8429-b3a804958c40",
+  "name": "Provenciano",
+  "slug": "provenciano",
+  "description": "A rustic Italian restaurant specializing in wood-fired pizzas and Mediterranean cuisine. Features a charming provincial atmosphere with authentic Italian flavors and a cozy outdoor dining area.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 567 8900",
+  "email": "",
+  "website": "https://www.facebook.com/ProvencianoPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "italian",
+    "pizza",
+    "rustic",
+    "romantic",
+    "mediterranean"
+  ],
+  "amenities": [
+    "dine-in",
+    "outdoor-seating",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "italian",
+    "mediterranean"
+  ],
+  "specialties": [
+    "wood-fired-pizza",
+    "pasta",
+    "italian-cuisine",
+    "mediterranean"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0634,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

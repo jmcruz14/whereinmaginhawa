@@ -1,0 +1,77 @@
+{
+  "id": "00098dbb-3a13-4466-8e51-169c1d3fee32",
+  "name": "Max's Restaurant",
+  "slug": "maxs-restaurant",
+  "description": "The iconic Filipino restaurant chain famous as 'The House that Fried Chicken Built.' Serves their legendary fried chicken alongside classic Filipino dishes, providing a taste of Filipino comfort food in a family-friendly setting.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 6666",
+  "email": "",
+  "website": "https://www.maxschicken.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "fried-chicken",
+    "family-friendly",
+    "iconic",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned",
+    "group-seating",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "max-fried-chicken",
+    "kare-kare",
+    "pancit",
+    "sizzling-tofu"
+  ],
+  "latitude": 14.6434,
+  "longitude": 121.0653,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

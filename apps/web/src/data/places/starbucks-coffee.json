@@ -1,0 +1,77 @@
+{
+  "id": "a34592c3-4c6e-4b98-91bb-c220b9fadfe4",
+  "name": "Starbucks Coffee",
+  "slug": "starbucks-coffee",
+  "description": "The world's leading coffeehouse chain offering premium coffee, specialty beverages, and light meals. Features comfortable seating, free wifi, and a reliable spot for coffee meetings, studying, or remote work.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 6666",
+  "email": "",
+  "website": "https://www.starbucks.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "coffee-shop",
+    "cafe",
+    "work-friendly",
+    "chain",
+    "premium"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "power-outlets"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "coffee",
+    "frappuccino",
+    "sandwiches",
+    "pastries"
+  ],
+  "latitude": 14.641,
+  "longitude": 121.0634,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "b6497978-e5e6-48b5-8edb-2fe1cdaab3d7",
+  "name": "Cat Cafe Manila",
+  "slug": "cat-cafe-manila",
+  "description": "First cat cafe in the Philippines offering a unique dining experience surrounded by adoptable rescue cats. Enjoy coffee, snacks, and light meals while interacting with friendly felines in a cozy, Instagram-worthy setting.",
+  "address": "189 Maginhawa Street, Sikatuna Village, Quezon City",
+  "phone": "+63 917 516 2287",
+  "email": "",
+  "website": "https://www.facebook.com/catcafemanila",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "cafe",
+    "pet-cafe",
+    "cat-cafe",
+    "unique-experience",
+    "instagrammable",
+    "animal-rescue"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "pet-friendly",
+    "adoption-program"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee",
+    "snacks"
+  ],
+  "specialties": [
+    "cat-interaction",
+    "coffee",
+    "pastries",
+    "light-meals",
+    "adoption-services"
+  ],
+  "latitude": 14.6415,
+  "longitude": 121.0655,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

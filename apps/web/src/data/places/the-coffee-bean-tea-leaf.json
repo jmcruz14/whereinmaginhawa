@@ -1,0 +1,74 @@
+{
+  "id": "ed092a0e-92d6-4d75-9539-075fe8eff92f",
+  "name": "The Coffee Bean & Tea Leaf",
+  "slug": "the-coffee-bean-tea-leaf",
+  "description": "An international coffeehouse chain specializing in premium coffee and tea beverages. Known for their signature Ice Blended drinks and comfortable atmosphere perfect for casual meetings and relaxation.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 7777",
+  "email": "",
+  "website": "https://www.coffeebean.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "coffee-shop",
+    "tea-house",
+    "work-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "ice-blended",
+    "coffee",
+    "tea",
+    "pastries"
+  ],
+  "latitude": 14.6412,
+  "longitude": 121.0636,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

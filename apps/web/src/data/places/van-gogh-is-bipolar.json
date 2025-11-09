@@ -1,0 +1,72 @@
+{
+  "id": "a7e759b5-ab95-4897-af7c-2c10dfea39b0",
+  "name": "Van Gogh is Bipolar",
+  "slug": "van-gogh-is-bipolar",
+  "description": "A unique mental health-themed restaurant offering mood-healing nutrition and a multisensory dining experience. Features organic, locally-sourced ingredients with no preservatives, and a whimsical, ever-changing ambiance that celebrates mental health awareness.",
+  "address": "154 Maginhawa St Unit H, Teacher's Village, Quezon City",
+  "phone": "+63 922 824 3051",
+  "email": "",
+  "website": "https://www.facebook.com/VanGoghIsBipolar",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "13:00",
+      "close": "00:00"
+    },
+    "tuesday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "wednesday": {
+      "open": "13:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "13:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "13:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "13:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "13:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash"
+  ],
+  "tags": [
+    "fine-dining",
+    "unique-experience",
+    "mental-health-advocacy",
+    "organic",
+    "artsy"
+  ],
+  "amenities": [
+    "reservation-required",
+    "dine-in",
+    "intimate-setting"
+  ],
+  "cuisineTypes": [
+    "fusion",
+    "organic"
+  ],
+  "specialties": [
+    "mood-healing-menu",
+    "organic-dishes",
+    "vegan-options",
+    "unique-experience"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0653,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

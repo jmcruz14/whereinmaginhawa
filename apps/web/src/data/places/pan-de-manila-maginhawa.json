@@ -1,0 +1,75 @@
+{
+  "id": "d9ad0e55-52a2-448f-b43c-d8056b1e36c8",
+  "name": "Pan de Manila Maginhawa",
+  "slug": "pan-de-manila-maginhawa",
+  "description": "A Filipino bakery chain specializing in freshly-baked pandesal and Filipino bread. Offers traditional bread varieties hot from the oven throughout the day with coffee and light meals.",
+  "address": "176 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8655 6789",
+  "email": "",
+  "website": "https://www.pandemanila.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "06:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "06:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "06:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "06:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "06:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "06:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "bakery",
+    "filipino",
+    "pandesal",
+    "affordable",
+    "breakfast"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "bakery",
+    "breakfast"
+  ],
+  "specialties": [
+    "pandesal",
+    "pan-de-coco",
+    "ensaymada",
+    "pan-de-ube"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0673,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

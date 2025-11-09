@@ -1,0 +1,71 @@
+{
+  "id": "dec0a0c0-8988-4229-9c87-285554d970d5",
+  "name": "Kape Segundo",
+  "slug": "kape-segundo",
+  "description": "Local coffee shop with a second-chance mission, providing employment opportunities. Serves quality coffee and light meals in a welcoming, community-oriented space.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/KapeSegundo",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "coffee-shop",
+    "social-enterprise",
+    "community",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "cafe"
+  ],
+  "specialties": [
+    "local-coffee",
+    "iced-coffee",
+    "sandwiches"
+  ],
+  "latitude": 14.6438,
+  "longitude": 121.0642,
+  "createdAt": "2021-02-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

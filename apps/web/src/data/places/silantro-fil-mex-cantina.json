@@ -1,0 +1,76 @@
+{
+  "id": "919534d6-fec2-4a91-8270-771ba2538837",
+  "name": "Silantro Fil-Mex Cantina",
+  "slug": "silantro-fil-mex-cantina",
+  "description": "A fusion restaurant combining Filipino and Mexican flavors in creative dishes. Known for their sisig burritos, adobo tacos, and innovative Fil-Mex creations that blend the best of both cuisines.",
+  "address": "160 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/silantrocantina",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card"
+  ],
+  "tags": [
+    "fusion",
+    "filipino-mexican",
+    "creative",
+    "casual-dining",
+    "unique"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "fusion",
+    "filipino",
+    "mexican"
+  ],
+  "specialties": [
+    "sisig-burrito",
+    "adobo-tacos",
+    "fil-mex-fusion"
+  ],
+  "latitude": 14.6421,
+  "longitude": 121.0658,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

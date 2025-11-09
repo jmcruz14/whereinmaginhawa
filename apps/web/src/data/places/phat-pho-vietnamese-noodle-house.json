@@ -1,0 +1,72 @@
+{
+  "id": "5c91ca1c-3c40-4372-8606-e1328b1ffb66",
+  "name": "Phat Pho Vietnamese Noodle House",
+  "slug": "phat-pho-vietnamese-noodle-house",
+  "description": "An authentic Vietnamese restaurant specializing in pho and other Vietnamese noodle soups. Known for their rich broths simmered for hours, fresh herbs, and traditional Vietnamese flavors at affordable prices.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 456 7890",
+  "email": "",
+  "website": "https://www.facebook.com/PhatPhoPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "vietnamese",
+    "pho",
+    "noodles",
+    "authentic",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "vietnamese"
+  ],
+  "specialties": [
+    "pho-bo",
+    "pho-ga",
+    "bun-bo-hue",
+    "vietnamese-coffee"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.065,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

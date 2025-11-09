@@ -1,0 +1,69 @@
+{
+  "id": "0149666e-7c97-43a9-87c3-710faf185dac",
+  "name": "Malingap Central Carinderia",
+  "slug": "malingap-central-carinderia",
+  "description": "Traditional Filipino carinderia offering home-style cooked meals with various viands displayed daily. Budget-friendly spot popular with locals and students for authentic Filipino comfort food.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 789 0123",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash"
+  ],
+  "tags": [
+    "filipino",
+    "carinderia",
+    "budget-friendly",
+    "local"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "turo-turo",
+    "daily-viands",
+    "silog-meals",
+    "home-cooked"
+  ],
+  "latitude": 14.6443,
+  "longitude": 121.0637,
+  "createdAt": "2010-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "cf58e13f-4db7-4b27-9132-d61d92f7bc41",
+  "name": "Red Ribbon Bakeshop",
+  "slug": "red-ribbon-bakeshop",
+  "description": "A beloved Filipino bakery chain famous for their cakes, pastries, and baked goods. Known for their Black Forest cake, ensaymada, and other Filipino bakery favorites that have become staples for celebrations.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8441 2222",
+  "email": "",
+  "website": "https://www.redribbonbakeshop.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "bakery",
+    "cakes",
+    "pastries",
+    "filipino",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "bakery",
+    "dessert"
+  ],
+  "specialties": [
+    "black-forest-cake",
+    "ensaymada",
+    "mamon",
+    "pastries"
+  ],
+  "latitude": 14.6412,
+  "longitude": 121.0636,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "6297dce4-a2bb-4a01-b1ea-13f6638b7ce8",
+  "name": "Tomato Cannon",
+  "slug": "tomato-cannon",
+  "description": "A vibrant pizza and pasta restaurant specializing in Italian-American cuisine with creative twists. Known for their wood-fired pizzas with unique toppings and homemade pasta dishes in a fun, casual setting.",
+  "address": "131 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 927 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/tomatocannonph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card"
+  ],
+  "tags": [
+    "italian",
+    "pizza",
+    "pasta",
+    "casual-dining",
+    "family-friendly"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "italian",
+    "pizza",
+    "pasta"
+  ],
+  "specialties": [
+    "wood-fired-pizza",
+    "pasta",
+    "italian-cuisine"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.0631,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

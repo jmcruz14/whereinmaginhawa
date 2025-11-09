@@ -1,0 +1,71 @@
+{
+  "id": "5b3c55ea-9bee-4d2b-9cde-be570a3c9b8e",
+  "name": "Z Compound - Waffle Station",
+  "slug": "z-compound-waffle-station",
+  "description": "Dessert stall specializing in Belgian waffles with various toppings including ice cream, fruits, chocolate, and whipped cream. Perfect for sweet tooth cravings.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 678 9012",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "dessert",
+    "waffles",
+    "sweet",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "dessert",
+    "waffles"
+  ],
+  "specialties": [
+    "belgian-waffles",
+    "waffle-with-ice-cream",
+    "chocolate-waffles"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

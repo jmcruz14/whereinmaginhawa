@@ -1,0 +1,76 @@
+{
+  "id": "820180c2-7059-467e-b00b-523cc5c6feb9",
+  "name": "Taco Vengo Mexican Cantina",
+  "slug": "taco-vengo-mexican-cantina",
+  "description": "A vibrant Mexican restaurant serving authentic tacos, burritos, and cantina favorites. Features handmade tortillas, fresh ingredients, and bold flavors in a colorful, festive atmosphere with margaritas and Mexican beers.",
+  "address": "152 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 925 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/tacovengo",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "mexican",
+    "tacos",
+    "cantina",
+    "festive",
+    "casual-dining"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "bar"
+  ],
+  "cuisineTypes": [
+    "mexican",
+    "tex-mex",
+    "latin"
+  ],
+  "specialties": [
+    "tacos",
+    "burritos",
+    "nachos",
+    "margaritas"
+  ],
+  "latitude": 14.6416,
+  "longitude": 121.0652,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

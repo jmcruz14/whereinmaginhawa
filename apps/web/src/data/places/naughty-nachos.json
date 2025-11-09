@@ -1,0 +1,75 @@
+{
+  "id": "db5ea3e3-a756-4095-9cad-a6de2fea562a",
+  "name": "Naughty Nachos",
+  "slug": "naughty-nachos",
+  "description": "A fun Tex-Mex eatery specializing in loaded nachos with creative toppings and combinations. Offers generous portions perfect for sharing, alongside quesadillas, burritos, and refreshing drinks in a casual setting.",
+  "address": "168 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 927 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/naughtynachos",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "tex-mex",
+    "nachos",
+    "casual",
+    "shareable",
+    "fun"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "group-friendly"
+  ],
+  "cuisineTypes": [
+    "tex-mex",
+    "mexican",
+    "american"
+  ],
+  "specialties": [
+    "loaded-nachos",
+    "quesadillas",
+    "burritos"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0666,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

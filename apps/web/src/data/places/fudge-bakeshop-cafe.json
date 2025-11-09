@@ -1,0 +1,75 @@
+{
+  "id": "9a169f6a-daa3-410a-89a8-4d8bf3a5fdef",
+  "name": "Fudge Bakeshop & Cafe",
+  "slug": "fudge-bakeshop-cafe",
+  "description": "A charming bakery and cafe specializing in decadent cakes, brownies, and pastries. Famous for their rich chocolate fudge cake and other homemade baked goods, perfect for dessert lovers and special occasions.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/FudgeBakeshop",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "bakery",
+    "cafe",
+    "dessert",
+    "cakes",
+    "pastries"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "wifi"
+  ],
+  "cuisineTypes": [
+    "bakery",
+    "dessert"
+  ],
+  "specialties": [
+    "chocolate-fudge-cake",
+    "brownies",
+    "pastries",
+    "coffee"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0642,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

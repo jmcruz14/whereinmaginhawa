@@ -1,0 +1,76 @@
+{
+  "id": "7fb902c8-9039-436f-94be-410c8e7ab21b",
+  "name": "RBy's Steak and Shake",
+  "slug": "rbys-steak-and-shake",
+  "description": "Affordable steakhouse offering quality beef cuts and hearty meals at student-friendly prices. Known for generous portions, value-for-money steak dinners, and milkshakes. A favorite for casual celebrations and satisfying meat cravings.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/rbysteakandshake",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "steakhouse",
+    "american",
+    "comfort-food",
+    "affordable",
+    "student-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "group-friendly"
+  ],
+  "cuisineTypes": [
+    "american",
+    "steakhouse"
+  ],
+  "specialties": [
+    "steak",
+    "ribs",
+    "milkshakes",
+    "burgers",
+    "fries"
+  ],
+  "latitude": 14.6423,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

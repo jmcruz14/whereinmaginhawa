@@ -1,0 +1,72 @@
+{
+  "id": "de513143-462b-45cb-806c-fc788c5b0483",
+  "name": "Saigon Pho",
+  "slug": "saigon-pho",
+  "description": "A Vietnamese restaurant focused on authentic pho and traditional Vietnamese dishes. Features slow-cooked broths, fresh herbs, and quality ingredients that capture the authentic taste of Saigon street food.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/SaigonPhoPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "vietnamese",
+    "pho",
+    "noodles",
+    "authentic",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "vietnamese"
+  ],
+  "specialties": [
+    "pho",
+    "vietnamese-noodles",
+    "banh-mi",
+    "spring-rolls"
+  ],
+  "latitude": 14.6416,
+  "longitude": 121.0636,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

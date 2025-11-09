@@ -1,0 +1,74 @@
+{
+  "id": "51f75bdd-db6d-4cff-b3df-b902d3f2e6ed",
+  "name": "Zarks Burgers",
+  "slug": "zarks-burgers",
+  "description": "A burger chain known for their massive 'Tombstone' burger and American-style comfort food. Features oversized burgers, loaded fries, and milkshakes that challenge appetites and satisfy burger cravings.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/ZarksBurgers",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "american",
+    "burgers",
+    "casual-dining",
+    "oversized",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "american"
+  ],
+  "specialties": [
+    "tombstone-burger",
+    "burgers",
+    "loaded-fries",
+    "milkshakes"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.065,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

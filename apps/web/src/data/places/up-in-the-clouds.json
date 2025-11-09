@@ -1,0 +1,78 @@
+{
+  "id": "928945fa-487a-44b2-a8c1-442e24138e47",
+  "name": "Up in the Clouds",
+  "slug": "up-in-the-clouds",
+  "description": "Dreamy cloud-themed dessert cafe specializing in fluffy pancakes, waffles, and artisan ice cream. Features whimsical cloud decorations and Instagram-worthy presentations. Perfect for sweet tooth cravings and casual hangouts with friends.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/upinthecloudsph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "dessert",
+    "cafe",
+    "pancakes",
+    "instagrammable",
+    "sweet-treats"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "takeout",
+    "dine-in"
+  ],
+  "cuisineTypes": [
+    "desserts",
+    "cafe",
+    "breakfast"
+  ],
+  "specialties": [
+    "souffle-pancakes",
+    "waffles",
+    "ice-cream",
+    "milkshakes",
+    "coffee"
+  ],
+  "latitude": 14.6419,
+  "longitude": 121.0651,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

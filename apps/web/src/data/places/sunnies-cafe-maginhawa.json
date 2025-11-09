@@ -1,0 +1,79 @@
+{
+  "id": "259e3ce7-dc41-4bda-a6da-bd19b0f4486f",
+  "name": "Sunnies Cafe Maginhawa",
+  "slug": "sunnies-cafe-maginhawa",
+  "description": "A trendy all-day breakfast and brunch spot with Instagram-worthy interiors and plating. Offers comfort food favorites, specialty coffee, and aesthetic dishes popular with millennials and Gen Z diners.",
+  "address": "146 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8652 3456",
+  "email": "",
+  "website": "https://www.sunniescafe.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "brunch",
+    "all-day-breakfast",
+    "trendy",
+    "instagrammable",
+    "cafe"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "aesthetic-interiors"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "brunch",
+    "american"
+  ],
+  "specialties": [
+    "pancakes",
+    "all-day-breakfast",
+    "pasta",
+    "coffee"
+  ],
+  "latitude": 14.6429,
+  "longitude": 121.0643,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

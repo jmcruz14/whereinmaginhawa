@@ -1,0 +1,76 @@
+{
+  "id": "6d43d6d2-e503-420d-a21b-b0674b1ead99",
+  "name": "Brew Theory Coffee",
+  "slug": "brew-theory-coffee",
+  "description": "A modern specialty coffee shop with a scientific approach to coffee brewing. Features precision brewing methods, single-origin beans, and coffee education, appealing to coffee enthusiasts and curious learners alike.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/BrewTheoryCoffee",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "coffee-shop",
+    "specialty-coffee",
+    "modern",
+    "work-friendly",
+    "educational"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "coffee-beans"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "single-origin",
+    "coffee-education",
+    "espresso"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0646,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

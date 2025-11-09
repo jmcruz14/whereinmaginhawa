@@ -1,0 +1,74 @@
+{
+  "id": "027a5afe-e742-4403-92de-73553a60ecb9",
+  "name": "Garlic Kitchen",
+  "slug": "garlic-kitchen",
+  "description": "A garlic lover's paradise featuring dishes that celebrate the aromatic bulb. From garlic rice to garlic chicken, every dish incorporates garlic in creative and delicious ways, making it a unique dining experience.",
+  "address": "72 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/GarlicKitchenPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "filipino",
+    "unique-concept",
+    "casual-dining",
+    "garlic-themed"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "fusion"
+  ],
+  "specialties": [
+    "garlic-chicken",
+    "garlic-rice",
+    "garlic-shrimp",
+    "garlic-dishes"
+  ],
+  "latitude": 14.6415,
+  "longitude": 121.0648,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

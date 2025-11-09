@@ -1,0 +1,72 @@
+{
+  "id": "2e527e4d-f49e-41a6-8b59-460ff58722de",
+  "name": "Wasabae Japanese Cuisine",
+  "slug": "wasabae-japanese-cuisine",
+  "description": "A Japanese food stall at StrEAT Maginhawa Food Park offering sushi, ramen, and Japanese comfort food. Known for fresh ingredients and authentic flavors at accessible food park prices.",
+  "address": "91 Maginhawa St, UP Village (StrEAT Food Park), Quezon City",
+  "phone": "+63 915 012 3456",
+  "email": "",
+  "website": "https://www.facebook.com/wasabaeph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "japanese",
+    "food-park",
+    "sushi",
+    "ramen",
+    "authentic"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "japanese",
+    "asian"
+  ],
+  "specialties": [
+    "sushi",
+    "ramen",
+    "japanese-food",
+    "donburi"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

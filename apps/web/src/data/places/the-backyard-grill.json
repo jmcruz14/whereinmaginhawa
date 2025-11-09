@@ -1,0 +1,76 @@
+{
+  "id": "2908e7cf-150d-42df-bc6e-457e8322374d",
+  "name": "The Backyard Grill",
+  "slug": "the-backyard-grill",
+  "description": "A casual outdoor dining spot offering grilled specialties, barbecue, and Filipino favorites. Features al fresco seating in a relaxed garden setting perfect for gatherings and enjoying grilled food under the stars.",
+  "address": "122 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 926 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/backyardgrillph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "bbq",
+    "outdoor-dining",
+    "filipino",
+    "casual",
+    "group-friendly"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "garden-setting",
+    "dine-in",
+    "group-seating"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "bbq",
+    "grilled"
+  ],
+  "specialties": [
+    "bbq",
+    "grilled-meats",
+    "sisig",
+    "inihaw"
+  ],
+  "latitude": 14.6423,
+  "longitude": 121.0625,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "7a45d7b4-3273-4b45-bfe6-4d2272d8758c",
+  "name": "SGD Bodega / SGD Coffee",
+  "slug": "sgd-bodega-sgd-coffee",
+  "description": "Coffee shop specializing in Sagada coffee beans and mountain-grown Philippine coffee. Features single-origin brews, coffee-based drinks, and light meals in a rustic mountain-inspired setting.",
+  "address": "Matahimik Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/SGDCoffee",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "coffee",
+    "philippine-coffee",
+    "cafe",
+    "rustic"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "cafe"
+  ],
+  "specialties": [
+    "sagada-coffee",
+    "single-origin",
+    "barako",
+    "benguet-coffee"
+  ],
+  "latitude": 14.6416,
+  "longitude": 121.0654,
+  "createdAt": "2017-02-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "8ba7fc10-0db8-400d-b4ff-bf1a5e0a3fa1",
+  "name": "Pino Gelato",
+  "slug": "pino-gelato",
+  "description": "An artisanal gelato shop offering authentic Italian-style ice cream with Filipino flavor innovations. Features unique combinations using local ingredients like ube, mango, and calamansi alongside classic Italian flavors.",
+  "address": "163 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 918 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/pinogelato",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "gelato",
+    "dessert",
+    "artisan",
+    "filipino-flavors",
+    "italian"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "dessert",
+    "italian",
+    "gelato"
+  ],
+  "specialties": [
+    "artisan-gelato",
+    "ube-gelato",
+    "mango-gelato",
+    "italian-flavors"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0661,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

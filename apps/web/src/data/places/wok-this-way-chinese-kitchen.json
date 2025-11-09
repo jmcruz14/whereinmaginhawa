@@ -1,0 +1,73 @@
+{
+  "id": "9ef2fdf1-fdc0-43ae-9195-0fd36d485d12",
+  "name": "Wok This Way Chinese Kitchen",
+  "slug": "wok-this-way-chinese-kitchen",
+  "description": "A casual Chinese restaurant offering stir-fried dishes and noodles cooked fresh to order. Known for their quick service, generous portions, and affordable Chinese-Filipino favorites perfect for takeout.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/WokThisWay",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "noodles",
+    "budget-friendly",
+    "quick-service"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "chinese-filipino"
+  ],
+  "specialties": [
+    "stir-fried-noodles",
+    "chopsuey",
+    "sweet-and-sour",
+    "fried-rice"
+  ],
+  "latitude": 14.643,
+  "longitude": 121.0654,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

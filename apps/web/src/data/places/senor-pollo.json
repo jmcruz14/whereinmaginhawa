@@ -1,0 +1,72 @@
+{
+  "id": "e402a57c-7a01-480e-87ac-9eaf961ce165",
+  "name": "Señor Pollo",
+  "slug": "senor-pollo",
+  "description": "A Filipino rotisserie chicken chain offering Spanish-inspired roasted chicken. Known for their flavorful marinated chicken, rice meals, and affordable prices that make quality roasted chicken accessible to all.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 456 7890",
+  "email": "",
+  "website": "https://www.facebook.com/SenorPolloOfficial",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "roasted-chicken",
+    "budget-friendly",
+    "casual-dining",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "roasted-chicken",
+    "rice-meals",
+    "spanish-chicken",
+    "affordable-meals"
+  ],
+  "latitude": 14.6408,
+  "longitude": 121.0632,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

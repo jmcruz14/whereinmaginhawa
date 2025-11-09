@@ -1,0 +1,78 @@
+{
+  "id": "a3893e53-c175-4cf1-974c-7faed11b6181",
+  "name": "Tous Les Jours Maginhawa",
+  "slug": "tous-les-jours-maginhawa",
+  "description": "A French-Korean bakery chain offering premium breads, pastries, and cakes. Features European-style baked goods with Asian twists, specialty coffee, and elegant desserts in a bright, welcoming space.",
+  "address": "179 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8656 7890",
+  "email": "",
+  "website": "https://www.tljbakery.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "bakery",
+    "french",
+    "korean",
+    "pastries",
+    "cafe"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "french",
+    "bakery",
+    "korean"
+  ],
+  "specialties": [
+    "croissants",
+    "baguettes",
+    "cakes",
+    "pastries"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0676,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

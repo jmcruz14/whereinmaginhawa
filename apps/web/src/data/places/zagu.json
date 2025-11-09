@@ -1,0 +1,72 @@
+{
+  "id": "84a9d6ca-c4ba-4b16-b220-9d2085f18509",
+  "name": "Zagu",
+  "slug": "zagu",
+  "description": "A Filipino milk tea and shake brand that pioneered the pearls-in-drinks trend in the Philippines. Offers a wide variety of fruit shakes, milk teas, and refreshing beverages perfect for the tropical climate.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.zagu.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "milk-tea",
+    "shakes",
+    "beverages",
+    "budget-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "takeout",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "beverages",
+    "dessert"
+  ],
+  "specialties": [
+    "milk-tea",
+    "pearl-shakes",
+    "fruit-shakes",
+    "refreshments"
+  ],
+  "latitude": 14.643,
+  "longitude": 121.0654,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

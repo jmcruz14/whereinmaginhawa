@@ -1,0 +1,71 @@
+{
+  "id": "37efd8b2-9d4f-4c3f-bf6c-95d162911f9e",
+  "name": "Z Compound - Coffee Cart",
+  "slug": "z-compound-coffee-cart",
+  "description": "Mobile coffee cart serving espresso-based drinks, iced coffee, and specialty beverages. Perfect for a caffeine fix while enjoying the food park atmosphere.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 234 5678",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "coffee",
+    "beverages",
+    "quick-service",
+    "food-park"
+  ],
+  "amenities": [
+    "takeout",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "beverages"
+  ],
+  "specialties": [
+    "espresso",
+    "iced-coffee",
+    "americano",
+    "specialty-drinks"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

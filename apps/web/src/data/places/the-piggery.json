@@ -1,0 +1,73 @@
+{
+  "id": "b21c6529-a2f7-4494-8b3f-13ffac34a6b6",
+  "name": "The Piggery",
+  "slug": "the-piggery",
+  "description": "A food stall at 150 Maginhawa specializing in pork dishes from pulled pork sandwiches to pork belly. Celebrates all things pork with creative preparations and bold flavors in generous portions.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 915 012 3456",
+  "email": "",
+  "website": "https://www.facebook.com/thepiggeryph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "pork",
+    "food-park",
+    "american",
+    "sandwiches",
+    "casual"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "american",
+    "pork",
+    "bbq"
+  ],
+  "specialties": [
+    "pulled-pork",
+    "pork-belly",
+    "ribs",
+    "sandwiches"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

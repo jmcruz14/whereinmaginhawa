@@ -1,0 +1,72 @@
+{
+  "id": "52587e13-1fe0-44dd-a97f-d2ec1055dead",
+  "name": "Yeah Burgers X Sandwiches",
+  "slug": "yeah-burgers-x-sandwiches",
+  "description": "A burger and sandwich stall at 150 Maginhawa creating gourmet burgers with unique combinations. Features quality patties, creative toppings, and artisan buns at food park prices.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 919 345 6789",
+  "email": "",
+  "website": "https://www.facebook.com/yeahburgers",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "burgers",
+    "sandwiches",
+    "food-park",
+    "gourmet",
+    "casual"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "american",
+    "burgers",
+    "sandwiches"
+  ],
+  "specialties": [
+    "gourmet-burgers",
+    "sandwiches",
+    "fries"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "aa736cfd-d64e-4b6f-8a47-e0c6648fdb55",
+  "name": "Turks Shawarma",
+  "slug": "turks-shawarma",
+  "description": "A popular Turkish-inspired fast-food chain specializing in shawarma and kebabs. Known for their flavorful wraps, generous portions, and affordable prices that make Middle Eastern food accessible to everyone.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/TurksPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "middle-eastern",
+    "shawarma",
+    "fast-food",
+    "budget-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "middle-eastern",
+    "turkish"
+  ],
+  "specialties": [
+    "shawarma",
+    "kebab",
+    "wraps",
+    "garlic-sauce"
+  ],
+  "latitude": 14.6416,
+  "longitude": 121.064,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

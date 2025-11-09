@@ -1,0 +1,76 @@
+{
+  "id": "0e0c9a44-62c8-49ce-a1bc-f65c1b6a8d5a",
+  "name": "The Porch by Casa Verde",
+  "slug": "the-porch-by-casa-verde",
+  "description": "Casual dining restaurant famous for their oversized ribs and American comfort food. A branch of the iconic Casa Verde, offering the same generous portions and bold flavors in a relaxed setting.",
+  "address": "111 Scout Rallos Street, Tomas Morato Area, Quezon City",
+  "phone": "+63 2 8374 6699",
+  "email": "",
+  "website": "https://www.facebook.com/CasaVerdeRestaurant",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "american",
+    "ribs",
+    "comfort-food",
+    "family-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "american",
+    "comfort-food"
+  ],
+  "specialties": [
+    "brian-s-ribs",
+    "burgers",
+    "buffalo-wings",
+    "nachos"
+  ],
+  "latitude": 14.6383,
+  "longitude": 121.0349,
+  "createdAt": "2015-03-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

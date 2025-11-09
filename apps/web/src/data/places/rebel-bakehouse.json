@@ -1,0 +1,75 @@
+{
+  "id": "ec43e970-21e1-46c2-ae6e-d27d8b0d5866",
+  "name": "Rebel Bakehouse",
+  "slug": "rebel-bakehouse",
+  "description": "Baguio's famed bakehouse and cafe now in Maginhawa, offering artisanal breads, pastries, and coffee. Known for their quality baked goods made with premium ingredients and traditional baking techniques.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 789 3456",
+  "email": "",
+  "website": "https://www.facebook.com/RebelBakehouse",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "bakery",
+    "cafe",
+    "artisanal",
+    "baguio-brand",
+    "breakfast"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "wifi",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "bakery",
+    "cafe"
+  ],
+  "specialties": [
+    "artisanal-bread",
+    "pastries",
+    "coffee",
+    "breakfast"
+  ],
+  "latitude": 14.6414,
+  "longitude": 121.0644,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

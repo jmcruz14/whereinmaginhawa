@@ -1,0 +1,75 @@
+{
+  "id": "2a5bb739-3c55-49ce-b318-477ff0457c55",
+  "name": "Kyusi Kafe",
+  "slug": "kyusi-kafe",
+  "description": "Local neighborhood cafe serving Filipino comfort food and classic cafe beverages. Offers a relaxed, homey atmosphere perfect for casual meetups, study sessions, and enjoying traditional Filipino favorites at affordable prices.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/kyusikafe",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "cafe",
+    "filipino",
+    "local",
+    "neighborhood-spot",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "takeout",
+    "dine-in"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "cafe",
+    "breakfast"
+  ],
+  "specialties": [
+    "filipino-breakfast",
+    "coffee",
+    "rice-meals",
+    "silog-meals"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

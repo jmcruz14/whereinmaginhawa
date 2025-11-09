@@ -1,0 +1,72 @@
+{
+  "id": "6fec6593-a41c-49be-a9a4-c9f52ae2aa4d",
+  "name": "Shou Chinese Cuisines",
+  "slug": "shou-chinese-cuisines",
+  "description": "A Chinese food stall at 150 Maginhawa serving authentic Chinese dishes and dim sum. Offers dumplings, noodles, and classic Chinese favorites with traditional preparation methods at affordable prices.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 926 901 2345",
+  "email": "",
+  "website": "https://www.facebook.com/shouchinese",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "chinese",
+    "food-park",
+    "dim-sum",
+    "noodles",
+    "affordable"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "asian"
+  ],
+  "specialties": [
+    "dumplings",
+    "noodles",
+    "dim-sum",
+    "chinese-food"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

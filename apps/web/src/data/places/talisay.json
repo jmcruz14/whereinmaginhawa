@@ -1,0 +1,74 @@
+{
+  "id": "04945914-e5bf-4d13-97d7-29e104b96d85",
+  "name": "Talisay",
+  "slug": "talisay",
+  "description": "An upscale Filipino restaurant celebrating traditional cuisine with a modern touch. Set in a charming ancestral house, Talisay offers refined Filipino dishes using locally-sourced ingredients in an elegant, heritage-inspired setting.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 3544",
+  "email": "",
+  "website": "https://www.facebook.com/TalisayRestaurant",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "filipino",
+    "fine-dining",
+    "heritage",
+    "upscale",
+    "romantic"
+  ],
+  "amenities": [
+    "dine-in",
+    "reservation-recommended",
+    "air-conditioned",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "adobo",
+    "kinilaw",
+    "lechon-kawali",
+    "heirloom-recipes"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0625,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

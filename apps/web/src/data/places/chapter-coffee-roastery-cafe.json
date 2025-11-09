@@ -1,0 +1,76 @@
+{
+  "id": "3dc9a2e8-4bdc-4442-b978-7bdff124365b",
+  "name": "Chapter Coffee Roastery & Cafe",
+  "slug": "chapter-coffee-roastery-cafe",
+  "description": "A specialty coffee roastery and cafe devoted to the craft of coffee roasting and brewing. Features hand-brew bar with various brewing methods including Chemex, Kalita Wave, and V60, serving freshly roasted beans alongside full meals.",
+  "address": "143 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8640 0272",
+  "email": "em.chaptercoffee@gmail.com",
+  "website": "https://www.facebook.com/chaptercoffeeph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "coffee-shop",
+    "roastery",
+    "specialty-coffee",
+    "work-friendly",
+    "artisanal"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "outdoor-seating",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "pour-over",
+    "cold-brew",
+    "coffee-beans"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

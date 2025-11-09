@@ -1,0 +1,73 @@
+{
+  "id": "27130590-9750-4dff-a409-727ef8ca0ac3",
+  "name": "K-Pub Korean BBQ",
+  "slug": "k-pub-korean-bbq",
+  "description": "A trendy Korean BBQ restaurant with a modern pub atmosphere. Features unlimited Korean BBQ with premium meat selections, Korean side dishes, and a lively setting perfect for group celebrations.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/KPubBBQ",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "korean",
+    "bbq",
+    "unlimited",
+    "group-friendly",
+    "trendy"
+  ],
+  "amenities": [
+    "dine-in",
+    "air-conditioned",
+    "group-seating"
+  ],
+  "cuisineTypes": [
+    "korean"
+  ],
+  "specialties": [
+    "unlimited-korean-bbq",
+    "samgyupsal",
+    "bulgogi",
+    "korean-soju"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0652,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

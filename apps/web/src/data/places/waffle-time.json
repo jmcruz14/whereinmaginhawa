@@ -1,0 +1,75 @@
+{
+  "id": "6c5c759f-5847-42d7-967d-ccaf1888c9a7",
+  "name": "Waffle Time",
+  "slug": "waffle-time",
+  "description": "A cozy dessert cafe specializing in Belgian-style waffles with various sweet and savory toppings. Popular for their crispy waffles, gelato combinations, and milk tea, making it a favorite spot for afternoon treats and hangouts.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 567 2345",
+  "email": "",
+  "website": "https://www.facebook.com/WaffleTimePH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "dessert",
+    "waffles",
+    "cafe",
+    "student-friendly",
+    "hangout-spot"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "wifi",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "dessert",
+    "cafe"
+  ],
+  "specialties": [
+    "belgian-waffles",
+    "gelato",
+    "milk-tea",
+    "sweet-toppings"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0647,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

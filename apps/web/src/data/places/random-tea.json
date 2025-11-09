@@ -1,0 +1,74 @@
+{
+  "id": "53997e9a-9ff9-4305-9de0-e3c7b18a26b5",
+  "name": "Random Tea",
+  "slug": "random-tea",
+  "description": "A specialty tea shop at StrEAT Food Park offering milk teas, fruit teas, and unique tea blends. Known for creative flavors and quality tea leaves with customizable sweetness and toppings.",
+  "address": "91 Maginhawa St, UP Village (StrEAT Food Park), Quezon City",
+  "phone": "+63 918 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/randomteaph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "closed",
+      "close": "closed"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "bubble-tea",
+    "milk-tea",
+    "food-park",
+    "drinks",
+    "taiwanese"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "takeout",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "drinks",
+    "tea",
+    "taiwanese"
+  ],
+  "specialties": [
+    "milk-tea",
+    "fruit-tea",
+    "bubble-tea",
+    "specialty-tea"
+  ],
+  "latitude": 14.6431,
+  "longitude": 121.0593,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

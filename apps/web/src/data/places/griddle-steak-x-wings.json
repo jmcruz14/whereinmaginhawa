@@ -1,0 +1,76 @@
+{
+  "id": "1034ec5c-24b9-40bf-bedd-1fe94fd45605",
+  "name": "Griddle: Steak X Wings",
+  "slug": "griddle-steak-x-wings",
+  "description": "Casual dining spot specializing in affordable steaks and chicken wings with various flavors. Offers hearty American-style comfort food with generous portions, popular among students and young professionals for casual dining.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/griddlesteakxwings",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "american",
+    "steakhouse",
+    "wings",
+    "casual-dining",
+    "comfort-food"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "group-friendly"
+  ],
+  "cuisineTypes": [
+    "american",
+    "steakhouse"
+  ],
+  "specialties": [
+    "steak",
+    "chicken-wings",
+    "wing-flavors",
+    "burgers",
+    "rice-meals"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0648,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "29e943b4-091e-4878-958c-3f68232f466c",
+  "name": "Xurreria Cafe",
+  "slug": "xurreria-cafe",
+  "description": "A Spanish churros specialist at 150 Maginhawa serving authentic churros with chocolate dipping sauce. Offers freshly-fried churros with various toppings, dips, and Spanish hot chocolate.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 915 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/xurreriacafe",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "spanish",
+    "dessert",
+    "churros",
+    "food-park",
+    "sweet"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "spanish",
+    "dessert",
+    "cafe"
+  ],
+  "specialties": [
+    "churros",
+    "hot-chocolate",
+    "spanish-desserts"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

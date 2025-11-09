@@ -1,0 +1,74 @@
+{
+  "id": "85511913-146e-43d7-86ae-ee5efda836a7",
+  "name": "Neo Pizzeria",
+  "slug": "neo-pizzeria",
+  "description": "Contemporary pizzeria serving artisan pizzas with creative toppings and quality ingredients. Features thin-crust pizzas, pasta dishes, and Italian-inspired appetizers.",
+  "address": "Magiting Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 901 2345",
+  "email": "",
+  "website": "https://www.facebook.com/NeoPizzeriaPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "pizza",
+    "italian",
+    "artisan",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "italian",
+    "pizza"
+  ],
+  "specialties": [
+    "artisan-pizza",
+    "thin-crust",
+    "pasta",
+    "calzone"
+  ],
+  "latitude": 14.6421,
+  "longitude": 121.0659,
+  "createdAt": "2019-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

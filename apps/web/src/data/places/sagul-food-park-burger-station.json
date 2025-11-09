@@ -1,0 +1,71 @@
+{
+  "id": "27dadf93-808a-4e37-92ce-eaddd6f46b4f",
+  "name": "Sagul Food Park - Burger Station",
+  "slug": "sagul-food-park-burger-station",
+  "description": "Gourmet burger stall with creative flavor combinations and premium ingredients. Known for their juicy patties, artisan buns, and unique sauce selections.",
+  "address": "Sagul Food Park, Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 901 2345",
+  "email": "",
+  "website": "https://www.facebook.com/SagulFoodPark",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "burgers",
+    "american",
+    "food-park",
+    "casual"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "american",
+    "burgers"
+  ],
+  "specialties": [
+    "gourmet-burgers",
+    "cheese-burgers",
+    "loaded-fries"
+  ],
+  "latitude": 14.6437,
+  "longitude": 121.0644,
+  "createdAt": "2019-09-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

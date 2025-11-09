@@ -1,0 +1,77 @@
+{
+  "id": "c9fc7b76-b1f8-4c16-bd78-63e2a5e157c9",
+  "name": "Yellow Cab Pizza",
+  "slug": "yellow-cab-pizza",
+  "description": "A popular American-style pizza chain offering New York-style pizzas with thick crust and generous toppings. Known for their signature flavors and pasta dishes, perfect for pizza lovers and group orders.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8789 9000",
+  "email": "",
+  "website": "https://www.yellowcabpizza.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash"
+  ],
+  "tags": [
+    "pizza",
+    "american",
+    "casual-dining",
+    "family-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned",
+    "group-seating"
+  ],
+  "cuisineTypes": [
+    "american",
+    "pizza"
+  ],
+  "specialties": [
+    "new-york-pizza",
+    "dear-darla",
+    "4-cheese",
+    "pasta"
+  ],
+  "latitude": 14.6414,
+  "longitude": 121.0638,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

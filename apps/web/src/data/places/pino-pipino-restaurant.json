@@ -1,0 +1,75 @@
+{
+  "id": "aad23204-c6f5-4bbe-8047-b6acab493667",
+  "name": "Pino / Pipino Restaurant",
+  "slug": "pino-pipino-restaurant",
+  "description": "A contemporary Filipino restaurant celebrating local ingredients and traditional recipes with modern presentations. Offers elevated Filipino dishes showcasing regional flavors and forgotten heirloom recipes.",
+  "address": "47 Malingap St, Teacher's Village, Quezon City",
+  "phone": "+63 919 567 8901",
+  "email": "",
+  "website": "https://www.facebook.com/pinopipino",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "filipino",
+    "contemporary",
+    "upscale",
+    "modern",
+    "regional"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "reservation-recommended"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "modern-filipino",
+    "contemporary"
+  ],
+  "specialties": [
+    "modern-filipino",
+    "heirloom-recipes",
+    "regional-cuisine"
+  ],
+  "latitude": 14.6401,
+  "longitude": 121.0615,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

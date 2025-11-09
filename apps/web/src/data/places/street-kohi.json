@@ -1,0 +1,73 @@
+{
+  "id": "c323f7b3-b1a1-4106-ac99-7b6b0db13d56",
+  "name": "Street Kohi",
+  "slug": "street-kohi",
+  "description": "Japanese-inspired street coffee concept serving specialty coffee and light Japanese snacks. Known for their minimalist aesthetic and quality brews at accessible prices.",
+  "address": "Matahimik Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 456 7890",
+  "email": "",
+  "website": "https://www.instagram.com/streetkohiph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "coffee",
+    "japanese",
+    "minimalist",
+    "specialty-coffee"
+  ],
+  "amenities": [
+    "takeout",
+    "outdoor-seating",
+    "wifi"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "japanese"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "pour-over",
+    "cold-brew",
+    "onigiri"
+  ],
+  "latitude": 14.6415,
+  "longitude": 121.0655,
+  "createdAt": "2023-04-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

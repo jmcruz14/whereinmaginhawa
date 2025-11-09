@@ -1,0 +1,77 @@
+{
+  "id": "59228d88-334d-4ccb-8bac-059505250a8e",
+  "name": "Handlebar Maginhawa",
+  "slug": "handlebar-maginhawa",
+  "description": "A bicycle-themed cafe and bar catering to cycling enthusiasts and coffee lovers. Features bike parking, repair station, specialty coffee, craft beers, and hearty meals in a cyclist-friendly atmosphere.",
+  "address": "159 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 925 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/handlebarph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "00:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "bike-cafe",
+    "coffee",
+    "bar",
+    "cyclist-friendly",
+    "unique"
+  ],
+  "amenities": [
+    "wifi",
+    "bike-parking",
+    "bike-repair",
+    "outdoor-seating",
+    "bar"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "american",
+    "bar-food"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "craft-beer",
+    "burgers",
+    "cyclist-hangout"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0657,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

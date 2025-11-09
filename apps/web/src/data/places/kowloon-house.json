@@ -1,0 +1,74 @@
+{
+  "id": "6facc9de-7832-468b-a8df-17a1af80f902",
+  "name": "Kowloon House",
+  "slug": "kowloon-house",
+  "description": "Chinese restaurant serving Cantonese and Hong Kong-style dishes. Known for their dim sum, noodle soups, and classic Chinese comfort food at affordable prices.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 456 7890",
+  "email": "",
+  "website": "https://www.facebook.com/KowloonHouseQC",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "chinese",
+    "cantonese",
+    "dim-sum",
+    "family-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "cantonese"
+  ],
+  "specialties": [
+    "dim-sum",
+    "noodle-soup",
+    "fried-rice",
+    "sweet-and-sour"
+  ],
+  "latitude": 14.644,
+  "longitude": 121.064,
+  "createdAt": "2015-11-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

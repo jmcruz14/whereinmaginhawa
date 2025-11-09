@@ -1,0 +1,76 @@
+{
+  "id": "f96af003-0f04-4f12-947f-4279b42a655d",
+  "name": "Falafel Yo!",
+  "slug": "falafel-yo",
+  "description": "A Middle Eastern fast-casual spot specializing in authentic falafel wraps, shawarma, and Mediterranean bowls. Uses fresh ingredients and traditional spices to create healthy, flavorful Middle Eastern street food.",
+  "address": "165 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 915 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/falafelyo",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "middle-eastern",
+    "mediterranean",
+    "healthy",
+    "fast-casual",
+    "vegetarian-options"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "middle-eastern",
+    "mediterranean",
+    "lebanese"
+  ],
+  "specialties": [
+    "falafel",
+    "shawarma",
+    "hummus",
+    "mediterranean-bowl"
+  ],
+  "latitude": 14.6423,
+  "longitude": 121.0663,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

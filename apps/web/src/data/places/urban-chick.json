@@ -1,0 +1,72 @@
+{
+  "id": "5169a17a-5862-44f0-9145-f49c79ca6e05",
+  "name": "Urban Chick",
+  "slug": "urban-chick",
+  "description": "A modern Filipino restaurant specializing in fried chicken and comfort food. Features their signature crispy fried chicken with various flavors and dips, served in a contemporary casual dining setting.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 678 2345",
+  "email": "",
+  "website": "https://www.instagram.com/urbanchickmaginhawa",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "filipino",
+    "fried-chicken",
+    "casual-dining",
+    "modern"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "fried-chicken",
+    "chicken-varieties",
+    "comfort-food"
+  ],
+  "latitude": 14.6425,
+  "longitude": 121.0633,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

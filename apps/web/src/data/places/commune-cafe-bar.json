@@ -1,0 +1,77 @@
+{
+  "id": "0e7c5ff2-1379-480f-af03-4a9356dcd1fa",
+  "name": "Commune Cafe + Bar",
+  "slug": "commune-cafe-bar",
+  "description": "A hip cafe and bar serving specialty coffee by day and craft cocktails by night. Features a curated menu of modern comfort food, live music events, and a creative atmosphere popular with young professionals.",
+  "address": "151 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 919 901 2345",
+  "email": "",
+  "website": "https://www.facebook.com/communecafebar",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "01:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "02:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "02:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "cafe",
+    "bar",
+    "coffee",
+    "cocktails",
+    "live-music"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "bar",
+    "dine-in",
+    "live-events"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "fusion",
+    "bar-food"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "craft-cocktails",
+    "fusion-food",
+    "live-music"
+  ],
+  "latitude": 14.6417,
+  "longitude": 121.0651,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

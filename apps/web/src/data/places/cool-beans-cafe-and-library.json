@@ -1,0 +1,80 @@
+{
+  "id": "3dbe7658-d6f1-496b-9e4a-a791cbb11b56",
+  "name": "Cool Beans Cafe and Library",
+  "slug": "cool-beans-cafe-and-library",
+  "description": "Quiet study cafe featuring an extensive book collection and reading nooks perfect for students and remote workers. Serves quality coffee, healthy meals, and comfort food in a peaceful, library-like atmosphere conducive to concentration.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 XXX XXXX",
+  "email": "",
+  "website": "https://www.facebook.com/coolbeanscafeandlibrary",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "cafe",
+    "library",
+    "study-spot",
+    "work-friendly",
+    "quiet",
+    "student-friendly"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "books",
+    "study-area",
+    "power-outlets",
+    "quiet-zone"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee",
+    "international"
+  ],
+  "specialties": [
+    "study-space",
+    "coffee",
+    "all-day-breakfast",
+    "pasta",
+    "reading-room"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0647,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

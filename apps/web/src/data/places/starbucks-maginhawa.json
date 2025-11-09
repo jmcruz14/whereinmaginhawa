@@ -1,0 +1,83 @@
+{
+  "id": "fb4195b2-9d16-488e-9694-4ff2300fa4fb",
+  "name": "Starbucks Maginhawa",
+  "slug": "starbucks-maginhawa",
+  "description": "Global coffee chain offering premium coffee, tea, and light meals. Popular study and work spot with reliable wifi, comfortable seating, and signature beverages. Features seasonal drinks and local food partnerships.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 2 XXX XXXX",
+  "email": "",
+  "website": "https://www.starbucks.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash",
+    "paymaya",
+    "starbucks-card"
+  ],
+  "tags": [
+    "coffee-shop",
+    "cafe",
+    "study-spot",
+    "work-friendly",
+    "wifi",
+    "chain"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "power-outlets",
+    "takeout",
+    "delivery",
+    "drive-thru"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "cafe",
+    "american"
+  ],
+  "specialties": [
+    "frappuccino",
+    "espresso",
+    "pike-place-roast",
+    "pastries",
+    "sandwiches"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.065,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

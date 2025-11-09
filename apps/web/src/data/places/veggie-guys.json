@@ -1,0 +1,75 @@
+{
+  "id": "6fc81de1-5477-41d6-aa71-5f74e91ce4b7",
+  "name": "Veggie Guys",
+  "slug": "veggie-guys",
+  "description": "Plant-based restaurant offering creative vegetarian and vegan options in a casual setting. Features meat alternatives and healthy bowls that appeal to both vegetarians and meat-eaters looking for healthier options.",
+  "address": "Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 234 5678",
+  "email": "",
+  "website": "https://www.facebook.com/VeggieGuysManila",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "healthy",
+    "plant-based"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "vegetarian",
+    "vegan",
+    "healthy"
+  ],
+  "specialties": [
+    "vegan-burgers",
+    "buddha-bowls",
+    "plant-based-meat",
+    "smoothie-bowls"
+  ],
+  "latitude": 14.6432,
+  "longitude": 121.0648,
+  "createdAt": "2019-05-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

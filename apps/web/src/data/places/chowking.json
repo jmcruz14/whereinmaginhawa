@@ -1,0 +1,75 @@
+{
+  "id": "725b1ee1-a628-4e44-92dc-dcaaad051279",
+  "name": "Chowking",
+  "slug": "chowking",
+  "description": "A popular Filipino-Chinese fast-food chain offering Chinese-style noodles, dim sum, and rice meals. Known for their Chao Fan, Lauriat meals, and Halo-Halo that combine Chinese and Filipino flavors.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 9999",
+  "email": "",
+  "website": "https://www.chowking.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "chinese",
+    "filipino",
+    "fast-food",
+    "family-friendly",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "filipino"
+  ],
+  "specialties": [
+    "chao-fan",
+    "lauriat",
+    "siomai",
+    "halo-halo"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0644,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

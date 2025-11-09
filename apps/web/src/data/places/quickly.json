@@ -1,0 +1,72 @@
+{
+  "id": "6ea55cfe-e474-40cd-aff5-a0f2e8c62414",
+  "name": "Quickly",
+  "slug": "quickly",
+  "description": "A Taiwanese bubble tea chain offering authentic milk teas, fruit teas, and tapioca pearl drinks. Known for their consistent quality and wide variety of flavored beverages popular among students and young professionals.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/QuicklyPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "milk-tea",
+    "taiwanese",
+    "bubble-tea",
+    "beverages",
+    "chain"
+  ],
+  "amenities": [
+    "takeout",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "taiwanese",
+    "beverages"
+  ],
+  "specialties": [
+    "milk-tea",
+    "bubble-tea",
+    "tapioca-pearls",
+    "fruit-tea"
+  ],
+  "latitude": 14.6432,
+  "longitude": 121.0656,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "079bf760-6052-4953-878e-6ed4f6cbae56",
+  "name": "Hapag Heritage",
+  "slug": "hapag-heritage",
+  "description": "A Filipino heritage restaurant celebrating traditional family recipes passed down through generations. Offers authentic Filipino home cooking in a nostalgic setting that honors culinary traditions and cultural heritage.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/HapagHeritage",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "heritage",
+    "traditional",
+    "family-recipes",
+    "cultural"
+  ],
+  "amenities": [
+    "dine-in",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "heirloom-recipes",
+    "traditional-filipino",
+    "adobo",
+    "sinigang"
+  ],
+  "latitude": 14.6429,
+  "longitude": 121.0643,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

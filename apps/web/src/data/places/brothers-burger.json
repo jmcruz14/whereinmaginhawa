@@ -1,0 +1,73 @@
+{
+  "id": "482eea10-9daf-43a8-b984-40ac850d8c60",
+  "name": "Brothers Burger",
+  "slug": "brothers-burger",
+  "description": "A homegrown Filipino burger chain offering premium burgers made with quality ingredients. Known for their juicy patties, creative burger combinations, and commitment to using 100% pure beef.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 345 6789",
+  "email": "",
+  "website": "https://www.brothersburger.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "burgers",
+    "casual-dining",
+    "premium",
+    "chain"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "american"
+  ],
+  "specialties": [
+    "burgers",
+    "beef-patties",
+    "fries",
+    "shakes"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0652,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "d56fb96b-692b-45fc-bc46-e925b62a9074",
+  "name": "Taco Vengo",
+  "slug": "taco-vengo",
+  "description": "A vibrant Mexican taqueria serving authentic street-style tacos and Mexican favorites. Features fresh ingredients, homemade salsas, and a fun, colorful atmosphere that brings Mexican street food culture to Maginhawa.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 456 0123",
+  "email": "",
+  "website": "https://www.facebook.com/TacoVengo",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "mexican",
+    "tacos",
+    "street-food",
+    "casual-dining",
+    "colorful"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "mexican"
+  ],
+  "specialties": [
+    "tacos",
+    "mexican-street-food",
+    "burritos",
+    "margaritas"
+  ],
+  "latitude": 14.6415,
+  "longitude": 121.0637,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

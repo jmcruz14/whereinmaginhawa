@@ -1,0 +1,72 @@
+{
+  "id": "1148ca88-4fe0-4069-87ae-9da74eb8408e",
+  "name": "Tropical Hut",
+  "slug": "tropical-hut",
+  "description": "A classic Filipino burger chain with nostalgic appeal, serving burgers and sandwiches since the 1960s. Known for their retro vibe and old-school Filipino-American fast food that brings back childhood memories.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8441 8888",
+  "email": "",
+  "website": "https://www.facebook.com/TropicalHutPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "burgers",
+    "retro",
+    "nostalgic",
+    "budget-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "american"
+  ],
+  "specialties": [
+    "burgers",
+    "sandwiches",
+    "fried-chicken",
+    "halo-halo"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0642,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

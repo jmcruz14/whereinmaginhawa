@@ -1,0 +1,74 @@
+{
+  "id": "f1182136-3ad2-4363-9803-4df852c8132e",
+  "name": "Ling Nam",
+  "slug": "ling-nam",
+  "description": "A long-standing Chinese restaurant serving authentic Cantonese and Filipino-Chinese cuisine. Known for their dim sum, noodles, and classic Chinese dishes at affordable prices, beloved by generations of UP students and locals.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 2 8709 4444",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card"
+  ],
+  "tags": [
+    "chinese",
+    "cantonese",
+    "dim-sum",
+    "family-friendly",
+    "local-favorite"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "cantonese"
+  ],
+  "specialties": [
+    "dim-sum",
+    "yang-chow-fried-rice",
+    "sweet-and-sour",
+    "noodles"
+  ],
+  "latitude": 14.6432,
+  "longitude": 121.0651,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

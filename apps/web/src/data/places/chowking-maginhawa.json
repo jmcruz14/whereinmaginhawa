@@ -1,0 +1,79 @@
+{
+  "id": "b303c6d8-be9c-4d4d-a926-7fabb2f24ccc",
+  "name": "Chowking Maginhawa",
+  "slug": "chowking-maginhawa",
+  "description": "Chinese-Filipino fast-food chain serving Filipino-Chinese fusion dishes including dim sum, noodles, and congee. Popular for their Halo-Halo, Lauriat meals, and affordable Chinese-style comfort food.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 2 XXX XXXX",
+  "email": "",
+  "website": "https://www.chowking.com",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "07:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "chinese",
+    "filipino",
+    "fast-food",
+    "dim-sum",
+    "family-friendly"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "dine-in",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "filipino",
+    "fusion"
+  ],
+  "specialties": [
+    "dim-sum",
+    "lauriat",
+    "chao-fan",
+    "halo-halo",
+    "wonton-noodles"
+  ],
+  "latitude": 14.642,
+  "longitude": 121.0653,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "e5205d83-3634-4d28-8564-2db58086bf55",
+  "name": "Peri Peri Charcoal Chicken",
+  "slug": "peri-peri-charcoal-chicken",
+  "description": "A fast-casual restaurant specializing in Portuguese-style peri peri charcoal chicken with varying spice levels. Known for their juicy, flame-grilled chicken served with flavorful rice and signature sauces.",
+  "address": "135 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/periperiph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "21:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "21:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "portuguese",
+    "chicken",
+    "fast-casual",
+    "affordable",
+    "spicy"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "quick-service"
+  ],
+  "cuisineTypes": [
+    "portuguese",
+    "grilled",
+    "chicken"
+  ],
+  "specialties": [
+    "peri-peri-chicken",
+    "charcoal-grilled",
+    "spicy-chicken"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0633,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "bcc70186-6283-405c-bc89-ea6420c5ba8d",
+  "name": "Fat Cousins' Diner",
+  "slug": "fat-cousins-diner",
+  "description": "An American-style diner serving hearty comfort food and classic diner fare. Famous for their burgers, steaks, and all-day breakfast, with generous portions that satisfy big appetites at reasonable prices.",
+  "address": "114 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/FatCousinsDiner",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "american",
+    "diner",
+    "comfort-food",
+    "casual-dining",
+    "burgers"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "american"
+  ],
+  "specialties": [
+    "burgers",
+    "steaks",
+    "all-day-breakfast",
+    "comfort-food"
+  ],
+  "latitude": 14.6432,
+  "longitude": 121.0661,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

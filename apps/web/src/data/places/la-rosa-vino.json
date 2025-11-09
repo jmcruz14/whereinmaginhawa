@@ -1,0 +1,76 @@
+{
+  "id": "88be02b6-4d83-45e3-b3ea-b526e1d0fa65",
+  "name": "La Rosa Vino",
+  "slug": "la-rosa-vino",
+  "description": "An intimate wine bar and bistro featuring an extensive wine selection from around the world. Offers wine pairings with European-inspired small plates in a romantic, sophisticated ambiance perfect for date nights.",
+  "address": "156 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 922 456 7890",
+  "email": "",
+  "website": "https://www.facebook.com/larosavino",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "00:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "02:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "02:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "00:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "wine-bar",
+    "romantic",
+    "date-spot",
+    "intimate",
+    "upscale"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "intimate-setting"
+  ],
+  "cuisineTypes": [
+    "european",
+    "wine-bar",
+    "tapas"
+  ],
+  "specialties": [
+    "wine",
+    "wine-pairing",
+    "charcuterie",
+    "cheese-board"
+  ],
+  "latitude": 14.6419,
+  "longitude": 121.0654,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ad2fc63b-fd32-43bc-a97c-af6290a14e13",
+  "name": "Romantic Baboy",
+  "slug": "romantic-baboy",
+  "description": "An unlimited Korean BBQ restaurant offering a wide variety of marinated meats and side dishes. Perfect for groups, featuring all-you-can-eat samgyupsal, bulgogi, and traditional Korean banchan at affordable prices.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/RomanticBaboy",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "00:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "korean",
+    "bbq",
+    "unlimited",
+    "group-friendly",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "air-conditioned",
+    "group-seating"
+  ],
+  "cuisineTypes": [
+    "korean"
+  ],
+  "specialties": [
+    "samgyupsal",
+    "unlimited-bbq",
+    "bulgogi",
+    "korean-bbq"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0635,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

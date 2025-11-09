@@ -1,0 +1,74 @@
+{
+  "id": "03d1d6ce-a6c0-43ff-bb6e-06f9b4642ae7",
+  "name": "Homa Persian Cuisine",
+  "slug": "homa-persian-cuisine",
+  "description": "Authentic Persian restaurant bringing the flavors of Iran to Maginhawa. Known for their traditional kebabs, rice dishes, and warm hospitality in a cozy setting. Features classic Persian dishes like joojeh kebab, koobideh, and tahdig.",
+  "address": "Malingap Street corner Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "+63 917 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/homa.maginhawa",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "persian",
+    "middle-eastern",
+    "halal",
+    "casual-dining"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "persian",
+    "middle-eastern"
+  ],
+  "specialties": [
+    "kebabs",
+    "joojeh-kebab",
+    "koobideh",
+    "tahdig",
+    "persian-rice"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0651,
+  "createdAt": "2024-07-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

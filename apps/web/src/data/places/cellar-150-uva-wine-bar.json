@@ -1,0 +1,76 @@
+{
+  "id": "97e2de42-a757-4553-a066-5c7bb1debdd2",
+  "name": "Cellar 150 / UVA Wine Bar",
+  "slug": "cellar-150-uva-wine-bar",
+  "description": "An intimate wine bar at 150 Maginhawa Food Park offering curated wine selections and cheese pairings. Features both local and imported wines with knowledgeable staff in a sophisticated yet relaxed atmosphere.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 917 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/cellar150",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "wine-bar",
+    "food-park",
+    "intimate",
+    "sophisticated",
+    "date-spot"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "wine-selection",
+    "dine-in",
+    "bar"
+  ],
+  "cuisineTypes": [
+    "wine-bar",
+    "tapas",
+    "cheese"
+  ],
+  "specialties": [
+    "wine",
+    "cheese-board",
+    "wine-pairing",
+    "charcuterie"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

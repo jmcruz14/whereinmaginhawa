@@ -1,0 +1,72 @@
+{
+  "id": "e2b9beec-bd66-4860-8e10-d37e88081842",
+  "name": "Papa Diddi's",
+  "slug": "papa-diddis",
+  "description": "An ice cream parlor and dessert shop serving handcrafted ice cream and sweet treats. Known for their unique Filipino-inspired flavors and classic favorites, perfect for cooling down after a Maginhawa food crawl.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 890 2345",
+  "email": "",
+  "website": "https://www.facebook.com/PapaDiddis",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "dessert",
+    "ice-cream",
+    "family-friendly",
+    "filipino-flavors"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "dessert"
+  ],
+  "specialties": [
+    "ice-cream",
+    "filipino-flavors",
+    "desserts",
+    "waffles"
+  ],
+  "latitude": 14.643,
+  "longitude": 121.0645,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "fbae9cdb-3ec7-4254-8d54-699d84d4a392",
+  "name": "Wings Gone Wild",
+  "slug": "wings-gone-wild",
+  "description": "A wings specialist at 150 Maginhawa Food Park offering various flavors and heat levels. From mild to extra spicy, serves crispy chicken wings with creative sauces perfect for sharing with friends and cold beer.",
+  "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
+  "phone": "+63 927 123 4567",
+  "email": "",
+  "website": "https://www.facebook.com/wingsgonewild",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "16:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "16:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "16:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "wings",
+    "food-park",
+    "chicken",
+    "spicy",
+    "casual"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "food-stall"
+  ],
+  "cuisineTypes": [
+    "american",
+    "chicken",
+    "bar-food"
+  ],
+  "specialties": [
+    "chicken-wings",
+    "buffalo-wings",
+    "sauces",
+    "spicy"
+  ],
+  "latitude": 14.6413,
+  "longitude": 121.0649,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

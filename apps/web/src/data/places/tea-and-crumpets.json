@@ -1,0 +1,75 @@
+{
+  "id": "5a283698-4122-45e1-b2c6-9af986a6283f",
+  "name": "Tea & Crumpets",
+  "slug": "tea-and-crumpets",
+  "description": "A charming British-inspired tea room and cafe offering afternoon tea service, scones, and English breakfast. Features a cozy Victorian-style interior perfect for leisurely tea times and light meals.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/TeaAndCrumpetsPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "british",
+    "tea-room",
+    "afternoon-tea",
+    "cozy",
+    "vintage"
+  ],
+  "amenities": [
+    "dine-in",
+    "wifi",
+    "air-conditioned",
+    "intimate-setting"
+  ],
+  "cuisineTypes": [
+    "british",
+    "cafe"
+  ],
+  "specialties": [
+    "afternoon-tea",
+    "scones",
+    "english-breakfast",
+    "pastries"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0646,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ebd410fe-1fe1-484d-b482-b58f180565c8",
+  "name": "Pakibalot Panciteria",
+  "slug": "pakibalot-panciteria",
+  "description": "A no-frills panciteria serving authentic Binondo-style Chinese-Filipino noodles. Known for their affordable and delicious pancit canton and other noodle dishes, perfect for takeout and quick meals.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/PakibalotPanciteria",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "20:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash"
+  ],
+  "tags": [
+    "chinese-filipino",
+    "noodles",
+    "budget-friendly",
+    "takeout",
+    "local-favorite"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "chinese",
+    "filipino"
+  ],
+  "specialties": [
+    "pancit-canton",
+    "noodles",
+    "chinese-filipino",
+    "lumpia"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0641,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

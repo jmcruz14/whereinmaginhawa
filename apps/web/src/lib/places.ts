@@ -1,32 +1,45 @@
 import Fuse, { type IFuseOptions } from 'fuse.js';
-import placesData from '@/data/places.json';
-import type { Place, SearchFilters, SearchResult } from '@/types/place';
+import placesIndex from '@/data/places.json';
+import type { Place, PlaceIndex, SearchFilters, SearchResult } from '@/types/place';
 
 /**
- * Get all places
+ * Get all places (index data only)
+ * Returns lightweight PlaceIndex objects for listing and search
  */
-export function getAllPlaces(): Place[] {
-  return placesData as Place[];
+export function getAllPlaces(): PlaceIndex[] {
+  return placesIndex as PlaceIndex[];
 }
 
 /**
- * Get a single place by slug
+ * Get a single place by slug (full data)
+ * Dynamically imports the individual place file
  */
-export function getPlaceBySlug(slug: string): Place | undefined {
-  return placesData.find((place) => place.slug === slug) as Place | undefined;
+export async function getPlaceBySlug(slug: string): Promise<Place | undefined> {
+  try {
+    // Dynamically import the individual place file
+    const placeData = await import(`@/data/places/${slug}.json`);
+    return placeData.default as Place;
+  } catch (error) {
+    // File not found or import failed
+    console.error(`Failed to load place: ${slug}`, error);
+    return undefined;
+  }
 }
 
 /**
- * Get place by ID
+ * Get place by ID (searches index, returns full data)
  */
-export function getPlaceById(id: string): Place | undefined {
-  return placesData.find((place) => place.id === id) as Place | undefined;
+export async function getPlaceById(id: string): Promise<Place | undefined> {
+  const placeIndex = placesIndex.find((place) => place.id === id) as PlaceIndex | undefined;
+  if (!placeIndex) return undefined;
+  return getPlaceBySlug(placeIndex.slug);
 }
 
 /**
  * Fuse.js configuration for fuzzy search
+ * Uses PlaceIndex for lightweight searching
  */
-const fuseOptions: IFuseOptions<Place> = {
+const fuseOptions: IFuseOptions<PlaceIndex> = {
   keys: [
     { name: 'name', weight: 2 },
     { name: 'description', weight: 1 },
@@ -84,19 +97,13 @@ export function searchPlaces(filters: SearchFilters): SearchResult {
   }
 
   // Filter by open now
+  // Note: This feature is disabled in the lightweight index mode
+  // To re-enable, operating hours would need to be added to PlaceIndex
+  // or we'd need to async load each place's full data (expensive)
   if (filters.openNow) {
-    const now = new Date();
-    const dayOfWeek = now
-      .toLocaleString('en-US', { weekday: 'long' })
-      .toLowerCase();
-    const currentTime = now.toTimeString().slice(0, 5); // HH:MM format
-
-    results = results.filter((place) => {
-      const hours = place.operatingHours[dayOfWeek];
-      if (!hours || hours.closed) return false;
-
-      return currentTime >= hours.open && currentTime <= hours.close;
-    });
+    console.warn('openNow filter is not supported with PlaceIndex. Add operatingHours to index or load full place data.');
+    // Could be implemented by adding a minimal hours field to PlaceIndex
+    // or by making this function async and loading full data
   }
 
   // Filter by favorites
@@ -150,9 +157,10 @@ export function getAllCuisineTypes(): string[] {
 
 /**
  * Get autocomplete suggestions based on query
+ * Returns PlaceIndex for lightweight results
  */
 export function getAutocompleteSuggestions(query: string): {
-  places: Place[];
+  places: PlaceIndex[];
   tags: string[];
   amenities: string[];
   cuisines: string[];

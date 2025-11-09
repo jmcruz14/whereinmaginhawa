@@ -1,0 +1,76 @@
+{
+  "id": "1b360c44-18c5-4a8d-8067-75f49558bb55",
+  "name": "Deja Brew Coffee",
+  "slug": "deja-brew-coffee",
+  "description": "Neighborhood coffee shop and cafe with a homey atmosphere. Serves specialty coffee, all-day breakfast, and comfort food perfect for students and remote workers.",
+  "address": "Matahimik Street, Teacher's Village, Quezon City",
+  "phone": "+63 920 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/DejaBrewCoffee",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "coffee",
+    "cafe",
+    "breakfast",
+    "work-friendly",
+    "wifi"
+  ],
+  "amenities": [
+    "wifi",
+    "power-outlets",
+    "dine-in",
+    "takeout",
+    "air-conditioned"
+  ],
+  "cuisineTypes": [
+    "coffee",
+    "cafe",
+    "breakfast"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "all-day-breakfast",
+    "pasta",
+    "sandwiches"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0657,
+  "createdAt": "2016-10-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "b96c8553-3153-4325-bb73-f22d7ef9df5f",
+  "name": "Z Compound - Bagneto",
+  "slug": "z-compound-bagneto",
+  "description": "Bagnet specialist stall serving crispy Ilocano-style fried pork belly with various Filipino side dishes and rice combinations. A favorite for bagnet lovers.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 901 2345",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "bagnet",
+    "ilocano",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "ilocano"
+  ],
+  "specialties": [
+    "bagnet",
+    "crispy-pork-belly",
+    "kbl",
+    "pinakbet"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

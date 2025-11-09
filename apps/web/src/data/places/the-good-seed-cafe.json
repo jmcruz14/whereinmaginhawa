@@ -1,0 +1,77 @@
+{
+  "id": "4216f7d1-c596-4b1b-98fa-c9a8f55d2a86",
+  "name": "The Good Seed Cafe",
+  "slug": "the-good-seed-cafe",
+  "description": "A healthy cafe focusing on organic, plant-based meals and smoothie bowls. Offers vegan and vegetarian options with fresh, locally-sourced ingredients in a bright, wellness-focused environment.",
+  "address": "136 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 918 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/goodseedcafe",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "close": "20:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "20:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "healthy",
+    "vegan",
+    "vegetarian",
+    "organic",
+    "wellness"
+  ],
+  "amenities": [
+    "wifi",
+    "air-conditioned",
+    "dine-in",
+    "takeout",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "vegan",
+    "vegetarian",
+    "healthy"
+  ],
+  "specialties": [
+    "smoothie-bowls",
+    "vegan-meals",
+    "organic-salads",
+    "cold-pressed-juice"
+  ],
+  "latitude": 14.6427,
+  "longitude": 121.0634,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

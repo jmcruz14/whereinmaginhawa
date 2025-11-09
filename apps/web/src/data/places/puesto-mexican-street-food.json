@@ -1,0 +1,73 @@
+{
+  "id": "6e7f6175-29b8-432d-aa0c-ceecd092f5d7",
+  "name": "Puesto Mexican Street Food",
+  "slug": "puesto-mexican-street-food",
+  "description": "An authentic Mexican street food joint serving tacos, burritos, and quesadillas. Features bold flavors and fresh ingredients in a casual, vibrant setting that captures the essence of Mexican food culture.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "",
+  "email": "",
+  "website": "https://www.facebook.com/PuestoMexican",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "mexican",
+    "street-food",
+    "tacos",
+    "casual-dining",
+    "vibrant"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery"
+  ],
+  "cuisineTypes": [
+    "mexican"
+  ],
+  "specialties": [
+    "tacos",
+    "burritos",
+    "quesadillas",
+    "nachos"
+  ],
+  "latitude": 14.6418,
+  "longitude": 121.0638,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

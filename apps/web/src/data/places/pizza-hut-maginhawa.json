@@ -1,0 +1,80 @@
+{
+  "id": "04b86141-94db-41e1-9cf9-4d5bde6db4f9",
+  "name": "Pizza Hut Maginhawa",
+  "slug": "pizza-hut-maginhawa",
+  "description": "International pizza chain offering pan pizza, thin crust options, pasta, and chicken wings. Perfect for group dining, family meals, and casual celebrations with reliable delivery service and dine-in options.",
+  "address": "Maginhawa Street, Teacher's Village, Quezon City",
+  "phone": "8-911-1111",
+  "email": "",
+  "website": "https://www.pizzahut.com.ph",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "debit-card",
+    "gcash",
+    "paymaya"
+  ],
+  "tags": [
+    "pizza",
+    "american",
+    "family-friendly",
+    "delivery",
+    "chain"
+  ],
+  "amenities": [
+    "takeout",
+    "delivery",
+    "dine-in",
+    "air-conditioned",
+    "group-friendly"
+  ],
+  "cuisineTypes": [
+    "american",
+    "italian",
+    "pizza"
+  ],
+  "specialties": [
+    "pan-pizza",
+    "thin-crust-pizza",
+    "pasta",
+    "chicken-wings",
+    "stuffed-crust"
+  ],
+  "latitude": 14.6422,
+  "longitude": 121.0651,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

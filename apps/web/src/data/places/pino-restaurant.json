@@ -1,0 +1,76 @@
+{
+  "id": "38b7b1ec-da26-4cdc-ae70-5bdedf2ce4d0",
+  "name": "Pino Restaurant",
+  "slug": "pino-restaurant",
+  "description": "An upscale Filipino restaurant reinventing traditional dishes with modern techniques and presentations. Celebrates Filipino culinary heritage through innovative interpretations of classic recipes using premium local ingredients.",
+  "address": "132 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 922 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/pinorestaurant",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card",
+    "debit-card"
+  ],
+  "tags": [
+    "filipino",
+    "modern",
+    "upscale",
+    "innovative",
+    "fine-dining"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "reservation-recommended",
+    "wine-list"
+  ],
+  "cuisineTypes": [
+    "filipino",
+    "modern-filipino",
+    "contemporary"
+  ],
+  "specialties": [
+    "modern-filipino",
+    "innovative-adobo",
+    "elevated-sinigang"
+  ],
+  "latitude": 14.6426,
+  "longitude": 121.0632,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

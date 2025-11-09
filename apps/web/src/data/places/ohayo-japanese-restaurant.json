@@ -1,0 +1,75 @@
+{
+  "id": "5db42e95-c4aa-4502-a5eb-324e7ea59a6a",
+  "name": "Ohayo Japanese Restaurant",
+  "slug": "ohayo-japanese-restaurant",
+  "description": "A cozy Japanese eatery serving traditional Japanese dishes including sushi, sashimi, and teppanyaki. Family-run establishment known for fresh ingredients and authentic flavors at reasonable prices.",
+  "address": "142 Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/ohayojapanese",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "japanese",
+    "sushi",
+    "authentic",
+    "family-friendly",
+    "casual-dining"
+  ],
+  "amenities": [
+    "air-conditioned",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "japanese",
+    "sushi",
+    "teppanyaki"
+  ],
+  "specialties": [
+    "sushi",
+    "sashimi",
+    "teppanyaki",
+    "bento"
+  ],
+  "latitude": 14.6428,
+  "longitude": 121.0638,
+  "createdAt": "2025-01-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

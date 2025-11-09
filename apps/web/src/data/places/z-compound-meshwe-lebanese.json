@@ -1,0 +1,72 @@
+{
+  "id": "3c3bd9e7-fc3e-4f36-99ce-1a0709b06d37",
+  "name": "Z Compound - Meshwe Lebanese Cuisine",
+  "slug": "z-compound-meshwe-lebanese",
+  "description": "Lebanese food stall in Z Compound specializing in shawarma, kebabs, and authentic Middle Eastern dishes. Known for generous portions and flavorful marinades.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 918 890 1234",
+  "email": "",
+  "website": "https://www.facebook.com/MeshwePH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "lebanese",
+    "middle-eastern",
+    "halal",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "lebanese",
+    "middle-eastern"
+  ],
+  "specialties": [
+    "shawarma",
+    "kebabs",
+    "falafel",
+    "hummus"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

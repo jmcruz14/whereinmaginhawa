@@ -1,0 +1,71 @@
+{
+  "id": "1d4e6b22-42de-422a-a7ee-160ab5449cf9",
+  "name": "Nipa Hut Grill",
+  "slug": "nipa-hut-grill",
+  "description": "A Filipino grill restaurant with a traditional nipa hut-inspired setting. Specializes in grilled Filipino favorites like inihaw na liempo, chicken inasal, and seafood in a rustic, homey atmosphere.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 234 8901",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "filipino",
+    "grill",
+    "traditional",
+    "family-friendly"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "filipino"
+  ],
+  "specialties": [
+    "inihaw",
+    "chicken-inasal",
+    "grilled-seafood",
+    "bbq"
+  ],
+  "latitude": 14.6424,
+  "longitude": 121.0633,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

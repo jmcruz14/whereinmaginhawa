@@ -1,0 +1,75 @@
+{
+  "id": "df68f0ed-fc3e-4b81-8b18-cf49bd2b863f",
+  "name": "Smokey's",
+  "slug": "smokeys",
+  "description": "A rustic barbecue restaurant specializing in slow-smoked meats and American-style BBQ. Features ribs, brisket, and pulled pork smoked to perfection, served with homemade BBQ sauces and classic sides.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 789 0123",
+  "email": "",
+  "website": "https://www.facebook.com/SmokeysBBQ",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "close": "22:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "credit-card",
+    "gcash"
+  ],
+  "tags": [
+    "american",
+    "bbq",
+    "smoked-meats",
+    "casual-dining",
+    "rustic"
+  ],
+  "amenities": [
+    "dine-in",
+    "takeout",
+    "delivery",
+    "outdoor-seating"
+  ],
+  "cuisineTypes": [
+    "american",
+    "bbq"
+  ],
+  "specialties": [
+    "smoked-ribs",
+    "pulled-pork",
+    "brisket",
+    "bbq-sauce"
+  ],
+  "latitude": 14.6414,
+  "longitude": 121.0638,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

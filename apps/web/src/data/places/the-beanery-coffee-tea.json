@@ -1,0 +1,76 @@
+{
+  "id": "af97d85a-8aa8-4014-9d11-a90ec676756d",
+  "name": "The Beanery Coffee & Tea",
+  "slug": "the-beanery-coffee-tea",
+  "description": "A relaxed coffee shop and tea house offering a wide selection of coffee blends and specialty teas. Features comfortable seating, free wifi, and a quiet atmosphere ideal for studying or remote work.",
+  "address": "Maginhawa St, Teacher's Village, Quezon City",
+  "phone": "+63 917 678 9012",
+  "email": "",
+  "website": "https://www.facebook.com/BeaneryPH",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "07:00",
+      "close": "23:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$$",
+  "paymentMethods": [
+    "cash",
+    "gcash",
+    "credit-card"
+  ],
+  "tags": [
+    "coffee-shop",
+    "tea-house",
+    "work-friendly",
+    "study-spot",
+    "quiet"
+  ],
+  "amenities": [
+    "wifi",
+    "dine-in",
+    "takeout",
+    "air-conditioned",
+    "power-outlets"
+  ],
+  "cuisineTypes": [
+    "cafe",
+    "coffee"
+  ],
+  "specialties": [
+    "specialty-coffee",
+    "tea-selection",
+    "pastries",
+    "sandwiches"
+  ],
+  "latitude": 14.6412,
+  "longitude": 121.0636,
+  "createdAt": "2025-11-09T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}

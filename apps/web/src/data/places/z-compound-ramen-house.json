@@ -1,0 +1,72 @@
+{
+  "id": "c05aa2f4-5676-4ea1-ad7f-bcb9c35ff82a",
+  "name": "Z Compound - Ramen House",
+  "slug": "z-compound-ramen-house",
+  "description": "Japanese ramen stall serving various ramen flavors including tonkotsu, miso, and shoyu. Features authentic broth and toppings with customizable spice levels.",
+  "address": "Z Compound, 33A Malingap Street, Teacher's Village, Quezon City",
+  "phone": "+63 919 901 2345",
+  "email": "",
+  "website": "",
+  "coverImageUrl": "",
+  "photosUrls": [],
+  "operatingHours": {
+    "monday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "tuesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "wednesday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "thursday": {
+      "open": "17:00",
+      "close": "23:00"
+    },
+    "friday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "saturday": {
+      "open": "17:00",
+      "close": "01:00"
+    },
+    "sunday": {
+      "open": "17:00",
+      "close": "23:00"
+    }
+  },
+  "priceRange": "$",
+  "paymentMethods": [
+    "cash",
+    "gcash"
+  ],
+  "tags": [
+    "japanese",
+    "ramen",
+    "noodles",
+    "food-park"
+  ],
+  "amenities": [
+    "outdoor-seating",
+    "dine-in",
+    "takeout"
+  ],
+  "cuisineTypes": [
+    "japanese",
+    "ramen"
+  ],
+  "specialties": [
+    "tonkotsu-ramen",
+    "miso-ramen",
+    "shoyu-ramen",
+    "spicy-ramen"
+  ],
+  "latitude": 14.6445,
+  "longitude": 121.0635,
+  "createdAt": "2016-08-01T00:00:00Z",
+  "updatedAt": "2025-11-09T00:00:00Z"
+}
