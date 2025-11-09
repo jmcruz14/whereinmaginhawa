@@ -7,11 +7,11 @@ import { PlaceCard } from '@/components/place/place-card';
 import { PlaceFilters } from '@/components/filters/place-filters';
 import { Button } from '@/components/ui/button';
 import { searchPlaces, getAllPlaces } from '@/lib/places';
-import type { Place, SearchFilters } from '@/types/place';
+import type { PlaceIndex, SearchFilters } from '@/types/place';
 
 function PlacesContent() {
   const searchParams = useSearchParams();
-  const [places, setPlaces] = useState<Place[]>([]);
+  const [places, setPlaces] = useState<PlaceIndex[]>([]);
   const [filters, setFilters] = useState<SearchFilters>({});
   const [showMobileFilters, setShowMobileFilters] = useState(false);
 

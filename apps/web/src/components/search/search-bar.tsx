@@ -7,14 +7,14 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { getAutocompleteSuggestions } from '@/lib/places';
-import type { Place } from '@/types/place';
+import type { PlaceIndex } from '@/types/place';
 
 export function SearchBar() {
   const router = useRouter();
   const [query, setQuery] = useState('');
   const [isOpen, setIsOpen] = useState(false);
   const [suggestions, setSuggestions] = useState<{
-    places: Place[];
+    places: PlaceIndex[];
     tags: string[];
     amenities: string[];
     cuisines: string[];

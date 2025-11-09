@@ -7,10 +7,10 @@ import { MapPin, Clock, DollarSign, Wifi, ParkingCircle, Heart } from 'lucide-re
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { PlaceImage } from './place-image';
-import type { Place } from '@/types/place';
+import type { PlaceIndex } from '@/types/place';
 
 interface PlaceCardProps {
-  place: Place;
+  place: PlaceIndex;
   index?: number;
 }
 
