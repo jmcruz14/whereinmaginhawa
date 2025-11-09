@@ -68,6 +68,41 @@
     "updatedAt": "2025-11-09T00:00:00Z"
   },
   {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "7-Eleven Maginhawa",
+    "slug": "7-eleven-maginhawa",
+    "description": "Convenience store chain offering ready-to-eat meals, snacks, beverages, and 24/7 access. Popular for quick bites, late-night munchies, hot meals, and Slurpees. Essential stop for students and night owls in Maginhawa.",
+    "address": "Maginhawa Street, Teacher's Village, Quezon City",
+    "coverImageUrl": "",
+    "priceRange": "$",
+    "tags": [
+      "convenience-store",
+      "quick-bite",
+      "24-7",
+      "snacks",
+      "beverages"
+    ],
+    "amenities": [
+      "takeout",
+      "24-hours",
+      "air-conditioned",
+      "atm",
+      "bills-payment"
+    ],
+    "cuisineTypes": [
+      "convenience",
+      "quick-service"
+    ],
+    "specialties": [
+      "ready-to-eat-meals",
+      "slurpee",
+      "coffee",
+      "sandwiches",
+      "snacks"
+    ],
+    "updatedAt": "2025-11-09T00:00:00Z"
+  },
+  {
     "id": "dfe470a3-9cee-4087-bf0d-25544857e131",
     "name": "7-Eleven Maginhawa",
     "slug": "7-eleven-maginhawa",
