@@ -117,15 +117,22 @@ jobs:
           echo "commit_sha=$COMMIT_SHA" >> $GITHUB_OUTPUT
           echo "✅ Pushed commit: $COMMIT_SHA"
 
-      - name: Wait for GitHub to process commit
+      - name: Deployment complete
         if: steps.check_changes.outputs.changed == 'true'
         run: |
-          echo "⏳ Waiting 10 seconds for GitHub to process the commit..."
-          sleep 10
-          echo "✅ Ready to trigger deployment"
+          echo "✅ Places data built and committed successfully!"
+          echo ""
+          echo "📦 Updated files:"
+          echo "  - apps/web/src/data/places.json"
+          echo "  - apps/web/src/data/stats.json"
+          echo ""
+          echo "🚀 Vercel will automatically detect the commit and deploy"
+          echo "   The custom build script will check if deployment is needed"
+          echo ""
+          echo "🔗 Check deployment at: https://vercel.com/dashboard"
 
-      - name: Trigger Vercel deployment
-        if: steps.check_changes.outputs.changed == 'true'
+      - name: Webhook fallback (optional)
+        if: false  # Disabled - Using GitHub integration instead
         env:
           VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
@@ -166,14 +173,45 @@ jobs:
               echo "📋 Job ID: $JOB_ID"
               echo "📊 State: $JOB_STATE"
               echo ""
-              echo "🔗 View deployment at:"
-              echo "   https://vercel.com/dashboard"
+
+              # Extract project ID from webhook URL
+              PROJECT_ID=$(echo "$VERCEL_DEPLOY_HOOK" | grep -oP 'prj_[^/]+' || echo "unknown")
+              echo "🆔 Project ID: $PROJECT_ID"
               echo ""
-              echo "💡 If you don't see the deployment in your dashboard:"
-              echo "   1. Make sure you're viewing the correct Vercel project"
-              echo "   2. Check the 'Deployments' tab (not just production)"
-              echo "   3. Try refreshing the page after 1-2 minutes"
-              echo "   4. Verify the deploy hook is for the correct project and branch"
+
+              # Wait a bit for deployment to start
+              echo "⏳ Waiting 5 seconds for deployment to initialize..."
+              sleep 5
+
+              # Try to get more info about the deployment
+              echo "🔍 Checking deployment status..."
+              echo ""
+              echo "🔗 Direct links to check:"
+              echo "   Dashboard: https://vercel.com/dashboard"
+              if [ "$PROJECT_ID" != "unknown" ]; then
+                echo "   Project: https://vercel.com/${PROJECT_ID}"
+              fi
+              echo ""
+              echo "⚠️  IMPORTANT: If deployments are not appearing in your dashboard,"
+              echo "   this usually means one of the following:"
+              echo ""
+              echo "   1. ❌ Deploy hook is for a DIFFERENT Vercel project"
+              echo "      → Verify the project ID matches: $PROJECT_ID"
+              echo ""
+              echo "   2. ❌ You're viewing the WRONG Vercel account/team"
+              echo "      → Make sure you're logged into the correct account"
+              echo ""
+              echo "   3. ❌ Deploy hook is for a PREVIEW/BRANCH deployment"
+              echo "      → Check all deployments, not just production"
+              echo ""
+              echo "   4. ⚙️  Webhook creates job but Vercel build is failing silently"
+              echo "      → The deployment might be failing before it shows up"
+              echo ""
+              echo "🔧 RECOMMENDED SOLUTION:"
+              echo "   Instead of using deploy hooks, use Vercel's GitHub integration"
+              echo "   with an 'Ignored Build Step' to control when builds run."
+              echo ""
+              echo "   This will show ALL deployments in your dashboard properly."
             else
               echo "⚠️  Deployment may have been triggered, but response format unexpected"
               echo "Check your Vercel dashboard to confirm"
