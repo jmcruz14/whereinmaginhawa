@@ -137,11 +137,48 @@ function formatValidationError(result: ValidationResult): string {
   if (result.errors) {
     result.errors.forEach(error => {
       const path = error.path.join('.');
-      lines.push(`  • ${path || 'root'}: ${error.message}`);
+      const fieldName = path || 'root';
+      lines.push(`  • ${fieldName}: ${error.message}`);
+
+      // Add helpful hints for common errors
+      const suggestions = getFieldSuggestion(fieldName, error.message);
+      if (suggestions) {
+        lines.push(`    💡 ${suggestions}`);
+      }
     });
   }
 
   return lines.join('\n');
+}
+
+/**
+ * Get helpful suggestions for common validation errors
+ */
+function getFieldSuggestion(field: string, message: string): string | null {
+  const suggestions: Record<string, string> = {
+    'id': 'Generate a UUID at https://www.uuidgenerator.net/',
+    'slug': 'Use lowercase letters, numbers, and hyphens only (e.g., "rodics-diner")',
+    'email': 'Must be a valid email (e.g., "contact@example.com") or leave empty ""',
+    'website': 'Must start with http:// or https:// (e.g., "https://example.com") or leave empty ""',
+    'logoUrl': 'Must be a valid URL starting with http:// or https://, or leave empty ""',
+    'coverImageUrl': 'Must be a valid URL starting with http:// or https://, or leave empty ""',
+    'priceRange': 'Must be one of: "$", "$$", "$$$", or "$$$$"',
+    'cuisineTypes': 'Must have at least one cuisine type (e.g., ["Filipino", "Casual Dining"])',
+    'createdAt': 'Must be ISO 8601 format (e.g., "2024-01-15T10:30:00.000Z")',
+    'updatedAt': 'Must be ISO 8601 format (e.g., "2024-01-15T10:30:00.000Z")',
+  };
+
+  // Check for operating hours time format errors
+  if (field.includes('operatingHours') && message.includes('HH:MM')) {
+    return 'Time must be in 24-hour format HH:MM (e.g., "09:00", "17:30")';
+  }
+
+  // Check for photo URL errors
+  if (field.startsWith('photosUrls')) {
+    return 'Each photo URL must be valid and start with http:// or https://';
+  }
+
+  return suggestions[field] || null;
 }
 
 /**
@@ -150,16 +187,21 @@ function formatValidationError(result: ValidationResult): string {
 function main() {
   const args = process.argv.slice(2);
 
-  if (args.length === 0) {
-    console.error('Usage: validate-place <file-or-directory>');
+  // Check for CI mode flag
+  const ciMode = args.includes('--ci');
+  const filteredArgs = args.filter(arg => arg !== '--ci');
+
+  if (filteredArgs.length === 0) {
+    console.error('Usage: validate-place <file-or-directory> [--ci]');
     console.error('');
     console.error('Examples:');
     console.error('  validate-place apps/web/src/data/places/rodics-diner.json');
     console.error('  validate-place apps/web/src/data/places');
+    console.error('  validate-place apps/web/src/data/places/rodics-diner.json --ci');
     process.exit(1);
   }
 
-  const target = args[0];
+  const target = filteredArgs[0];
   const targetPath = path.resolve(process.cwd(), target);
 
   // Check if target exists
@@ -186,6 +228,30 @@ function main() {
   const validResults = results.filter(r => r.valid);
   const invalidResults = results.filter(r => !r.valid);
 
+  // CI mode: output clean, parseable format
+  if (ciMode) {
+    if (invalidResults.length > 0) {
+      invalidResults.forEach(result => {
+        if (result.errors) {
+          result.errors.forEach(error => {
+            const path = error.path.join('.');
+            const fieldName = path || 'root';
+            console.error(`ERROR: ${fieldName}: ${error.message}`);
+
+            const suggestion = getFieldSuggestion(fieldName, error.message);
+            if (suggestion) {
+              console.error(`HINT: ${suggestion}`);
+            }
+          });
+        }
+      });
+      process.exit(1);
+    }
+    console.info('VALIDATION_PASSED');
+    process.exit(0);
+  }
+
+  // Normal mode: pretty output
   // Print invalid results
   if (invalidResults.length > 0) {
     console.error('❌ Validation Failed\n');
