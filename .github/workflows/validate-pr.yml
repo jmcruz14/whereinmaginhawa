@@ -67,37 +67,27 @@ jobs:
 
               # Run validation with --ci flag for clean output
               if OUTPUT=$(pnpm validate:place "$file" --ci 2>&1); then
-                VALIDATION_OUTPUT="${VALIDATION_OUTPUT}### ✅ \`${file}\`
-
-Validation passed!
-
-"
+                VALIDATION_OUTPUT="${VALIDATION_OUTPUT}### ✅ \`${file}\`"$'\n\n'"Validation passed!"$'\n\n'
               else
                 ALL_VALID=false
 
                 # Format error output for markdown
-                FILE_ERRORS="### ❌ \`${file}\`
+                FILE_ERRORS="### ❌ \`${file}\`"$'\n\n'"**Validation Errors:**"$'\n\n'
 
-**Validation Errors:**
-
-"
                 # Parse ERROR and HINT lines
                 while IFS= read -r line; do
                   if [[ $line == ERROR:* ]]; then
                     # Extract field and message
                     ERROR_MSG="${line#ERROR: }"
-                    FILE_ERRORS="${FILE_ERRORS}- **${ERROR_MSG}**
-"
+                    FILE_ERRORS="${FILE_ERRORS}- **${ERROR_MSG}**"$'\n'
                   elif [[ $line == HINT:* ]]; then
                     # Extract hint
                     HINT_MSG="${line#HINT: }"
-                    FILE_ERRORS="${FILE_ERRORS}  - 💡 ${HINT_MSG}
-"
+                    FILE_ERRORS="${FILE_ERRORS}  - 💡 ${HINT_MSG}"$'\n'
                   fi
                 done <<< "$OUTPUT"
 
-                FILE_ERRORS="${FILE_ERRORS}
-"
+                FILE_ERRORS="${FILE_ERRORS}"$'\n'
                 VALIDATION_OUTPUT="${VALIDATION_OUTPUT}${FILE_ERRORS}"
               fi
             fi
