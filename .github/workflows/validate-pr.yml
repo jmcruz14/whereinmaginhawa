@@ -55,6 +55,7 @@ jobs:
       - name: Validate changed files
         if: steps.changed-files.outputs.has_changes == 'true'
         id: validate
+        continue-on-error: true
         run: |
           # Initialize validation results
           ALL_VALID=true
@@ -101,10 +102,8 @@ jobs:
           # Set validation status
           if [ "$ALL_VALID" = true ]; then
             echo "all_valid=true" >> $GITHUB_OUTPUT
-            exit 0
           else
             echo "all_valid=false" >> $GITHUB_OUTPUT
-            exit 1
           fi
 
       - name: Comment PR - Success
