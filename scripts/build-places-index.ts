@@ -35,6 +35,7 @@ type PlaceIndex = {
   slug: string;
   description: string;
   address: string;
+  logoUrl?: string;
   coverImageUrl?: string;
   priceRange: string;
   tags: string[];
@@ -42,6 +43,7 @@ type PlaceIndex = {
   cuisineTypes: string[];
   specialties: string[];
   updatedAt: string;
+  createdBy?: string;
 };
 
 /**
@@ -54,6 +56,7 @@ function extractIndexFields(place: Place): PlaceIndex {
     slug: place.slug,
     description: place.description,
     address: place.address,
+    logoUrl: place.logoUrl,
     coverImageUrl: place.coverImageUrl,
     priceRange: place.priceRange,
     tags: place.tags,
@@ -61,6 +64,7 @@ function extractIndexFields(place: Place): PlaceIndex {
     cuisineTypes: place.cuisineTypes,
     specialties: place.specialties,
     updatedAt: place.updatedAt,
+    createdBy: place.createdBy,
   };
 }
 

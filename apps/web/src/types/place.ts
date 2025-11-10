@@ -6,11 +6,17 @@
 export type DayOfWeek = 'monday' | 'tuesday' | 'wednesday' | 'thursday' | 'friday' | 'saturday' | 'sunday';
 
 export interface OperatingHours {
-  [key: string]: {
-    open: string;   // Format: "HH:MM" (24-hour)
-    close: string;  // Format: "HH:MM" (24-hour)
-    closed?: boolean;
-  };
+  [key: string]:
+    | {
+        closed: any;  // Accepts any truthy value (true, 1, "yes", etc.)
+        open?: string;
+        close?: string;
+      }
+    | {
+        open: string;   // Format: "HH:MM" (24-hour)
+        close: string;  // Format: "HH:MM" (24-hour)
+        closed?: false;
+      };
 }
 
 export type PriceRange = '$' | '$$' | '$$$' | '$$$$';
@@ -26,6 +32,14 @@ export interface Tag {
   category: TagCategory;
 }
 
+export interface Contributor {
+  name: string;           // Display name or nickname (required)
+  email?: string;         // Optional email
+  github?: string;        // Optional social media handle
+  contributedAt: string;  // ISO 8601 timestamp
+  action: 'created' | 'updated' | 'verified';  // Type of contribution
+}
+
 /**
  * PlaceIndex - Lightweight type for list views and search
  * Contains only essential fields needed for browsing and filtering
@@ -37,6 +51,7 @@ export interface PlaceIndex {
   slug: string;
   description: string;
   address: string;
+  logoUrl?: string;
   coverImageUrl?: string;
   priceRange: PriceRange;
 
@@ -48,6 +63,7 @@ export interface PlaceIndex {
 
   // Metadata
   updatedAt: string;
+  createdBy?: string;  // Display name of original creator
 }
 
 /**
@@ -90,6 +106,10 @@ export interface Place {
   // Metadata
   createdAt: string;
   updatedAt: string;
+
+  // Contributor Information
+  createdBy?: string;              // Display name of original creator
+  contributors?: Contributor[];    // History of all contributors
 
   // Optional future fields
   rating?: number;

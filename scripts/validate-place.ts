@@ -11,14 +11,33 @@ import path from 'path';
  */
 
 // Define operating hours schema
+// Accepts either { closed: truthy } or { open: "HH:MM", close: "HH:MM" }
 const operatingHoursSchema = z.record(
   z.string(),  // Keys are day names (strings)
-  z.object({
-    open: z.string().regex(/^\d{2}:\d{2}$/, 'Time must be in HH:MM format'),
-    close: z.string().regex(/^\d{2}:\d{2}$/, 'Time must be in HH:MM format'),
-    closed: z.boolean().optional(),
-  })
+  z.union([
+    // Day is closed (accepts any truthy value)
+    z.object({
+      closed: z.any().refine(val => !!val, { message: 'Closed must be truthy' }),
+      open: z.string().optional(),
+      close: z.string().optional(),
+    }),
+    // Day is open with hours
+    z.object({
+      open: z.string().regex(/^\d{2}:\d{2}$/, 'Time must be in HH:MM format'),
+      close: z.string().regex(/^\d{2}:\d{2}$/, 'Time must be in HH:MM format'),
+      closed: z.literal(false).optional(),
+    }),
+  ])
 );
+
+// Define contributor schema
+const contributorSchema = z.object({
+  name: z.string().min(1, 'Contributor name is required'),
+  email: z.string().email('Invalid email format').optional(),
+  github: z.string().optional(),
+  contributedAt: z.string().datetime('Invalid contribution timestamp'),
+  action: z.enum(['created', 'updated', 'verified']),
+});
 
 // Define the complete Place schema
 const placeSchema = z.object({
@@ -60,6 +79,10 @@ const placeSchema = z.object({
   // Metadata
   createdAt: z.string().datetime('Invalid createdAt timestamp'),
   updatedAt: z.string().datetime('Invalid updatedAt timestamp'),
+
+  // Contributor Information
+  createdBy: z.string().min(1, 'Creator name is required'),
+  contributors: z.array(contributorSchema).optional(),
 
   // Optional future fields
   rating: z.number().min(0).max(5).optional(),
