@@ -45,9 +45,35 @@ export async function generateMetadata({ params }: PlacePageProps): Promise<Meta
     };
   }
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://whereinmaginhawa.com';
+  const pageUrl = `${siteUrl}/places/${place.slug}`;
+  const ogImage = place.coverImageUrl || `${siteUrl}/og-default.png`;
+
   return {
     title: `${place.name} | Where In Maginhawa`,
     description: place.description,
+    openGraph: {
+      title: place.name,
+      description: place.description,
+      url: pageUrl,
+      siteName: 'Where In Maginhawa',
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: `${place.name} - ${place.description}`,
+        },
+      ],
+      locale: 'en_PH',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: place.name,
+      description: place.description,
+      images: [ogImage],
+    },
   };
 }
 
