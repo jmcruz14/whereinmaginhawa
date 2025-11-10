@@ -40,6 +40,34 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
+  icons: {
+    icon: [
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' },
+      { url: '/android-icon-192x192.png', sizes: '192x192', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-icon-57x57.png', sizes: '57x57' },
+      { url: '/apple-icon-60x60.png', sizes: '60x60' },
+      { url: '/apple-icon-72x72.png', sizes: '72x72' },
+      { url: '/apple-icon-76x76.png', sizes: '76x76' },
+      { url: '/apple-icon-114x114.png', sizes: '114x114' },
+      { url: '/apple-icon-120x120.png', sizes: '120x120' },
+      { url: '/apple-icon-144x144.png', sizes: '144x144' },
+      { url: '/apple-icon-152x152.png', sizes: '152x152' },
+      { url: '/apple-icon-180x180.png', sizes: '180x180' },
+    ],
+    other: [
+      { rel: 'mask-icon', url: '/safari-pinned-tab.svg' },
+    ],
+  },
+  manifest: '/manifest.json',
+  themeColor: '#ffffff',
+  other: {
+    'msapplication-TileColor': '#ffffff',
+    'msapplication-TileImage': '/ms-icon-144x144.png',
+  },
   openGraph: {
     title: "Where In Maginhawa | Find the Best Restaurants & Cafés",
     description: "Discover the best restaurants, cafés, and food spots on Maginhawa Street and nearby areas in Teacher's Village, Quezon City. Your ultimate guide to dining with 225+ places to explore.",
@@ -49,7 +77,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-default.png",
         width: 1200,
         height: 630,
         alt: "Where In Maginhawa - Discover Maginhawa Street Restaurants",
@@ -60,7 +88,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Where In Maginhawa | Find the Best Restaurants & Cafés",
     description: "Discover the best restaurants, cafés, and food spots on Maginhawa Street and nearby areas in Teacher's Village, Quezon City.",
-    images: ["/og-image.jpg"],
+    images: ["/og-default.png"],
     creator: "@whereinmaginhawa",
   },
   robots: {
