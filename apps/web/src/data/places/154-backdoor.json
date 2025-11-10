@@ -4,10 +4,8 @@
   "slug": "154-backdoor",
   "description": "A trendy sports bar and restobar offering craft beers, cocktails, and comfort food. Features multiple TV screens for sports viewing, pool tables, and a lively atmosphere perfect for nightlife and watching games with friends.",
   "address": "154 Maginhawa St, Teacher's Village, Quezon City",
-  "phone": "+63 915 678 9012",
-  "email": "",
-  "website": "https://www.facebook.com/154backdoor",
-  "coverImageUrl": "",
+  "phone": "09424861044",
+  "website": "https://www.instagram.com/154backdoor/",
   "photosUrls": [],
   "operatingHours": {
     "monday": {
@@ -73,6 +71,13 @@
   "latitude": 14.6418,
   "longitude": 121.0653,
   "createdAt": "2025-01-01T00:00:00Z",
-  "updatedAt": "2025-11-09T00:00:00Z",
-  "createdBy": "Joff Tiquez"
+  "updatedAt": "2025-11-10T15:22:39.167Z",
+  "createdBy": "Joff Tiquez",
+  "contributors": [
+    {
+      "name": "Joff Tiquez",
+      "contributedAt": "2025-11-10T15:22:39.167Z",
+      "action": "updated"
+    }
+  ]
 }
