@@ -66,14 +66,14 @@ export function PlaceCard({ place }: PlaceCardProps) {
       <Link href={`/places/${place.slug}`}>
         <Card className="group transition-all duration-300 overflow-visible border border-gray-200 hover:border-primary h-full p-0">
           {/* Image */}
-          <div className="relative aspect-4/3 md:aspect-video bg-orange-50 overflow-hidden rounded-t-xl">
+          <div className="relative aspect-21/9 md:aspect-video bg-orange-50 overflow-hidden rounded-t-xl">
             <PlaceImage
               src={place.coverImageUrl}
               alt={place.name}
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
               fallbackContent={
                 <div className="w-full h-full flex items-center justify-center">
-                  <ImageIcon className="w-12 h-12 md:w-16 md:h-16 text-primary opacity-30" />
+                  <ImageIcon className="w-16 h-16 text-primary opacity-30" />
                 </div>
               }
             />
@@ -81,11 +81,11 @@ export function PlaceCard({ place }: PlaceCardProps) {
             {/* Favorite button */}
             <button
               onClick={toggleFavorite}
-              className="absolute top-2 right-2 md:top-3 md:right-3 p-1.5 md:p-2 bg-white/90 backdrop-blur-sm rounded-full hover:bg-white transition-colors border border-gray-200"
+              className="absolute top-3 right-3 p-2 bg-white/90 backdrop-blur-sm rounded-full hover:bg-white transition-colors border border-gray-200"
               aria-label={isFavorite ? 'Remove from favorites' : 'Add to favorites'}
             >
               <Heart
-                className={`w-4 h-4 md:w-5 md:h-5 transition-colors ${
+                className={`w-5 h-5 transition-colors ${
                   isFavorite
                     ? 'fill-red-500 text-red-500'
                     : 'text-gray-600 hover:text-red-500'
@@ -94,45 +94,45 @@ export function PlaceCard({ place }: PlaceCardProps) {
             </button>
 
             {/* Price range badge */}
-            <div className="absolute bottom-2 right-2 md:bottom-3 md:right-3">
-              <Badge className="bg-white/90 backdrop-blur-sm text-green-700 font-bold border border-gray-200 hover:bg-white text-xs">
+            <div className="absolute bottom-3 right-3">
+              <Badge className="bg-white/90 backdrop-blur-sm text-green-700 font-bold border border-gray-200 hover:bg-white">
                 {place.priceRange}
               </Badge>
             </div>
           </div>
 
-          <CardHeader className="pb-2 md:pb-3 pt-3 md:pt-4 relative">
+          <CardHeader className="pb-3 pt-4 relative">
             {/* Profile Photo / Logo */}
-            <div className="-mt-10 md:-mt-16 mb-1.5 md:mb-2">
+            <div className="-mt-16 mb-2">
               {place.logoUrl ? (
                 <PlaceImage
                   src={place.logoUrl}
                   alt={`${place.name} logo`}
-                  className="w-12 h-12 md:w-16 md:h-16 rounded-full object-cover border-3 md:border-4 border-white shadow-sm"
+                  className="w-16 h-16 rounded-full object-cover border-4 border-white shadow-sm"
                   fallbackContent={
-                    <div className="w-12 h-12 md:w-16 md:h-16 rounded-full bg-white border-3 md:border-4 border-white shadow-sm flex items-center justify-center">
-                      <span className="text-lg md:text-2xl font-bold text-primary">
+                    <div className="w-16 h-16 rounded-full bg-white border-4 border-white shadow-sm flex items-center justify-center">
+                      <span className="text-2xl font-bold text-primary">
                         {place.name.charAt(0)}
                       </span>
                     </div>
                   }
                 />
               ) : (
-                <div className="w-12 h-12 md:w-16 md:h-16 rounded-full bg-white border-3 md:border-4 border-white shadow-sm flex items-center justify-center">
-                  <span className="text-lg md:text-2xl font-bold text-primary">
+                <div className="w-16 h-16 rounded-full bg-white border-4 border-white shadow-sm flex items-center justify-center">
+                  <span className="text-2xl font-bold text-primary">
                     {place.name.charAt(0)}
                   </span>
                 </div>
               )}
             </div>
 
-            <div className="space-y-1.5 md:space-y-2">
-              <h3 className="text-base md:text-xl font-bold group-hover:text-primary transition-colors line-clamp-1">
+            <div className="space-y-2">
+              <h3 className="text-xl font-bold group-hover:text-primary transition-colors line-clamp-1">
                 {place.name}
               </h3>
 
               {/* Cuisine types */}
-              <div className="flex gap-1.5 md:gap-2 flex-wrap">
+              <div className="flex gap-2 flex-wrap">
                 {place.cuisineTypes.slice(0, 2).map((cuisine) => (
                   <Badge key={cuisine} variant="secondary" className="capitalize text-xs">
                     {cuisine}
@@ -142,19 +142,19 @@ export function PlaceCard({ place }: PlaceCardProps) {
             </div>
           </CardHeader>
 
-          <CardContent className="space-y-2 md:space-y-3 pb-3 md:pb-4">
+          <CardContent className="space-y-3 pb-4">
             {/* Description */}
-            <p className="text-xs md:text-sm text-gray-600 line-clamp-2">{place.description}</p>
+            <p className="text-sm text-gray-600 line-clamp-2">{place.description}</p>
 
             {/* Location */}
-            <div className="flex items-start gap-2 text-xs md:text-sm text-gray-500">
-              <MapPin className="w-3.5 h-3.5 md:w-4 md:h-4 shrink-0 mt-0.5" />
+            <div className="flex items-start gap-2 text-sm text-gray-500">
+              <MapPin className="w-4 h-4 shrink-0 mt-0.5" />
               <span className="line-clamp-1">{place.address}</span>
             </div>
 
-            {/* Amenities - Hidden on mobile */}
+            {/* Amenities */}
             {getTopAmenities(place.amenities).length > 0 && (
-              <div className="hidden md:flex gap-2 flex-wrap">
+              <div className="flex gap-2 flex-wrap">
                 {getTopAmenities(place.amenities).map((amenity) => (
                   <Badge key={amenity} variant="outline" className="text-xs capitalize">
                     {amenity.replace(/-/g, ' ')}
