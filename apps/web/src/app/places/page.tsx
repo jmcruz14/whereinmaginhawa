@@ -1,8 +1,8 @@
 'use client';
 
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter, usePathname } from 'next/navigation';
 import { useState, useEffect, Suspense } from 'react';
-import { X, SlidersHorizontal, Plus, Edit3 } from 'lucide-react';
+import { X, SlidersHorizontal, Plus, Edit3, Search } from 'lucide-react';
 import { PlaceCard } from '@/components/place/place-card';
 import { PlaceFilters } from '@/components/filters/place-filters';
 import { Button } from '@/components/ui/button';
@@ -11,15 +11,26 @@ import type { PlaceIndex, SearchFilters } from '@/types/place';
 
 function PlacesContent() {
   const searchParams = useSearchParams();
+  const router = useRouter();
+  const pathname = usePathname();
   const [places, setPlaces] = useState<PlaceIndex[]>([]);
   const [filters, setFilters] = useState<SearchFilters>({});
   const [showMobileFilters, setShowMobileFilters] = useState(false);
 
   useEffect(() => {
-    // Get query from URL
+    // Get filters from URL
     const query = searchParams.get('q') || '';
+    const cuisines = searchParams.get('cuisines')?.split(',').filter(Boolean) || [];
+    const amenities = searchParams.get('amenities')?.split(',').filter(Boolean) || [];
+    const prices = searchParams.get('prices')?.split(',').filter(Boolean) || [];
+    const favoritesOnly = searchParams.get('favorites') === 'true';
+
     const initialFilters: SearchFilters = {
       query: query || undefined,
+      cuisineTypes: cuisines.length > 0 ? cuisines : undefined,
+      amenities: amenities.length > 0 ? amenities : undefined,
+      priceRanges: prices.length > 0 ? (prices as any[]) : undefined,
+      favoritesOnly: favoritesOnly || undefined,
     };
 
     setFilters(initialFilters);
@@ -31,21 +42,66 @@ function PlacesContent() {
     setPlaces(results.places);
   };
 
+  const updateURL = (newFilters: SearchFilters) => {
+    const params = new URLSearchParams();
+
+    if (newFilters.query) {
+      params.set('q', newFilters.query);
+    }
+    if (newFilters.cuisineTypes && newFilters.cuisineTypes.length > 0) {
+      params.set('cuisines', newFilters.cuisineTypes.join(','));
+    }
+    if (newFilters.amenities && newFilters.amenities.length > 0) {
+      params.set('amenities', newFilters.amenities.join(','));
+    }
+    if (newFilters.priceRanges && newFilters.priceRanges.length > 0) {
+      params.set('prices', newFilters.priceRanges.join(','));
+    }
+    if (newFilters.favoritesOnly) {
+      params.set('favorites', 'true');
+    }
+
+    const queryString = params.toString();
+    const newURL = queryString ? `${pathname}?${queryString}` : pathname;
+    router.push(newURL, { scroll: false });
+  };
+
   const handleFiltersChange = (newFilters: SearchFilters) => {
     setFilters(newFilters);
     applyFilters(newFilters);
+    updateURL(newFilters);
   };
 
   const clearFilters = () => {
     const clearedFilters: SearchFilters = {};
     setFilters(clearedFilters);
     setPlaces(getAllPlaces());
+    router.push(pathname, { scroll: false });
   };
 
   return (
     <div className="min-h-screen bg-gray-50/50 pt-16">
       {/* Main Content with Sidebar */}
       <div className="container mx-auto px-4 py-6">
+        {/* Mobile Search Bar - Always visible on top */}
+        <div className="mb-6 lg:hidden">
+          <div className="relative">
+            <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+            <input
+              type="text"
+              placeholder="Search places..."
+              value={filters.query || ''}
+              onChange={(e) =>
+                handleFiltersChange({
+                  ...filters,
+                  query: e.target.value || undefined,
+                })
+              }
+              className="w-full pl-11 pr-4 py-3 rounded-lg border border-gray-200 bg-white text-base focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent transition-all shadow-sm"
+            />
+          </div>
+        </div>
+
         <div className="flex gap-6">
           {/* Desktop Sidebar - Always visible on large screens */}
           <aside className="hidden lg:block w-72 shrink-0">

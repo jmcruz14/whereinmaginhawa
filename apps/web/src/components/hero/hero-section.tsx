@@ -25,7 +25,7 @@ export function HeroSection() {
             transition={{ duration: 0.6 }}
             className="space-y-4"
           >
-            <h1 className="text-5xl md:text-7xl font-bold text-gray-900 leading-tight flex items-center justify-center gap-4">
+            <h1 className="text-5xl md:text-7xl font-bold text-gray-900 leading-tight flex flex-col md:flex-row items-center justify-center gap-2 md:gap-4">
               <WordRotate
                 words={['Discover', 'Explore', 'Survey', 'Scout', 'Uncover', 'Search']}
                 className="text-5xl md:text-7xl font-bold text-gray-900"
