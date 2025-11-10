@@ -4559,10 +4559,11 @@
     "id": "7a45d7b4-3273-4b45-bfe6-4d2272d8758c",
     "name": "SGD Bodega / SGD Coffee",
     "slug": "sgd-bodega-sgd-coffee",
-    "description": "Coffee shop specializing in Sagada coffee beans and mountain-grown Philippine coffee. Features single-origin brews, coffee-based drinks, and light meals in a rustic mountain-inspired setting.",
-    "address": "Matahimik Street, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
+    "description": "SGD Coffee is a 5-time award-winning coffee at the prestigious International Contest of Coffees Roasted at Origin organized by the Agence pour la Valorisation des Produits Agricoles (AVPA) in Paris, France.\n\n2017 - Medaille Gourmet\n2019 - Medaille Gourmet\n2024 - Medaille Argent (Silver)\n2025 - Medaille Bronze & Medaille Or (Gold)\n\nAVPA PARIS is composed of 1,000 member-organizations worldwide.\n\nSGD Coffee is a collective effort of coffee growers, farm technicians, processors, roasters, cuppers, baristas, community elders, government agencies, organization partners, coffee advocates, and our beloved customers.",
+    "address": "45 Maalalahanin, Diliman, Quezon City, 1101 Kalakhang Maynila",
+    "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/sgd-bodega-sgd-coffee/profile-1762780673033.blob",
+    "coverImageUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/sgd-bodega-sgd-coffee/cover-1762780668455.blob",
+    "priceRange": "$$$",
     "tags": [
       "coffee",
       "philippine-coffee",
@@ -4585,7 +4586,7 @@
       "barako",
       "benguet-coffee"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-10T13:18:19.738Z",
     "createdBy": "Joff Tiquez"
   },
   {
