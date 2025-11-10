@@ -1,18 +1,20 @@
 {
   "totalPlaces": 197,
   "uniqueCuisines": 92,
-  "uniqueAmenities": 52,
-  "uniqueTags": 252,
+  "uniqueAmenities": 55,
+  "uniqueTags": 254,
   "priceRanges": [
     "$",
     "$$",
     "$$$"
   ],
   "paymentMethods": [
+    "bank transfer",
     "cash",
     "credit-card",
     "debit-card",
     "gcash",
+    "maya",
     "paymaya",
     "starbucks-card"
   ],
@@ -136,14 +138,16 @@
     "group-seating",
     "intimate-setting",
     "late-night",
+    "live music",
     "live-events",
     "nostalgic-ambiance",
     "outdoor-seating",
     "parking",
     "party-packages",
+    "pet friendly",
     "pet-friendly",
     "photo-spots",
-    "pool-table",
+    "power outlets",
     "power-outlets",
     "quick-service",
     "quiet-space",
@@ -152,6 +156,7 @@
     "reservation-required",
     "reservations-recommended",
     "seating",
+    "smoking area",
     "smoking-area",
     "sports-tv",
     "study-area",
@@ -233,6 +238,7 @@
     "cultural",
     "curry",
     "cyclist-friendly",
+    "date spot",
     "date-spot",
     "deli",
     "delivery",
@@ -273,6 +279,7 @@
     "gourmet",
     "grill",
     "grilled-chicken",
+    "group friendly",
     "group-dining",
     "group-friendly",
     "halal",
@@ -418,5 +425,5 @@
     "wood-fired",
     "work-friendly"
   ],
-  "generatedAt": "2025-11-10T15:35:31.509Z"
+  "generatedAt": "2025-11-10T16:12:59.816Z"
 }

@@ -1,40 +1,5 @@
 [
   {
-    "id": "f7929934-ef87-4932-bd1a-eb3f479f5591",
-    "name": "154 Backdoor",
-    "slug": "154-backdoor",
-    "description": "A trendy sports bar and restobar offering craft beers, cocktails, and comfort food. Features multiple TV screens for sports viewing, pool tables, and a lively atmosphere perfect for nightlife and watching games with friends.",
-    "address": "154 Maginhawa St, Teacher's Village, Quezon City",
-    "priceRange": "$$",
-    "tags": [
-      "bar",
-      "sports-bar",
-      "nightlife",
-      "live-music",
-      "late-night"
-    ],
-    "amenities": [
-      "wifi",
-      "air-conditioned",
-      "outdoor-seating",
-      "pool-table",
-      "sports-tv"
-    ],
-    "cuisineTypes": [
-      "bar-food",
-      "american",
-      "filipino"
-    ],
-    "specialties": [
-      "craft-beer",
-      "cocktails",
-      "bar-chow",
-      "sports-viewing"
-    ],
-    "updatedAt": "2025-11-10T15:22:39.167Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "550e8400-e29b-41d4-a716-446655440000",
     "name": "7-Eleven Maginhawa",
     "slug": "7-eleven-maginhawa",
@@ -4949,6 +4914,35 @@
       "mango-sticky-rice"
     ],
     "updatedAt": "2025-11-09T00:00:00Z",
+    "createdBy": "Joff Tiquez"
+  },
+  {
+    "id": "f7929934-ef87-4932-bd1a-eb3f479f5591",
+    "name": "The Backdoor",
+    "slug": "154-backdoor",
+    "description": "A live music venue, cocktail bar and a vinyl record store all in one. A listening space for intimate performances with shows almost every night. ",
+    "address": "154 Maginhawa St, Teacher's Village, Quezon City",
+    "priceRange": "$$",
+    "tags": [
+      "bar",
+      "casual",
+      "lively",
+      "group friendly",
+      "date spot",
+      "cozy"
+    ],
+    "amenities": [
+      "air-conditioned",
+      "pet friendly",
+      "smoking area",
+      "live music",
+      "power outlets"
+    ],
+    "cuisineTypes": [
+      "bar-food"
+    ],
+    "specialties": [],
+    "updatedAt": "2025-11-10T16:04:49.632Z",
     "createdBy": "Joff Tiquez"
   },
   {
