@@ -29,10 +29,12 @@
       "close": "23:00"
     },
     "saturday": {
-      "closed": true
+      "open": "10:00",
+      "close": "23:00"
     },
     "sunday": {
-      "closed": true
+      "open": "10:00",
+      "close": "23:00"
     }
   },
   "priceRange": "$$$",
