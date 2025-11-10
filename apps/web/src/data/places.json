@@ -35,40 +35,6 @@
     "createdBy": "Joff Tiquez"
   },
   {
-    "id": "ba6ca806-3dbd-4739-8d1a-5a92e3c1569c",
-    "name": "154 Backdoor Sports Bar",
-    "slug": "154-backdoor-sports-bar",
-    "description": "A popular sports bar with multiple screens showing live games and sports events. Features cold beer, bar food, and a lively atmosphere perfect for watching games with friends.",
-    "address": "154 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "sports-bar",
-      "nightlife",
-      "bar-food",
-      "live-sports",
-      "beer"
-    ],
-    "amenities": [
-      "bar",
-      "tv-screens",
-      "outdoor-seating",
-      "dine-in"
-    ],
-    "cuisineTypes": [
-      "american",
-      "bar-food"
-    ],
-    "specialties": [
-      "wings",
-      "burgers",
-      "beer",
-      "bar-food"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "550e8400-e29b-41d4-a716-446655440000",
     "name": "7-Eleven Maginhawa",
     "slug": "7-eleven-maginhawa",
@@ -106,79 +72,11 @@
     "createdBy": "Joff Tiquez"
   },
   {
-    "id": "f57f7906-c415-47b2-85c0-211864d5857e",
-    "name": "8 Cuts Burgers",
-    "slug": "8-cuts-burgers",
-    "description": "A premium burger bar offering gourmet burgers made with quality ingredients. Features eight signature burger cuts, craft beers, and a modern industrial ambiance perfect for burger enthusiasts and casual dining.",
-    "address": "Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "burgers",
-      "gourmet",
-      "casual-dining",
-      "craft-beer",
-      "chain"
-    ],
-    "amenities": [
-      "dine-in",
-      "takeout",
-      "delivery",
-      "air-conditioned"
-    ],
-    "cuisineTypes": [
-      "american"
-    ],
-    "specialties": [
-      "gourmet-burgers",
-      "craft-beer",
-      "fries",
-      "milkshakes"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "db1554a9-3af4-4a9f-a79f-f3185d15b459",
-    "name": "Ahlee's Mouthwatering Steak",
-    "slug": "ahlees-mouthwatering-steak",
-    "description": "A popular stall at 150 Maginhawa Food Park serving affordable yet quality steaks. Known for their tender, well-seasoned beef steaks with homemade sauces at wallet-friendly prices.",
-    "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "steak",
-      "food-park",
-      "affordable",
-      "casual",
-      "popular"
-    ],
-    "amenities": [
-      "outdoor-seating",
-      "food-stall",
-      "casual-dining"
-    ],
-    "cuisineTypes": [
-      "american",
-      "steakhouse",
-      "grill"
-    ],
-    "specialties": [
-      "steak",
-      "beef",
-      "grilled-meat",
-      "sauces"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "c1327364-5914-4fcd-bc00-5bc8cdd0aa79",
     "name": "Al Jograts Kebab House",
     "slug": "al-jograts-kebab-house",
     "description": "A Middle Eastern restaurant serving authentic kebabs, shawarma, and other Arab specialties. Known for their flavorful meats, fresh ingredients, and generous portions at affordable prices.",
-    "address": "Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
+    "address": "1226-A Concepcion St, Sampaloc, Manila, 1015 Metro Manila",
     "priceRange": "$$",
     "tags": [
       "middle-eastern",
@@ -202,39 +100,7 @@
       "mixed-grill",
       "arabic-food"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "fd25a814-83cc-4c10-88d8-ed5d34d292fd",
-    "name": "Aling Lucing Sisig",
-    "slug": "aling-lucing-sisig",
-    "description": "Branch of the legendary Pampanga restaurant credited with inventing sisig. Serves the original sizzling sisig recipe alongside other Kapampangan dishes, maintaining authentic flavors and traditional cooking methods.",
-    "address": "140 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "filipino",
-      "sisig",
-      "kapampangan",
-      "iconic",
-      "affordable"
-    ],
-    "amenities": [
-      "dine-in",
-      "takeout",
-      "delivery"
-    ],
-    "cuisineTypes": [
-      "filipino",
-      "kapampangan"
-    ],
-    "specialties": [
-      "sisig",
-      "kapampangan-food",
-      "sizzling-plates"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-10T15:28:03.684Z",
     "createdBy": "Joff Tiquez"
   },
   {
@@ -242,8 +108,7 @@
     "name": "Andok's Litson Manok Maginhawa",
     "slug": "andoks-litson-manok-maginhawa",
     "description": "Roasted chicken chain offering affordable lechon manok (roasted chicken) with crispy skin and juicy meat. A Filipino household favorite for quick, tasty, and budget-friendly roasted chicken meals.",
-    "address": "192 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
+    "address": "107 V. Luna Ext, Diliman, Quezon City, Metro Manila",
     "priceRange": "$",
     "tags": [
       "filipino",
@@ -267,105 +132,7 @@
       "roasted-chicken",
       "dokito"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "d8885c2d-de4d-4ac0-aa7a-ab41c5ce22ff",
-    "name": "Army Navy Burger + Burrito",
-    "slug": "army-navy-burger-burrito",
-    "description": "American-Mexican fusion fast-casual chain known for their signature burgers and burritos. Offers hearty portions, quality ingredients, and a military-themed ambiance with consistent favorites across locations.",
-    "address": "175 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "american-mexican",
-      "burgers",
-      "burritos",
-      "fast-casual",
-      "chain"
-    ],
-    "amenities": [
-      "air-conditioned",
-      "dine-in",
-      "takeout",
-      "delivery"
-    ],
-    "cuisineTypes": [
-      "american",
-      "mexican",
-      "burgers"
-    ],
-    "specialties": [
-      "burgers",
-      "burritos",
-      "freedom-fries",
-      "starving-sailor"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "393f9939-b592-4412-9026-8963f16035d7",
-    "name": "Ate Rica's Bacsilog",
-    "slug": "ate-ricas-bacsilog",
-    "description": "A beloved Filipino breakfast spot specializing in silog meals, particularly their famous bacon silog. Serves hearty Filipino breakfast all day at affordable prices with generous portions.",
-    "address": "104 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "filipino",
-      "breakfast",
-      "silog",
-      "budget-friendly",
-      "local-favorite"
-    ],
-    "amenities": [
-      "dine-in",
-      "takeout"
-    ],
-    "cuisineTypes": [
-      "filipino"
-    ],
-    "specialties": [
-      "bacsilog",
-      "silog-meals",
-      "filipino-breakfast"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "33fd3e4c-a9b5-4f94-9baa-772c21596dd4",
-    "name": "Balay Bagnet",
-    "slug": "balay-bagnet",
-    "description": "An Ilocano food stall at 150 Maginhawa serving crispy bagnet and Northern Filipino specialties. Offers authentic Ilocano dishes including bagnet, pinakbet, and empanada with traditional preparation methods.",
-    "address": "150 Maginhawa St, Sikatuna Village (Food Park), Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "filipino",
-      "ilocano",
-      "food-park",
-      "bagnet",
-      "regional"
-    ],
-    "amenities": [
-      "outdoor-seating",
-      "food-stall"
-    ],
-    "cuisineTypes": [
-      "filipino",
-      "ilocano",
-      "regional"
-    ],
-    "specialties": [
-      "bagnet",
-      "pinakbet",
-      "empanada",
-      "longganisa"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-10T15:29:41.497Z",
     "createdBy": "Joff Tiquez"
   },
   {
