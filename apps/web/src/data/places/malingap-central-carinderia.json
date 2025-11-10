@@ -65,5 +65,6 @@
   "latitude": 14.6443,
   "longitude": 121.0637,
   "createdAt": "2010-01-01T00:00:00Z",
-  "updatedAt": "2025-11-09T00:00:00Z"
+  "updatedAt": "2025-11-09T00:00:00Z",
+  "createdBy": "Joff Tiquez"
 }
