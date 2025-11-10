@@ -3,11 +3,9 @@
   "name": "Al Jograts Kebab House",
   "slug": "al-jograts-kebab-house",
   "description": "A Middle Eastern restaurant serving authentic kebabs, shawarma, and other Arab specialties. Known for their flavorful meats, fresh ingredients, and generous portions at affordable prices.",
-  "address": "Maginhawa St, Teacher's Village, Quezon City",
-  "phone": "+63 917 345 9012",
-  "email": "",
+  "address": "1226-A Concepcion St, Sampaloc, Manila, 1015 Metro Manila",
+  "phone": "09053232121",
   "website": "https://www.facebook.com/AlJograts",
-  "coverImageUrl": "",
   "photosUrls": [],
   "operatingHours": {
     "monday": {
@@ -69,6 +67,13 @@
   "latitude": 14.6427,
   "longitude": 121.0644,
   "createdAt": "2025-11-09T00:00:00Z",
-  "updatedAt": "2025-11-09T00:00:00Z",
-  "createdBy": "Joff Tiquez"
+  "updatedAt": "2025-11-10T15:28:03.684Z",
+  "createdBy": "Joff Tiquez",
+  "contributors": [
+    {
+      "name": "Joff Tiquez",
+      "contributedAt": "2025-11-10T15:28:03.684Z",
+      "action": "updated"
+    }
+  ]
 }
