@@ -7,6 +7,7 @@ import { Card } from '@/components/ui/card';
 import { TagInput } from '@/components/ui/tag-input';
 import { ImageUploadField } from '@/components/ui/image-upload-field';
 import { csrfFetch } from '@/lib/csrf-client';
+import { toast } from 'sonner';
 import type { PriceRange, Place } from '@/types/place';
 
 interface FormData {
@@ -142,7 +143,6 @@ export function EditPlaceForm({ place, onSuccess, onCancel }: EditPlaceFormProps
 
   const [formData, setFormData] = useState<FormData>(getInitialFormData());
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [error, setError] = useState<string | null>(null);
 
   // Reset form data when place changes
   useEffect(() => {
@@ -164,7 +164,6 @@ export function EditPlaceForm({ place, onSuccess, onCancel }: EditPlaceFormProps
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setError(null);
     setIsSubmitting(true);
 
     try {
@@ -227,16 +226,49 @@ export function EditPlaceForm({ place, onSuccess, onCancel }: EditPlaceFormProps
       const data = await response.json();
 
       if (!response.ok || !data.success) {
-        throw new Error(data.error || 'Failed to submit your changes. Please try again.');
+        // Show detailed validation errors if available
+        if (data.details) {
+          const errors: string[] = [];
+          const formatZodErrors = (obj: any, prefix = '') => {
+            if (obj._errors && obj._errors.length > 0) {
+              errors.push(`${prefix}: ${obj._errors.join(', ')}`);
+            }
+            for (const [key, value] of Object.entries(obj)) {
+              if (key !== '_errors' && typeof value === 'object') {
+                formatZodErrors(value, prefix ? `${prefix}.${key}` : key);
+              }
+            }
+          };
+          formatZodErrors(data.details);
+          toast.error('Validation Failed', {
+            description: errors.join('\n'),
+            duration: 6000,
+          });
+        } else {
+          toast.error('Submission Failed', {
+            description: data.error || 'Failed to submit your changes. Please check all fields and try again.',
+            duration: 5000,
+          });
+        }
+        return;
       }
 
-      // Success! Call the onSuccess callback
+      // Success! Show success toast
+      toast.success('Changes Submitted!', {
+        description: 'Your changes have been received and will be reviewed soon.',
+        duration: 4000,
+      });
+
+      // Call the onSuccess callback
       if (onSuccess && data.prUrl) {
         onSuccess(data.prUrl);
       }
     } catch (err) {
       console.error('Form submission error:', err);
-      setError(err instanceof Error ? err.message : 'An unexpected error occurred. Please try again.');
+      toast.error('Unexpected Error', {
+        description: err instanceof Error ? err.message : 'An unexpected error occurred. Please try again.',
+        duration: 5000,
+      });
     } finally {
       setIsSubmitting(false);
     }
@@ -244,12 +276,6 @@ export function EditPlaceForm({ place, onSuccess, onCancel }: EditPlaceFormProps
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
-      {error && (
-        <div className="p-4 bg-red-50 border border-red-200 rounded-md">
-          <p className="text-sm text-red-800">{error}</p>
-        </div>
-      )}
-
       {/* Basic Information */}
       <Card className="p-6">
         <h3 className="text-lg font-semibold mb-4">Basic Information</h3>
@@ -280,8 +306,11 @@ export function EditPlaceForm({ place, onSuccess, onCancel }: EditPlaceFormProps
               required
               rows={3}
               className="w-full rounded-md border border-input bg-transparent px-3 py-2 text-sm shadow-xs outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]"
-              placeholder="Brief description of the place (minimum 10 characters)"
+              placeholder="Brief description of the place"
             />
+            <p className={`text-xs mt-1 ${formData.description.length >= 10 ? 'text-green-600' : 'text-red-500'}`}>
+              {formData.description.length}/10 characters minimum
+            </p>
           </div>
 
           <div>
@@ -562,6 +591,36 @@ export function EditPlaceForm({ place, onSuccess, onCancel }: EditPlaceFormProps
           </div>
         </div>
       </Card>
+
+      {/* Terms Agreement */}
+      <div className="border-t border-gray-200 pt-6">
+        <div className="text-sm text-gray-600 space-y-3">
+          <p>
+            By submitting these changes, you acknowledge and agree to our{' '}
+            <a
+              href="/terms"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline font-medium"
+            >
+              Terms of Use
+            </a>{' '}
+            and{' '}
+            <a
+              href="/privacy"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline font-medium"
+            >
+              Privacy Policy
+            </a>.
+          </p>
+          <p className="text-xs text-gray-500">
+            Your submission will be publicly visible. If you provide your name or contact information, it will be displayed
+            publicly and you may be contacted by other users. We will never sell your data.
+          </p>
+        </div>
+      </div>
 
       {/* Form Actions */}
       <div className="flex items-center justify-end gap-4">
