@@ -1447,20 +1447,19 @@
     "name": "Friuli Trattoria",
     "slug": "friuli-trattoria",
     "description": "An authentic Italian trattoria serving traditional Northern Italian cuisine. Known for their house-made pasta, wood-fired pizzas, and extensive wine selection, Friuli brings a taste of Italy to the heart of Maginhawa.",
-    "address": "93 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$$",
+    "address": "79 A Maginhawa St, Teacher's Village, Quezon City",
+    "priceRange": "$$",
     "tags": [
       "italian",
-      "fine-dining",
-      "romantic",
-      "wine-bar"
+      "family-friendly",
+      "casual",
+      "group-friendly",
+      "budget-friendly"
     ],
     "amenities": [
       "dine-in",
       "air-conditioned",
-      "wine-selection",
-      "outdoor-seating"
+      "wine-selection"
     ],
     "cuisineTypes": [
       "italian"
@@ -1468,10 +1467,9 @@
     "specialties": [
       "pasta",
       "pizza",
-      "risotto",
       "italian-wine"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-11T13:42:39.745Z",
     "createdBy": "Joff Tiquez"
   },
   {
