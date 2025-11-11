@@ -1542,41 +1542,6 @@
     "createdBy": "Joff Tiquez"
   },
   {
-    "id": "1cbfa658-8451-4b41-9f0a-8ef8124b4653",
-    "name": "Gerry's Grill",
-    "slug": "gerrys-grill",
-    "description": "A popular Filipino restaurant chain known for their grilled seafood and meat dishes. Features a wide menu of Filipino favorites in a casual dining atmosphere, perfect for family meals and group gatherings.",
-    "address": "Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "filipino",
-      "grill",
-      "seafood",
-      "family-friendly",
-      "chain"
-    ],
-    "amenities": [
-      "dine-in",
-      "takeout",
-      "delivery",
-      "air-conditioned",
-      "group-seating",
-      "parking"
-    ],
-    "cuisineTypes": [
-      "filipino"
-    ],
-    "specialties": [
-      "grilled-seafood",
-      "inihaw-na-liempo",
-      "sisig",
-      "crispy-pata"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "e68f3ca4-1968-4cfa-befd-d9e11ef70173",
     "name": "Grape Escape Wine Bar",
     "slug": "grape-escape-wine-bar",
@@ -1955,77 +1920,6 @@
     "createdBy": "Joff Tiquez"
   },
   {
-    "id": "5c651149-252e-4243-a24a-15e244a7361c",
-    "name": "Jollibee",
-    "slug": "jollibee",
-    "description": "The Philippines' largest and most beloved fast-food chain, known as the 'home of the Jolly Spaghetti and Chickenjoy.' Serves Filipino-style fast food including fried chicken, burgers, and sweet-style spaghetti that Filipinos grew up with.",
-    "address": "Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "filipino",
-      "fast-food",
-      "family-friendly",
-      "iconic",
-      "chain"
-    ],
-    "amenities": [
-      "dine-in",
-      "takeout",
-      "delivery",
-      "air-conditioned",
-      "parking"
-    ],
-    "cuisineTypes": [
-      "filipino",
-      "fast-food"
-    ],
-    "specialties": [
-      "chickenjoy",
-      "jolly-spaghetti",
-      "palabok",
-      "yumburger"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "a69ce7b6-a1c5-46d7-ac84-019462131144",
-    "name": "Jollibee Maginhawa",
-    "slug": "jollibee-maginhawa",
-    "description": "The beloved Filipino fast-food chain known for sweet-style spaghetti, crispy Chickenjoy fried chicken, and Jolly Hotdog. A national icon serving Filipino-style fast food favorites that locals have grown up with.",
-    "address": "Maginhawa Street, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "fast-food",
-      "filipino",
-      "family-friendly",
-      "quick-service",
-      "iconic"
-    ],
-    "amenities": [
-      "takeout",
-      "delivery",
-      "dine-in",
-      "air-conditioned",
-      "drive-thru"
-    ],
-    "cuisineTypes": [
-      "filipino",
-      "fast-food"
-    ],
-    "specialties": [
-      "chickenjoy",
-      "jolly-spaghetti",
-      "burger-steak",
-      "palabok",
-      "yumburger"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "27130590-9750-4dff-a409-727ef8ca0ac3",
     "name": "K-Pub Korean BBQ",
     "slug": "k-pub-korean-bbq",
@@ -2084,42 +1978,6 @@
       "local-coffee",
       "iced-coffee",
       "sandwiches"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "e24ac5ea-18f9-4ecd-9dcd-ee76502e3eb4",
-    "name": "KFC Maginhawa",
-    "slug": "kfc-maginhawa",
-    "description": "International fried chicken chain famous for their Original Recipe chicken and crispy fries. Offers bucket meals perfect for sharing, plus Filipino favorites like rice meals and gravy.",
-    "address": "Maginhawa Street, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "fast-food",
-      "american",
-      "fried-chicken",
-      "family-friendly",
-      "delivery"
-    ],
-    "amenities": [
-      "takeout",
-      "delivery",
-      "dine-in",
-      "air-conditioned",
-      "drive-thru"
-    ],
-    "cuisineTypes": [
-      "american",
-      "fast-food"
-    ],
-    "specialties": [
-      "original-recipe-chicken",
-      "zinger",
-      "bucket-meals",
-      "fries",
-      "gravy"
     ],
     "updatedAt": "2025-11-09T00:00:00Z",
     "createdBy": "Joff Tiquez"
@@ -2197,8 +2055,7 @@
     "name": "La Rosa Vino",
     "slug": "la-rosa-vino",
     "description": "An intimate wine bar and bistro featuring an extensive wine selection from around the world. Offers wine pairings with European-inspired small plates in a romantic, sophisticated ambiance perfect for date nights.",
-    "address": "156 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
+    "address": "96 Maginhawa St, Teacher's Village, Quezon City",
     "priceRange": "$$$",
     "tags": [
       "wine-bar",
@@ -2224,40 +2081,7 @@
       "charcuterie",
       "cheese-board"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "a6398dd7-2fbd-4e3c-95db-4cc6f4290459",
-    "name": "La Rosa Vino + Tapas",
-    "slug": "la-rosa-vino-tapas",
-    "description": "An intimate wine bar offering Spanish tapas and an extensive wine selection. Features a cozy ambiance perfect for date nights and small gatherings, with carefully curated wines and authentic Spanish small plates.",
-    "address": "Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$$",
-    "tags": [
-      "wine-bar",
-      "spanish",
-      "tapas",
-      "romantic",
-      "intimate"
-    ],
-    "amenities": [
-      "bar",
-      "dine-in",
-      "wine-selection",
-      "intimate-setting"
-    ],
-    "cuisineTypes": [
-      "spanish"
-    ],
-    "specialties": [
-      "tapas",
-      "wine",
-      "spanish-cuisine",
-      "charcuterie"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-11T00:12:54.007Z",
     "createdBy": "Joff Tiquez"
   },
   {

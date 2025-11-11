@@ -1,8 +1,8 @@
 {
-  "totalPlaces": 197,
+  "totalPlaces": 192,
   "uniqueCuisines": 92,
   "uniqueAmenities": 55,
-  "uniqueTags": 254,
+  "uniqueTags": 253,
   "priceRanges": [
     "$",
     "$$",
@@ -365,7 +365,6 @@
     "rustic",
     "samgyupsal",
     "sandwiches",
-    "seafood",
     "shakes",
     "shareable",
     "shawarma",
@@ -425,5 +424,5 @@
     "wood-fired",
     "work-friendly"
   ],
-  "generatedAt": "2025-11-10T16:12:59.816Z"
+  "generatedAt": "2025-11-11T00:24:04.350Z"
 }
