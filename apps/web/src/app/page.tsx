@@ -1,5 +1,8 @@
 import type { Metadata } from 'next';
 import { HeroSection } from '@/components/hero/hero-section';
+import { PlaceMarquee } from '@/components/hero/place-marquee';
+import placesIndex from '@/data/places.json';
+import type { PlaceIndex } from '@/types/place';
 
 export const metadata: Metadata = {
   title: "Where In Maginhawa | Find the Best Restaurants & Cafés in Maginhawa Street",
@@ -26,10 +29,48 @@ export const metadata: Metadata = {
   },
 };
 
+// Get a selection of featured places for the marquee
+function getFeaturedPlaces(count: number = 20): PlaceIndex[] {
+  const places: PlaceIndex[] = placesIndex as PlaceIndex[];
+
+  // Get places with cover images for better visual impact
+  const placesWithImages = places.filter(place => place.coverImageUrl);
+
+  // Shuffle and take the specified count
+  const shuffled = [...placesWithImages].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
+}
+
 export default function Home() {
+  const featuredPlaces = getFeaturedPlaces(20);
+
   return (
     <main className="min-h-screen pt-16">
       <HeroSection />
+
+      {/* Featured Places Marquee */}
+      <section className="py-12 bg-slate-50">
+        {/* Heading - contained */}
+        <div className="container mx-auto px-4 mb-8">
+          <div className="text-center">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-3">
+              Featured Places
+            </h2>
+            <p className="text-gray-600 text-lg">
+              Discover some of the best restaurants and cafés in Maginhawa
+            </p>
+          </div>
+        </div>
+
+        {/* Marquee rows - full width */}
+        <div className="space-y-4">
+          {/* First row - normal direction */}
+          <PlaceMarquee places={featuredPlaces} reverse={false} />
+
+          {/* Second row - reversed direction */}
+          <PlaceMarquee places={featuredPlaces.slice().reverse()} reverse={true} />
+        </div>
+      </section>
     </main>
   );
 }

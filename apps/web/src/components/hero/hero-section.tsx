@@ -13,10 +13,10 @@ export function HeroSection() {
   const router = useRouter();
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-white to-gray-50/50">
+    <section className="relative flex items-center justify-center overflow-hidden">
       <GradientBackground />
 
-      <div className="container mx-auto px-4 py-20 relative z-10">
+      <div className="container mx-auto px-4 py-16 md:py-20 relative z-10">
         <div className="max-w-5xl mx-auto text-center space-y-8">
           {/* Main Heading */}
           <motion.div
@@ -104,24 +104,24 @@ export function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 1.4, duration: 0.6 }}
-            className="grid grid-cols-3 gap-8 max-w-2xl mx-auto pt-8"
+            className="grid grid-cols-3 gap-8 max-w-3xl mx-auto pt-8"
             role="region"
             aria-label="Site statistics"
           >
             <article className="space-y-2">
-              <p className="text-5xl md:text-6xl font-bold text-primary" aria-label={`${stats.totalPlaces} places`}>
+              <p className="text-6xl md:text-7xl lg:text-8xl font-bold text-primary" aria-label={`${stats.totalPlaces} places`}>
                 <NumberTicker value={stats.totalPlaces} delay={1.6} className="text-primary" />
               </p>
               <p className="text-base md:text-lg font-medium text-gray-600">Places</p>
             </article>
             <article className="space-y-2">
-              <p className="text-5xl md:text-6xl font-bold text-primary" aria-label={`${stats.uniqueCuisines} cuisines`}>
+              <p className="text-6xl md:text-7xl lg:text-8xl font-bold text-primary" aria-label={`${stats.uniqueCuisines} cuisines`}>
                 <NumberTicker value={stats.uniqueCuisines} delay={1.7} className="text-primary" />
               </p>
               <p className="text-base md:text-lg font-medium text-gray-600">Cuisines</p>
             </article>
             <article className="space-y-2">
-              <p className="text-5xl md:text-6xl font-bold text-primary" aria-label={`${stats.uniqueAmenities} amenities`}>
+              <p className="text-6xl md:text-7xl lg:text-8xl font-bold text-primary" aria-label={`${stats.uniqueAmenities} amenities`}>
                 <NumberTicker value={stats.uniqueAmenities} delay={1.8} className="text-primary" />
               </p>
               <p className="text-base md:text-lg font-medium text-gray-600">Amenities</p>
