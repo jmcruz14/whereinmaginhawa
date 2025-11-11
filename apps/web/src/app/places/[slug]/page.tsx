@@ -37,6 +37,12 @@ export async function generateStaticParams() {
   }));
 }
 
+export async function generateViewport() {
+  return {
+    themeColor: '#ffffff',
+  };
+}
+
 export async function generateMetadata({ params }: PlacePageProps): Promise<Metadata> {
   const { slug } = await params;
   const place = await getPlaceBySlug(slug);
@@ -78,7 +84,6 @@ export async function generateMetadata({ params }: PlacePageProps): Promise<Meta
           ],
         },
     manifest: '/manifest.json',
-    themeColor: '#ffffff',
     other: {
       'msapplication-TileColor': '#ffffff',
       'msapplication-TileImage': '/ms-icon-144x144.png',
