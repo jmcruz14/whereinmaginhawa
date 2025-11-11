@@ -16,6 +16,10 @@ const plusJakartaSans = Plus_Jakarta_Sans({
   display: "swap",
 });
 
+export const viewport = {
+  themeColor: '#ffffff',
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL('https://whereinmaginhawa.com'),
   title: {
@@ -66,7 +70,6 @@ export const metadata: Metadata = {
     ],
   },
   manifest: '/manifest.json',
-  themeColor: '#ffffff',
   other: {
     'msapplication-TileColor': '#ffffff',
     'msapplication-TileImage': '/ms-icon-144x144.png',
