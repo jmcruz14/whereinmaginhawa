@@ -3228,7 +3228,7 @@
     "slug": "pino-restaurant",
     "description": "An upscale Filipino restaurant reinventing traditional dishes with modern techniques and presentations. Celebrates Filipino culinary heritage through innovative interpretations of classic recipes using premium local ingredients.",
     "address": "132 Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
+    "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/pino-restaurant/profile-1762825021392.blob",
     "priceRange": "$$$",
     "tags": [
       "filipino",
@@ -3253,7 +3253,7 @@
       "innovative-adobo",
       "elevated-sinigang"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-11T01:37:30.996Z",
     "createdBy": "Joff Tiquez"
   },
   {
@@ -4688,24 +4688,6 @@
     ],
     "updatedAt": "2025-11-09T00:00:00Z",
     "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "7acc2028-e2f6-416d-9321-b6c8959475e7",
-    "name": "Test 3",
-    "slug": "test-3",
-    "description": "Et ad consectetur et nostrud in adipisicing mollit qui et est dolore laborum dolor et irure.",
-    "address": "Consequat officia proident proident commodo minim culpa consectetur nisi reprehenderit deserunt ad.",
-    "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/new-place/profile-1762740319995.blob",
-    "coverImageUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/new-place/cover-1762740312364.blob",
-    "priceRange": "$$$",
-    "tags": [],
-    "amenities": [],
-    "cuisineTypes": [
-      "japanese",
-      "mexican"
-    ],
-    "specialties": [],
-    "updatedAt": "2025-11-10T02:05:55.266Z"
   },
   {
     "id": "b3b3a73c-c385-4926-8bdf-a42c08b60a40",
