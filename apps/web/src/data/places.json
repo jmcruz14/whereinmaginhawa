@@ -1823,7 +1823,7 @@
     "slug": "homa-persian-cuisine",
     "description": "Authentic Persian restaurant bringing the flavors of Iran to Maginhawa. Known for their traditional kebabs, rice dishes, and warm hospitality in a cozy setting. Features classic Persian dishes like joojeh kebab, koobideh, and tahdig.",
     "address": "Malingap Street corner Maginhawa Street, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
+    "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/homa-persian-cuisine/profile-1762864233079.blob",
     "priceRange": "$$",
     "tags": [
       "persian",
@@ -1847,7 +1847,7 @@
       "tahdig",
       "persian-rice"
     ],
-    "updatedAt": "2025-11-09T00:00:00Z",
+    "updatedAt": "2025-11-11T12:30:39.866Z",
     "createdBy": "Joff Tiquez"
   },
   {
@@ -2588,43 +2588,6 @@
       "steaks",
       "pasta",
       "wine"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
-    "id": "7329ed85-71f7-4d2e-a73e-5ee282fe6068",
-    "name": "MiniStop Maginhawa",
-    "slug": "ministop-maginhawa",
-    "description": "Japanese-inspired convenience store offering hot meals, bento boxes, and their famous soft-serve ice cream. Open 24/7 with seating area, perfect for quick meals, study breaks, and late-night cravings.",
-    "address": "Maginhawa Street, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "convenience-store",
-      "japanese",
-      "24-7",
-      "quick-service",
-      "soft-serve"
-    ],
-    "amenities": [
-      "takeout",
-      "dine-in",
-      "24-hours",
-      "air-conditioned",
-      "seating"
-    ],
-    "cuisineTypes": [
-      "japanese",
-      "convenience",
-      "quick-service"
-    ],
-    "specialties": [
-      "soft-serve-ice-cream",
-      "fried-chicken",
-      "bento-boxes",
-      "uncle-johns",
-      "hot-meals"
     ],
     "updatedAt": "2025-11-09T00:00:00Z",
     "createdBy": "Joff Tiquez"
@@ -5396,6 +5359,43 @@
       "garlic-sauce"
     ],
     "updatedAt": "2025-11-09T00:00:00Z",
+    "createdBy": "Joff Tiquez"
+  },
+  {
+    "id": "7329ed85-71f7-4d2e-a73e-5ee282fe6068",
+    "name": "Uncle John's Teacher's Village",
+    "slug": "ministop-maginhawa",
+    "description": "Uncle John's Teacher's Village",
+    "address": "44 Magiting, Diliman, Quezon City, Kalakhang Maynila",
+    "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/ministop-maginhawa/profile-1762864673464.blob",
+    "coverImageUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/ministop-maginhawa/cover-1762864712233.blob",
+    "priceRange": "$",
+    "tags": [
+      "convenience-store",
+      "japanese",
+      "24-7",
+      "quick-service",
+      "soft-serve"
+    ],
+    "amenities": [
+      "takeout",
+      "dine-in",
+      "24-hours",
+      "air-conditioned",
+      "seating"
+    ],
+    "cuisineTypes": [
+      "convenience",
+      "quick-service"
+    ],
+    "specialties": [
+      "soft-serve-ice-cream",
+      "fried-chicken",
+      "bento-boxes",
+      "uncle-johns",
+      "hot-meals"
+    ],
+    "updatedAt": "2025-11-11T12:38:54.239Z",
     "createdBy": "Joff Tiquez"
   },
   {
