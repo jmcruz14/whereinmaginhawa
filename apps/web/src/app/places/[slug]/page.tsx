@@ -413,7 +413,19 @@ export default async function PlacePage({ params }: PlacePageProps) {
                   <MapPin className="w-5 h-5 text-gray-500 flex-shrink-0 mt-0.5" />
                   <div>
                     <div className="text-sm font-medium text-gray-700 mb-1">Address</div>
-                    <div className="text-sm text-gray-600">{place.address}</div>
+                    <a
+                      href={
+                        place.latitude && place.longitude
+                          ? `https://www.google.com/maps/dir/?api=1&destination=${place.latitude},${place.longitude}`
+                          : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.name + ' ' + place.address)}`
+                      }
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm text-orange-600 hover:underline flex items-center gap-1"
+                    >
+                      {place.address}
+                      <ExternalLink className="w-3 h-3" />
+                    </a>
                   </div>
                 </div>
 
