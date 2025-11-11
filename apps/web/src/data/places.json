@@ -5088,6 +5088,35 @@
     "createdBy": "Joff Tiquez"
   },
   {
+    "id": "bcafafcc-16cb-4cc6-b7ff-81acba1e8ed2",
+    "name": "The Old Ironside Coffee Company",
+    "slug": "the-old-ironside-coffee-company",
+    "description": "A museum-themed coffee shop",
+    "address": "40 Malingap St. Teachers Village East, Quezon City, Philippines",
+    "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/the-old-ironside-coffee-company/profile-1762794882124.blob",
+    "priceRange": "$$",
+    "tags": [
+      "group-friendly",
+      "quiet",
+      "study-spot",
+      "cozy",
+      "casual",
+      "family-friendly"
+    ],
+    "amenities": [
+      "outdoor-seating",
+      "air-conditioned",
+      "parking"
+    ],
+    "cuisineTypes": [
+      "italian",
+      "filipino"
+    ],
+    "specialties": [],
+    "updatedAt": "2025-11-10T17:15:16.017Z",
+    "createdBy": "anon"
+  },
+  {
     "id": "b21c6529-a2f7-4494-8b3f-13ffac34a6b6",
     "name": "The Piggery",
     "slug": "the-piggery",
