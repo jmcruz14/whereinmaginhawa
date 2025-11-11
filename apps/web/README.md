@@ -11,6 +11,7 @@ Your ultimate guide to discovering the best restaurants, cafés, and food spots 
 - ✅ **Place Listings** with grid view and filtering
 - ✅ **Detailed Place Pages** with complete information
 - ✅ **Tag-Based Filtering** (cuisines, amenities, cravings)
+- ✅ **SEO Category Pages** - 25 optimized landing pages for organic search
 - ✅ **Responsive Design** optimized for all devices
 - ✅ **Data Structure** ready for Supabase migration
 
@@ -66,6 +67,8 @@ src/
 ├── app/                    # Next.js app directory
 │   ├── page.tsx           # Home page with hero
 │   ├── layout.tsx         # Root layout
+│   ├── [category]/        # SEO category pages
+│   │   └── page.tsx       # Dynamic category landing pages
 │   └── places/            # Places routes
 │       ├── page.tsx       # Places listing
 │       └── [slug]/        # Individual place pages
@@ -75,14 +78,64 @@ src/
 │   ├── search/           # Search components
 │   └── ui/               # shadcn/ui components
 ├── data/                 # JSON data files
-│   └── places.json       # Restaurant data (Phase 1)
+│   ├── places.json       # Auto-generated index (lightweight)
+│   ├── stats.json        # Auto-generated statistics
+│   └── places/           # Individual place files
+│       ├── rodics-diner.json
+│       └── ...           # 225+ place files
 ├── lib/                  # Utility functions
 │   ├── places.ts         # Place data operations
+│   ├── categories.ts     # Category configuration
 │   └── utils.ts          # General utilities
 └── types/                # TypeScript type definitions
     ├── place.ts          # Place types & DB schema
+    ├── category.ts       # Category types
     └── tags.ts           # Tag definitions
 ```
+
+## 🔍 SEO Category Pages
+
+25 statically-generated category pages optimized for organic search traffic. Each page includes:
+- 🎯 **Targeted SEO metadata** (title, description, keywords, OpenGraph)
+- 📊 **Pre-filtered results** using keyword-based search
+- 🎨 **Emoji hero icons** for visual branding
+- 📍 **Canonical URLs** and sitemap integration
+
+### Category Pages Table
+
+| Category | URL | Type | Priority |
+|----------|-----|------|----------|
+| 🍻 Bars in Maginhawa | `/bars-in-maginhawa` | Amenity | 0.85 |
+| ☕ Coffee Shops | `/coffee-shops-in-maginhawa` | Cuisine | 0.90 |
+| 🇵🇭 Filipino Restaurants | `/filipino-restaurants-in-maginhawa` | Cuisine | 0.85 |
+| 🍱 Japanese Restaurants | `/japanese-restaurants-in-maginhawa` | Cuisine | 0.80 |
+| 🇰🇷 Korean Restaurants | `/korean-restaurants-in-maginhawa` | Cuisine | 0.80 |
+| 🍝 Italian Restaurants | `/italian-restaurants-in-maginhawa` | Cuisine | 0.75 |
+| 🍕 Pizza Places | `/pizza-in-maginhawa` | Cuisine | 0.85 |
+| 🥡 Chinese Restaurants | `/chinese-restaurants-in-maginhawa` | Cuisine | 0.80 |
+| 🍔 Burger Joints | `/burger-joints-in-maginhawa` | Cuisine | 0.80 |
+| 🥪 Breakfast & Brunch | `/breakfast-brunch-in-maginhawa` | Experience | 0.75 |
+| 🍜 Vietnamese Restaurants | `/vietnamese-restaurants-in-maginhawa` | Cuisine | 0.70 |
+| 🌮 Mexican Restaurants | `/mexican-restaurants-in-maginhawa` | Cuisine | 0.70 |
+| 🍛 Thai Restaurants | `/thai-restaurants-in-maginhawa` | Cuisine | 0.70 |
+| 🍦 Desserts & Ice Cream | `/desserts-ice-cream-in-maginhawa` | Cuisine | 0.75 |
+| 🍗 Fried Chicken | `/fried-chicken-in-maginhawa` | Cuisine | 0.75 |
+| 🐾 Pet-Friendly Places | `/pet-friendly-restaurants-in-maginhawa` | Amenity | 0.80 |
+| 📶 Places with WiFi | `/wifi-cafes-in-maginhawa` | Amenity | 0.85 |
+| 🌳 Outdoor Seating | `/outdoor-seating-in-maginhawa` | Amenity | 0.70 |
+| 💰 Budget-Friendly Eats | `/budget-restaurants-in-maginhawa` | Price | 0.85 |
+| 🌙 Late-Night Dining | `/late-night-dining-in-maginhawa` | Experience | 0.80 |
+| 💑 Romantic Date Spots | `/romantic-date-spots-in-maginhawa` | Experience | 0.75 |
+| 👨‍👩‍👧‍👦 Family-Friendly | `/family-friendly-restaurants-in-maginhawa` | Experience | 0.70 |
+| 📸 Instagram-Worthy Spots | `/instagram-worthy-spots-in-maginhawa` | Experience | 0.75 |
+| 🥗 Vegetarian & Vegan | `/vegetarian-vegan-in-maginhawa` | Cuisine | 0.70 |
+| 🎉 Group Dining | `/group-dining-in-maginhawa` | Experience | 0.70 |
+
+**Implementation**:
+- Dynamic route: `app/[category]/page.tsx`
+- Configuration: `lib/categories.ts`
+- Keyword-based filtering across: tags, amenities, cuisineTypes, specialties
+- Static generation at build time via `generateStaticParams()`
 
 ## 🗄️ Database Schema (Phase 2)
 

@@ -1,9 +1,11 @@
 import { MetadataRoute } from 'next';
 import { getAllPlaces } from '@/lib/places';
+import { getAllCategories } from '@/lib/categories';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://whereinmaginhawa.com';
   const places = getAllPlaces();
+  const categories = getAllCategories();
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
@@ -21,6 +23,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
+  // Category pages (SEO landing pages)
+  const categoryPages: MetadataRoute.Sitemap = categories.map((category) => ({
+    url: `${baseUrl}/${category.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: category.priority,
+  }));
+
   // Dynamic place pages
   const placePages: MetadataRoute.Sitemap = places.map((place) => ({
     url: `${baseUrl}/places/${place.slug}`,
@@ -29,5 +39,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...placePages];
+  return [...staticPages, ...categoryPages, ...placePages];
 }

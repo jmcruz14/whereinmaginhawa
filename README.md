@@ -31,6 +31,7 @@ whereinmaginhawa/
 - ✅ **Place Listings** with grid view and filtering
 - ✅ **Detailed Place Pages** with complete information
 - ✅ **Tag-Based Filtering** (cuisines, amenities, cravings)
+- ✅ **SEO Category Pages** - 25 optimized landing pages for organic search traffic
 - ✅ **Responsive Design** optimized for all devices
 
 **Community Features**:
@@ -150,6 +151,8 @@ src/
 ├── app/                    # Next.js app directory
 │   ├── page.tsx           # Home page with hero
 │   ├── layout.tsx         # Root layout
+│   ├── [category]/        # SEO category pages
+│   │   └── page.tsx       # Dynamic category landing pages
 │   └── places/            # Places routes
 ├── components/            # React components
 │   ├── hero/             # Hero section
@@ -162,12 +165,15 @@ src/
 │   └── places/           # Individual place files
 │       ├── rodics-diner.json
 │       ├── crazy-katsu.json
-│       └── ...           # 200+ place files
+│       └── ...           # 225+ place files
 ├── lib/                  # Utility functions
-│   └── places.ts
+│   ├── places.ts         # Place data operations
+│   ├── categories.ts     # Category configuration
+│   └── utils.ts          # General utilities
 └── types/                # TypeScript types
     ├── place.ts          # Place types & DB schema
-    └── tags.ts
+    ├── category.ts       # Category types
+    └── tags.ts           # Tag definitions
 ```
 
 ## 🗄️ Database Schema (Phase 2)
@@ -177,6 +183,55 @@ The complete Supabase PostgreSQL schema is documented in `src/types/place.ts`, i
 - `tags` table for normalized tag management
 - `place_tags` junction table
 - Indexes for optimal search performance
+
+## 🔍 SEO Category Pages
+
+25 statically-generated category pages optimized for organic search traffic. Each category page is designed to rank for specific search queries like "bars in maginhawa" or "coffee shops maginhawa".
+
+### Features
+- 🎯 **Targeted SEO metadata** - Optimized titles, descriptions, keywords, and OpenGraph tags
+- 📊 **Pre-filtered results** - Keyword-based search across tags, amenities, cuisineTypes, and specialties
+- 🎨 **Emoji hero icons** - Visual branding for each category
+- 📍 **Canonical URLs** - Proper SEO with sitemap integration
+- ⚡ **Static generation** - Built at compile time for fast page loads
+
+### All Category Pages
+
+| Category | URL | Type | Priority |
+|----------|-----|------|----------|
+| 🍻 Bars in Maginhawa | `/bars-in-maginhawa` | Amenity | 0.85 |
+| ☕ Coffee Shops | `/coffee-shops-in-maginhawa` | Cuisine | 0.90 |
+| 🇵🇭 Filipino Restaurants | `/filipino-restaurants-in-maginhawa` | Cuisine | 0.85 |
+| 🍱 Japanese Restaurants | `/japanese-restaurants-in-maginhawa` | Cuisine | 0.80 |
+| 🇰🇷 Korean Restaurants | `/korean-restaurants-in-maginhawa` | Cuisine | 0.80 |
+| 🍝 Italian Restaurants | `/italian-restaurants-in-maginhawa` | Cuisine | 0.75 |
+| 🍕 Pizza Places | `/pizza-in-maginhawa` | Cuisine | 0.85 |
+| 🥡 Chinese Restaurants | `/chinese-restaurants-in-maginhawa` | Cuisine | 0.80 |
+| 🍔 Burger Joints | `/burger-joints-in-maginhawa` | Cuisine | 0.80 |
+| 🥪 Breakfast & Brunch | `/breakfast-brunch-in-maginhawa` | Experience | 0.75 |
+| 🍜 Vietnamese Restaurants | `/vietnamese-restaurants-in-maginhawa` | Cuisine | 0.70 |
+| 🌮 Mexican Restaurants | `/mexican-restaurants-in-maginhawa` | Cuisine | 0.70 |
+| 🍛 Thai Restaurants | `/thai-restaurants-in-maginhawa` | Cuisine | 0.70 |
+| 🍦 Desserts & Ice Cream | `/desserts-ice-cream-in-maginhawa` | Cuisine | 0.75 |
+| 🍗 Fried Chicken | `/fried-chicken-in-maginhawa` | Cuisine | 0.75 |
+| 🐾 Pet-Friendly Places | `/pet-friendly-restaurants-in-maginhawa` | Amenity | 0.80 |
+| 📶 Places with WiFi | `/wifi-cafes-in-maginhawa` | Amenity | 0.85 |
+| 🌳 Outdoor Seating | `/outdoor-seating-in-maginhawa` | Amenity | 0.70 |
+| 💰 Budget-Friendly Eats | `/budget-restaurants-in-maginhawa` | Price | 0.85 |
+| 🌙 Late-Night Dining | `/late-night-dining-in-maginhawa` | Experience | 0.80 |
+| 💑 Romantic Date Spots | `/romantic-date-spots-in-maginhawa` | Experience | 0.75 |
+| 👨‍👩‍👧‍👦 Family-Friendly | `/family-friendly-restaurants-in-maginhawa` | Experience | 0.70 |
+| 📸 Instagram-Worthy Spots | `/instagram-worthy-spots-in-maginhawa` | Experience | 0.75 |
+| 🥗 Vegetarian & Vegan | `/vegetarian-vegan-in-maginhawa` | Cuisine | 0.70 |
+| 🎉 Group Dining | `/group-dining-in-maginhawa` | Experience | 0.70 |
+
+### Implementation Details
+- **Dynamic Route**: `apps/web/src/app/[category]/page.tsx`
+- **Configuration**: `apps/web/src/lib/categories.ts`
+- **Types**: `apps/web/src/types/category.ts`
+- **Filtering**: Keyword-based search across all place metadata
+- **Generation**: Static generation via `generateStaticParams()` at build time
+- **SEO**: Dynamic metadata via `generateMetadata()` for each category
 
 ## 🤝 Contributing
 

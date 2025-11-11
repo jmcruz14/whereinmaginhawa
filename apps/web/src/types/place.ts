@@ -184,6 +184,7 @@ export interface Place {
 // Search and filter types
 export interface SearchFilters {
   query?: string;
+  keywords?: string[]; // Search across tags, amenities, cuisineTypes, and specialties
   tags?: string[];
   amenities?: string[];
   cuisineTypes?: string[];

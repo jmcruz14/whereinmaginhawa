@@ -66,6 +66,18 @@ export function searchPlaces(filters: SearchFilters): SearchResult {
     results = searchResults.map((result) => result.item);
   }
 
+  // Filter by keywords (searches across tags, amenities, cuisineTypes, and specialties)
+  if (filters.keywords && filters.keywords.length > 0) {
+    results = results.filter((place) =>
+      filters.keywords!.some((keyword) =>
+        place.tags.includes(keyword) ||
+        place.amenities.includes(keyword) ||
+        place.cuisineTypes.includes(keyword) ||
+        place.specialties.includes(keyword)
+      )
+    );
+  }
+
   // Filter by tags
   if (filters.tags && filters.tags.length > 0) {
     results = results.filter((place) =>

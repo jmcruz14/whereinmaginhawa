@@ -290,6 +290,21 @@ You should **ONLY** create or edit files in:
 
 - ✅ `apps/web/src/data/places/[slug].json`
 
+### 🔍 SEO Category Pages
+
+Your place will automatically appear on relevant category pages based on its metadata! We have 25 SEO-optimized category pages like:
+- `/bars-in-maginhawa`
+- `/coffee-shops-in-maginhawa`
+- `/instagram-worthy-spots-in-maginhawa`
+- And 22 more...
+
+**How it works**: Category pages search across your place's `tags`, `amenities`, `cuisineTypes`, and `specialties` fields. For example:
+- Add `"cuisineTypes": ["italian"]` → appears on `/italian-restaurants-in-maginhawa`
+- Add `"amenities": ["wifi"]` → appears on `/wifi-cafes-in-maginhawa`
+- Add `"tags": ["pet-friendly"]` → appears on `/pet-friendly-restaurants-in-maginhawa`
+
+**You don't need to do anything special** - just fill in your place data accurately and it will automatically show up on the right category pages!
+
 ## Need Help?
 
 - Check existing place files for examples

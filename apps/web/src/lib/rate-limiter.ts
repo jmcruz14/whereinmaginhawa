@@ -16,7 +16,7 @@ interface RateLimitConfig {
 }
 
 const DEFAULT_CONFIG: RateLimitConfig = {
-  limit: 5, // 5 requests
+  limit: 20, // 20 requests
   windowMs: 60 * 60 * 1000, // per hour
 };
 
