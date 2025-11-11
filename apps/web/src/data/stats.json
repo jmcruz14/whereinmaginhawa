@@ -1,6 +1,6 @@
 {
-  "totalPlaces": 192,
-  "uniqueCuisines": 92,
+  "totalPlaces": 189,
+  "uniqueCuisines": 91,
   "uniqueAmenities": 55,
   "uniqueTags": 253,
   "priceRanges": [
@@ -20,7 +20,6 @@
   ],
   "cuisineTypes": [
     "american",
-    "american-filipino",
     "arab",
     "asian",
     "bakery",
@@ -424,5 +423,5 @@
     "wood-fired",
     "work-friendly"
   ],
-  "generatedAt": "2025-11-11T12:40:58.694Z"
+  "generatedAt": "2025-11-11T12:43:07.862Z"
 }
