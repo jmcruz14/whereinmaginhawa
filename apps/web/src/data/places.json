@@ -2933,40 +2933,6 @@
     "createdBy": "Joff Tiquez"
   },
   {
-    "id": "0d5eb366-99e7-47e1-bd34-6f05962cb81b",
-    "name": "Pino Resto Bar",
-    "slug": "pino-resto-bar",
-    "description": "Gastropub combining Filipino flavors with international bar food concepts. Features craft cocktails, local beers, and creative bar chow in a trendy, relaxed setting popular with young professionals.",
-    "address": "Malingap Street, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$$",
-    "tags": [
-      "bar",
-      "gastropub",
-      "nightlife",
-      "late-night"
-    ],
-    "amenities": [
-      "bar",
-      "outdoor-seating",
-      "dine-in",
-      "delivery"
-    ],
-    "cuisineTypes": [
-      "filipino-fusion",
-      "bar-food",
-      "international"
-    ],
-    "specialties": [
-      "craft-cocktails",
-      "bar-chow",
-      "wings",
-      "nachos"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "c39541bf-0fe6-4dd3-a51a-43f674f73ca1",
     "name": "Pipino Vegetarian",
     "slug": "pipino-vegetarian",

@@ -1,6 +1,6 @@
 {
-  "totalPlaces": 184,
-  "uniqueCuisines": 91,
+  "totalPlaces": 183,
+  "uniqueCuisines": 90,
   "uniqueAmenities": 52,
   "uniqueTags": 248,
   "priceRanges": [
@@ -54,7 +54,6 @@
     "european",
     "fast-food",
     "filipino",
-    "filipino-fusion",
     "french",
     "fusion",
     "gastropub",
@@ -417,5 +416,5 @@
     "wood-fired",
     "work-friendly"
   ],
-  "generatedAt": "2025-11-11T16:36:12.331Z"
+  "generatedAt": "2025-11-12T06:14:24.548Z"
 }
