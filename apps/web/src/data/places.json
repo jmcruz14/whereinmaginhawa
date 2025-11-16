@@ -101,38 +101,6 @@
     "createdBy": "Joff Tiquez"
   },
   {
-    "id": "6e82ed25-650e-49bc-91df-dfd0b92a8a41",
-    "name": "Baliwag Lechon Manok",
-    "slug": "baliwag-lechon-manok",
-    "description": "A popular Filipino restaurant chain famous for their roasted chicken and liempo. Known for consistent quality, affordable prices, and signature lechon manok that's crispy on the outside and juicy inside.",
-    "address": "Maginhawa St, Teacher's Village, Quezon City",
-    "coverImageUrl": "",
-    "priceRange": "$",
-    "tags": [
-      "filipino",
-      "roasted-chicken",
-      "budget-friendly",
-      "family-friendly",
-      "chain"
-    ],
-    "amenities": [
-      "dine-in",
-      "takeout",
-      "delivery"
-    ],
-    "cuisineTypes": [
-      "filipino"
-    ],
-    "specialties": [
-      "lechon-manok",
-      "liempo",
-      "roasted-chicken",
-      "filipino-food"
-    ],
-    "updatedAt": "2025-11-09T00:00:00Z",
-    "createdBy": "Joff Tiquez"
-  },
-  {
     "id": "3fb951ea-e194-4e47-8d5a-44dac69a4139",
     "name": "Baliwag Lechon Manok Liempo",
     "slug": "baliwag-lechon-manok-liempo",

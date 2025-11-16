@@ -1,5 +1,5 @@
 {
-  "totalPlaces": 181,
+  "totalPlaces": 180,
   "uniqueCuisines": 89,
   "uniqueAmenities": 52,
   "uniqueTags": 248,
@@ -415,5 +415,5 @@
     "wood-fired",
     "work-friendly"
   ],
-  "generatedAt": "2025-11-14T16:25:56.693Z"
+  "generatedAt": "2025-11-16T14:12:34.066Z"
 }
