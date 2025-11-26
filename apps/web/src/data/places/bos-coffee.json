@@ -4,10 +4,10 @@
   "slug": "bos-coffee",
   "description": "A popular Filipino coffee chain offering premium coffee and pastries. Known for their high-quality beans and comfortable ambiance, Bo's Coffee provides a reliable spot for coffee lovers and remote workers.",
   "address": "Maginhawa St, Teacher's Village, Quezon City",
-  "phone": "+63 2 8441 7777",
-  "email": "",
-  "website": "https://www.boscoffee.com",
-  "coverImageUrl": "",
+  "phone": "0289428336",
+  "website": "https://www.boscoffee.com/",
+  "logoUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/bos-coffee/profile-1764169633577.blob",
+  "coverImageUrl": "https://w8jezpl1qx84ed0e.public.blob.vercel-storage.com/places/bos-coffee/cover-1764169630296.blob",
   "photosUrls": [],
   "operatingHours": {
     "monday": {
@@ -72,6 +72,13 @@
   "latitude": 14.6423,
   "longitude": 121.0632,
   "createdAt": "2025-11-09T00:00:00Z",
-  "updatedAt": "2025-11-09T00:00:00Z",
-  "createdBy": "Joff Tiquez"
+  "updatedAt": "2025-11-26T15:07:17.443Z",
+  "createdBy": "Joff Tiquez",
+  "contributors": [
+    {
+      "name": "Joff Tiquez",
+      "contributedAt": "2025-11-26T15:07:17.443Z",
+      "action": "updated"
+    }
+  ]
 }
